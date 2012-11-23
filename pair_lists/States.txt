@@ -1,0 +1,251 @@
+Category	Fact
+1	Alabama capital	Montgomery 	1
+2	Alaska capital	Juneau 	1
+3	Arizona capital	Phoenix 	1
+4	Arkansas capital	Little Rock 	1
+5	California capital	Sacramento 	1
+6	Colorado capital	Denver 	1
+7	Connecticut capital	Hartford 	1
+8	Delaware capital	Dover 	1
+9	Florida capital	Tallahassee 	1
+10	Georgia capital	Atlanta 	1
+11	Hawaii capital	Honolulu 	1
+12	Idaho capital	Boise 	1
+13	Illinois capital	Springfield 	1
+14	Indiana capital	Indianapolis 	1
+15	Iowa capital	Des Moines 	1
+16	Kansas capital	Topeka 	1
+17	Kentucky capital	Frankfort 	1
+18	Louisiana capital	Baton Rouge 	1
+19	Maine capital	Augusta 	1
+20	Maryland capital	Annapolis 	1
+21	Massachusetts capital	Boston 	1
+22	Michigan capital	Lansing 	1
+23	Minnesota capital	St. Paul 	1
+24	Mississippi capital	Jackson 	1
+25	Missouri capital	Jefferson City 	1
+26	Montana capital	Helena 	1
+27	Nebraska capital	Lincoln 	1
+28	Nevada capital	Carson City 	1
+29	New Hampshire capital	Concord 	1
+30	New Jersey capital	Trenton 	1
+31	New Mexico capital	Santa Fe 	1
+32	New York capital	Albany 	1
+33	North Carolina capital	Raleigh 	1
+34	North Dakota capital	Bismarck 	1
+35	Ohio capital	Columbus 	1
+36	Oklahoma capital	Oklahoma City 	1
+37	Oregon capital	Salem 	1
+38	Pennsylvania capital	Harrisburg 	1
+39	Rhode Island capital	Providence 	1
+40	South Carolina capital	Columbia 	1
+41	South Dakota capital	Pierre 	1
+42	Tennessee capital	Nashville 	1
+43	Texas capital	Austin 	1
+44	Utah capital	Salt Lake City 	1
+45	Vermont capital	Montpelier 	1
+46	Virginia capital	Richmond 	1
+47	Washington capital	Olympia 	1
+48	West Virginia capital	Charleston 	1
+49	Wisconsin capital	Madison 	1
+50	Wyoming capital	Cheyenne 	1
+51	Alabama postal code	AL 	2
+52	Alaska postal code	AK 	2
+53	Arizona postal code	AZ 	2
+54	Arkansas postal code	AR 	2
+55	California postal code	CA 	2
+56	Colorado postal code	CO 	2
+57	Connecticut postal code	CT 	2
+58	Delaware postal code	DE 	2
+59	Florida postal code	FL 	2
+60	Georgia postal code	GA 	2
+61	Hawaii postal code	HI 	2
+62	Idaho postal code	ID 	2
+63	Illinois postal code	IL 	2
+64	Indiana postal code	IN 	2
+65	Iowa postal code	IA 	2
+66	Kansas postal code	KS 	2
+67	Kentucky postal code	KY 	2
+68	Louisiana postal code	LA 	2
+69	Maine postal code	ME 	2
+70	Maryland postal code	MD 	2
+71	Massachusetts postal code	MA 	2
+72	Michigan postal code	MI 	2
+73	Minnesota postal code	MN 	2
+74	Mississippi postal code	MS 	2
+75	Missouri postal code	MO 	2
+76	Montana postal code	MT 	2
+77	Nebraska postal code	NE 	2
+78	Nevada postal code	NV 	2
+79	New Hampshire postal code	NH 	2
+80	New Jersey postal code	NJ 	2
+81	New Mexico postal code	NM 	2
+82	New York postal code	NY 	2
+83	North Carolina postal code	NC 	2
+84	North Dakota postal code	ND 	2
+85	Ohio postal code	OH 	2
+86	Oklahoma postal code	OK 	2
+87	Oregon postal code	OR 	2
+88	Pennsylvania postal code	PA 	2
+89	Rhode Island postal code	RI 	2
+90	South Carolina postal code	SC 	2
+91	South Dakota postal code	SD 	2
+92	Tennessee postal code	TN 	2
+93	Texas postal code	TX 	2
+94	Utah postal code	UT 	2
+95	Vermont postal code	VT 	2
+96	Virginia postal code	VA 	2
+97	Washington postal code	WA 	2
+98	West Virginia postal code	WV 	2
+99	Wisconsin postal code	WI 	2
+100	Wyoming postal code	WY 	2
+101	Alabama 1999 population	4.3 million	3
+102	Alaska 1999 population	620,000	3
+103	Arizona 1999 population	4.8 million	3
+104	Arkansas 1999 population	2.6 million	3
+105	California 1999 population	33.1 million	3
+106	Colorado 1999 population	4.1 million	3
+107	Connecticut 1999 population	3.3 million	3
+108	Delaware 1999 population	750,000	3
+109	Florida 1999 population	15.1 million	3
+110	Georgia 1999 population	7.8 million	3
+111	Hawaii 1999 population	1.2 million	3
+112	Idaho 1999 population	1.3 million	3
+113	Illinois 1999 population	12.1 million	3
+114	Indiana 1999 population	6.0 million	3
+115	Iowa 1999 population	2.9 million	3
+116	Kansas 1999 population	2.7 million	3
+117	Kentucky 1999 population	4.0 million	3
+118	Louisiana 1999 population	4.4 million	3
+119	Maine 1999 population	1.3 million	3
+120	Maryland 1999 population	5.2 million	3
+121	Massachusetts 1999 population	6.2 million	3
+122	Michigan 1999 population	9.9 million	3
+123	Minnesota 1999 population	4.8 million	3
+124	Mississippi 1999 population	2.8 million	3
+125	Missouri 1999 population	5.5 million	3
+126	Montana 1999 population	880,000	3
+127	Nebraska 1999 population	1.7 million	3
+128	Nevada 1999 population	1.8 million	3
+129	New Hampshire 1999 population	1.2 million	3
+130	New Jersey 1999 population	8.1 million	3
+131	New Mexico 1999 population	1.7 million	3
+132	New York 1999 population	18.2 million	3
+133	North Carolina 1999 population	7.7 million	3
+134	North Dakota 1999 population	630,000	3
+135	Ohio 1999 population	11.3 million	3
+136	Oklahoma 1999 population	3.4 million	3
+137	Oregon 1999 population	3.3 million	3
+138	Pennsylvania 1999 population	12.0 million	3
+139	Rhode Island 1999 population 	990,000	3
+140	South Carolina 1999 population	3.9 million	3
+141	South Dakota 1999 population	730,000	3
+142	Tennessee 1999 population	5.5 million	3
+143	Texas 1999 population	20.0 million	3
+144	Utah 1999 population	2.1 million	3
+145	Vermont 1999 population	590,000	3
+146	Virginia 1999 population	6.9 million	3
+147	Washington 1999 population	5.8 million	3
+148	West Virginia 1999 population	1.8 million	3
+149	Wisconsin 1999 population	5.3 million	3
+150	Wyoming 1999 population	480,000	3
+151	Alabama area (square miles)	51,000	4
+152	Alaska area (square miles)	570,000	4
+153	Arizona area (square miles)	114,000	4
+154	Arkansas area (square miles)	52,000	4
+155	California area (square miles)	156,000	4
+156	Colorado area (square miles)	104,000	4
+157	Connecticut area (square miles)	4800	4
+158	Delaware area (square miles)	2000	4
+159	Florida area (square miles)	54,000	4
+160	Georgia area (square miles)	58,000	4
+161	Hawaii area (square miles)	6400	4
+162	Idaho area (square miles)	83,000	4
+163	Illinois area (square miles)	56,000	4
+164	Indiana area (square miles)	36,000	4
+165	Iowa area (square miles)	56,000	4
+166	Kansas area (square miles)	82,000	4
+167	Kentucky area (square miles)	40,000	4
+168	Louisiana area (square miles)	44,000	4
+169	Maine area (square miles)	31,000	4
+170	Maryland area (square miles)	9800	4
+171	Massachusetts area (square miles)	7800	4
+172	Michigan area (square miles)	57,000	4
+173	Minnesota area (square miles)	80,000	4
+174	Mississippi area (square miles)	47,000	4
+175	Missouri area (square miles)	69,000	4
+176	Montana area (square miles)	146,000	4
+177	Nebraska area (square miles)	77,000	4
+178	Nevada area (square miles)	110,000	4
+179	New Hampshire area (square miles)	9000	4
+180	New Jersey area (square miles)	7400	4
+181	New Mexico area (square miles)	121,000	4
+182	New York area (square miles)	47,000	4
+183	North Carolina area (square miles)	49,000	4
+184	North Dakota area (square miles)	69,000	4
+185	Ohio area (square miles)	41,000	4
+186	Oklahoma area (square miles)	69,000	4
+187	Oregon area (square miles)	96,000	4
+188	Pennsylvania area (square miles)	45,000	4
+189	Rhode Island area (square miles)	1000	4
+190	South Carolina area (square miles)	30,000	4
+191	South Dakota area (square miles)	76,000	4
+192	Tennessee area (square miles)	41,000	4
+193	Texas area (square miles)	262,000	4
+194	Utah area (square miles)	82,000	4
+195	Vermont area (square miles)	9200	4
+196	Virginia area (square miles)	40,000	4
+197	Washington area (square miles)	67,000	4
+198	West Virginia area (square miles)	24,000	4
+199	Wisconsin area (square miles)	54,000	4
+200	Wyoming area (square miles)	97,000	4
+201	Alabama statehood year	1819	5
+202	Alaska statehood year	1959	5
+203	Arizona statehood year	1912	5
+204	Arkansas statehood year	1836	5
+205	California statehood year	1850	5
+206	Colorado statehood year	1876	5
+207	Connecticut statehood year	1788	5
+208	Delaware  statehood year	1787	5
+209	Florida statehood year	1845	5
+210	Georgia statehood year	1788	5
+211	Hawaii statehood year	1959	5
+212	Idaho statehood year	1890	5
+213	Illinois statehood year	1818	5
+214	Indiana statehood year	1816	5
+215	Iowa statehood year	1846	5
+216	Kansas statehood year	1861	5
+217	Kentucky statehood year	1792	5
+218	Louisiana statehood year	1812	5
+219	Maine statehood year	1820	5
+220	Maryland statehood year	1788	5
+221	Massachusetts statehood year	1788	5
+222	Michigan statehood year	1837	5
+223	Minnesota statehood year	1858	5
+224	Mississippi statehood year	1817	5
+225	Missouri statehood year	1821	5
+226	Montana statehood year	1889	5
+227	Nebraska statehood year	1867	5
+228	Nevada statehood year	1864	5
+229	New Hampshire statehood year	1788	5
+230	New Jersey statehood year	1787	5
+231	New Mexico statehood year	1912	5
+232	New York statehood year	1788	5
+233	North Carolina statehood year	1789	5
+234	North Dakota statehood year	1889	5
+235	Ohio statehood year	1803	5
+236	Oklahoma statehood year	1907	5
+237	Oregon statehood year	1859	5
+238	Pennsylvania statehood year	1787	5
+239	Rhode Island statehood year	1790	5
+240	South Carolina statehood year	1788	5
+241	South Dakota statehood year	1889	5
+242	Tennessee statehood year	1796	5
+243	Texas statehood year	1845	5
+244	Utah statehood year	1896	5
+245	Vermont statehood year	1791	5
+246	Virginia statehood year	1788	5
+247	Washington statehood year	1889	5
+248	West Virginia statehood year	1863	5
+249	Wisconsin statehood year	1848	5
+250	Wyoming statehood year	1890	5
