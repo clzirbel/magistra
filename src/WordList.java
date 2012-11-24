@@ -97,7 +97,6 @@ public void setPriorities(int PriorityType) {
 		WordPair WP = this.getPair(Indices[i]);
 		String ud = WP.getUserData();
 		int g = WP.getGroup();
-		r = (float)Math.random()-(float)0.5;
 
         if      (ud.endsWith("-"))     priority = (float)0.3;
         else if (ud.endsWith("+++++")) priority = (float)-0.3;
@@ -114,15 +113,20 @@ public void setPriorities(int PriorityType) {
         // give higher priority to words that have been missed recently
         // how to make it skip words in a group that are already known, and go on to the next group?
         
-        if (PriorityType > 0) {
+        if (PriorityType > 0) {                               // work on all pairs in group g
         	priority = priority + 1000 - ((g-PriorityType+1000) % 1000);
 		}
 		else if (PriorityType < 0) {
-		    if (priority > 0)                 // omit all ++ pairs
+		    if (priority > 0)                                 // work on group g, omit all ++ pairs
 		    	priority = priority + 1000 - ((g+PriorityType+1000) % 1000);
 		}
+	    else if (PriorityType == 0) {                         // work on words that are known
+	    	if (ud.endsWith("++"))  priority = (float)0.0;
+	    	else                    priority = (float)-1000;
+	    }
 
-	// if PriorityType == 0, group plays no role; random from whole list
+
+        r = (float)Math.random()-(float)0.5;
 
         priority = priority + r*r;            // randomize a little
 	WP.setPriority(priority);
