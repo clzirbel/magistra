@@ -12,8 +12,12 @@ public class WordPair extends Object {
    private char FirstResult = '?';
 
    public WordPair( String W1, String W2, int G ) {
-       this.Word[0] = W1;
-       this.Word[1] = W2;
+	   if ((W1.charAt(0) == '"') & (W1.charAt(W1.length()-1)=='"'))
+		   W1 = W1.replaceAll("\"", "");
+	   if ((W2.charAt(0) == '"') & (W2.charAt(W2.length()-1)=='"'))
+		   W2 = W2.replaceAll("\"", "");
+	   this.Word[0] = W1;        // remove double quotes
+       this.Word[1] = W2;        // remove double quotes
        this.PartOfSpeech = "Unknown";
        this.Group = G;
    }

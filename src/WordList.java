@@ -121,8 +121,8 @@ public void setPriorities(int PriorityType) {
 		    	priority = priority + 1000 - ((g+PriorityType+1000) % 1000);
 		}
 	    else if (PriorityType == 0) {                         // work on words that are known
-	    	if (ud.endsWith("++"))  priority = (float)0.0;
-	    	else                    priority = (float)-1000;
+	    	if (priority > 0)
+	    		priority = priority - 1;
 	    }
 
 
