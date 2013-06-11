@@ -98,12 +98,13 @@ public void setPriorities(int PriorityType) {
 		String ud = WP.getUserData();
 		int g = WP.getGroup();
 
-        if      (ud.endsWith("-"))     priority = (float)0.3;
+        if      (ud.endsWith("-"))     priority = (float)0.3;    // most recently gotten wrong
+        else if (ud.endsWith("P"))     priority = (float)0.3;    // has been presented but not practiced
         else if (ud.endsWith("+++++")) priority = (float)-0.3;
         else if (ud.endsWith("++++"))  priority = (float)-0.2;
         else if (ud.endsWith("+++"))   priority = (float)-0.1;
         else if (ud.endsWith("++"))    priority = (float)0.0;
-        else if (ud.endsWith("+"))     priority = (float)0.1;
+        else if (ud.endsWith("+"))     priority = (float)0.1;    // got right the last time
         else if (ud.endsWith("f"))     priority = (float)-1000;  // skip forever
         else                           priority = (float)0.2;
 
