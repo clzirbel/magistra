@@ -80,6 +80,6 @@ public class Practice {
 
     frame.pack();
     frame.show();
-
+    
     }
 }

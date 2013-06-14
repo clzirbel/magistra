@@ -2,6 +2,7 @@
 import java.io.*;
 import java.util.*;
 
+
 public class WordList {
     private String Filename;
     private String[] Language = new String[2];
@@ -10,7 +11,6 @@ public class WordList {
     private int[] Order;
     private int numPairs;
     private String[] Selected;
-    private int numSelected;
     private String UserDataFilename;
     private int numKnown = 0;
 
@@ -130,7 +130,7 @@ public void setPriorities(int PriorityType) {
         r = (float)Math.random()-(float)0.5;
 
         priority = priority + r*r;            // randomize a little
-	WP.setPriority(priority);
+        WP.setPriority(priority);
     }
 }
 
@@ -232,6 +232,7 @@ public void setPriorities(int PriorityType) {
     public String[] getAllIndices() { return Indices; };
     public String getLanguage(int L) { return Language[L]; };
     public int getNumPairs() { return numPairs; };
+    public int getNumToPractice() { return Order.length; };
     public void changeNumKnown(int C) { numKnown += C; };
     public int getNumKnown() { return numKnown; };
     public String getIndex(int n) {
@@ -251,4 +252,22 @@ public void setPriorities(int PriorityType) {
 	}
         return m;
     }
+
+    public void revisitLater(int n, int L) {
+    	int[] NewOrder = new int[Order.length+1];
+    	int M;
+    	M = (int) (n+Math.round(L - 1 + 4*Math.random()));                                     // new position for this item
+    	                                             // later, make this random with mean L
+    	if (M > Order.length)
+    		M = Order.length;
+    	for (int i=0; i < M; i++) {
+    		NewOrder[i] = Order[i];
+    	}
+    	NewOrder[M] = Order[n];                      // duplicate this value
+    	for (int i=M; i < Order.length; i++) {
+    		NewOrder[i+1] = Order[i];
+    	}
+    	Order = NewOrder;
+    }
+
 }
