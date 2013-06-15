@@ -63,12 +63,16 @@ public class UserData {
     public static int evaluatePairData(String pairData) {
     	
     	int s = 0;
+
+    	pairData = pairData.replace("#", "");      // just in case it has been practiced the other direction too
     	
     	if (pairData.equals("+"))
     		s = 1;
     	if (pairData.endsWith("++"))
     		s = 1;
-
+    	if (pairData.endsWith("P+"))               // previewed, then right
+    		s = 1;
+    	
     	return s;
     }
 }

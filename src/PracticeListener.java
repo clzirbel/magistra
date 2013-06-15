@@ -13,6 +13,7 @@ class PracticeListener implements ActionListener {
     private JTextField input;
     boolean ReadyForNextPair = false;
     boolean CurrentPreview = false;
+    int NumTries = 0;
     
     PracticeListener ( WordList WL, int n, int L, WordPair WP, JLabel baseLang, JLabel baseWord, JLabel foreignLang, JTextField input, JLabel status, JLabel help) {
 		this.WL = WL;
@@ -51,36 +52,39 @@ class PracticeListener implements ActionListener {
 		 }
 		 else if (WP.compareStrings( 1-L, inputString.getText()))    // correct answer
 		 {
-			 if ((L==0) && (WP.getNumTries() == 0)) {                    // correct answer on first attempt
-		    	 WP.setFirstResult('+');
+			 if ((L==0) && (NumTries == 0)) {                    // correct answer on first attempt
 	           	 WL.changeNumKnown(UserData.evaluatePairData(WP.getUserData()+"+")-UserData.evaluatePairData(WP.getUserData()));
+		    	 WP.modifyPairData("+");
 		     }
-		     else if (WP.getNumTries() == 0) {        // correct answer, but translating the "easy" direction
-		    	 WP.setFirstResult('#');
+		     else if (NumTries == 0) {                           // correct answer, but translating the "easy" direction
+		    	 WP.modifyPairData("#");
 	         }
 		     else {
-		    	 WL.revisitLater(n,10);
+		    	 WL.revisitLater(n,10);                          // correct answer on later attempt
 		     }
 			 ReadyForNextPair = true;
 		 }
-	     else {                                  // incorrect answer
+	     else {                                                  // incorrect answer
 	     if (L==0) {
-               WP.setFirstResult('-');
-               WL.changeNumKnown(UserData.evaluatePairData(WP.getUserData()+"-")-UserData.evaluatePairData(WP.getUserData()));
-               ReadyForNextPair = false;
+	    	 if (NumTries == 0) {
+		    	 WL.changeNumKnown(UserData.evaluatePairData(WP.getUserData()+"-")-UserData.evaluatePairData(WP.getUserData()));
+	             WP.modifyPairData("-");
+	    	 }
 	     }
-	     else WP.setFirstResult('=');
-	      WP.registerTry();
-          input.setText("");
-          help.setText(WP.getWord(1-L));
-          ReadyForNextPair = false;
-	  //          long startTime = System.currentTimeMillis();
-	  //          while (System.currentTimeMillis() < startTime + 1);
-	}
+	     else if (NumTries == 0) WP.modifyPairData("=");
+
+         input.setText("");
+         help.setText(WP.getWord(1-L));
+         ReadyForNextPair = false;
+	     //          long startTime = System.currentTimeMillis();
+         //          while (System.currentTimeMillis() < startTime + 1);
+	     }
+		 NumTries++;
 	}
 
     if (ReadyForNextPair) {
 	    n++;
+	    NumTries = 0;
 	    if (n >= WL.getNumToPractice()) {
 	    	WL.writeUserData();
 	        System.exit(0);
@@ -89,10 +93,10 @@ class PracticeListener implements ActionListener {
         baseLang.setText(WL.getLanguage(L));
         baseWord.setText(WP.getWord(L));
         foreignLang.setText(WL.getLanguage(1-L));
-        if (WP.getUserData().length() == 0 & WP.getFirstResult() == '?') {
+        if (WP.getUserData().length() == 0) {
         	input.setText(WP.getWord(1-L));
-        	help.setText("Preview; study it and hit Enter");
-        	WP.setFirstResult('P');                               // previewed
+        	help.setText("Preview: study it and hit Enter");
+        	WP.modifyPairData("P");                               // previewed
         	WL.revisitLater(n, 5);                                // queue up to revisit later
         	CurrentPreview = true;
         }
