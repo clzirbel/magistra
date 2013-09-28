@@ -46,10 +46,6 @@ class DictionaryListener implements TextListener {
 				current++;
 			    }
 		    }
-		    System.out.println("Found these indices: ");
-		    for (int w=0; w < numfound; w++)
-		    	System.out.print(foundarray[w]+" ");
-		    System.out.println("");
 	    }
 	    else if (tf.equals(foreignWord) & text.length() > 0) {
 		    while ((numfound < 20) & (current < WL.getNumPairs())) {
