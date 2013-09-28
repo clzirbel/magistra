@@ -197,11 +197,11 @@ public void setPriorities(int PriorityType) {
     out.print(Language[0]+"\t"+Language[1]+"\n");
     for (int i=0; i < numPairs; i++) {
         	WordPair WP = this.getPair(Indices[i]);
-        	if (!(WP.getGroup() == -1)) {
-        	out.print(Indices[i] + "\t");
-            out.print(WP.getWord(0)+"\t");
-            out.print(WP.getWord(1)+"\t");
-            out.print(WP.getGroup()+"\n");
+        	if (WP.getRemoved() == false) {
+	        	out.print(Indices[i] + "\t");
+	            out.print(WP.getWord(0)+"\t");
+	            out.print(WP.getWord(1)+"\t");
+	            out.print(WP.getGroup()+"\n");
         	}
         	}
     out.close();
@@ -214,16 +214,25 @@ public void setPriorities(int PriorityType) {
     // methods for accessing data in WordList
 
     public String toString() { return Language[0] + " | " + Language[1]; };
-    public WordPair getPair(String Index) { return  (WordPair)PairTable.get( Index ); };
+    public WordPair getPair(String Index) { return  (WordPair)PairTable.get(Index); };
+    public WordPair getSelectedPair(int n) { 
+        return  (WordPair)PairTable.get( Selected[Order[n]] ); };
+    public WordPair getPairByNumber(int n) { 
+        return  (WordPair)PairTable.get( Indices[n] ); };
     public void putPair(String Index, WordPair np) { 
       PairTable.put(Index, np);     };
-      public void removePair(String Index) {
-      	PairTable.remove(Index);
-      }
-      public void setIndex(int n) {
-      	Indices[n] = "Removed";
-      }
-      public void addPair(String Index, WordPair np) { 
+    public void removePair(String Index) {
+        WordPair WP = getPair(Index);
+        WP.setRemoved(true);
+	}
+    public void removePair(int number) {
+    	WordPair WP = getPairByNumber(number);
+        WP.setRemoved(true);
+	}
+    public void setIndex(int n) {
+      Indices[n] = "Removed";
+    }
+    public void addPair(String Index, WordPair np) { 
       PairTable.put(Index, np); 
       Indices[numPairs] = Index;
       numPairs++;
@@ -238,10 +247,6 @@ public void setPriorities(int PriorityType) {
     public String getIndex(int n) {
     	return Indices[n];
     }
-    public WordPair getSelectedPair(int n) { 
-      return  (WordPair)PairTable.get( Selected[Order[n]] ); };
-    public WordPair getPairByNumber(int n) { 
-      return  (WordPair)PairTable.get( Indices[n] ); };
     public int getMaxIndex() {
 	int m = 0;
         for (int i=0; i < numPairs; i++) {

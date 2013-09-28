@@ -10,6 +10,7 @@ public class WordPair extends Object {
    private int NumTries = 0;
    private float priority = 0;
    private char FirstResult = '?';
+   private boolean removed = false;
 
    public WordPair( String W1, String W2, int G ) {
 	   if ((W1.charAt(0) == '"') & (W1.charAt(W1.length()-1)=='"'))
@@ -26,9 +27,11 @@ public class WordPair extends Object {
    public String getWord(int L) { return Word[L]; };
    public String getPOS() { return PartOfSpeech; };
    public int getGroup() { return Group; };
-   public void setGroup(int n) {
-   	Group = n;
-   }
+   public void setGroup(int n) { Group = n; };
+   public void setBaseWord(String newword) {Word[0] = newword;}
+   public void setForeignWord(String newword) {Word[1] = newword;}
+   public void setRemoved(boolean r) { removed = r; }
+   public boolean getRemoved() {return removed;}
    public String getUserData() { return UserData; };
    public void modifyPairData(String ns) { UserData = UserData + ns; };
    public boolean compareStrings(int L, String A) { 
