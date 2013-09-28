@@ -624,7 +624,7 @@ English	German
 2490	to try	versuchen	40
 2693	you see	du siehst	40
 1417	dog	der Hund	42
-2280	snout	die Schnauze; der Rüssel	42
+2280	snout	die Schnauze; der Rüssel	95
 2510	eagle	der Adler	42
 2511	ape; monkey	der Affe	42
 2515	ant	die Ameise	42
@@ -686,6 +686,326 @@ English	German
 2930	shadow; shade	der Schatten	44
 2993	frost	der Reif	44
 3012	air	die Luft	44
+1214	still; yet	noch	45
+1816	finally	zuletzt; schließlich; endlich	45
+2671	nevertheless	trotzdem	45
+2754	on that; to that; at that	daran	45
+2942	voice	die Stimme	45
+2946	in; into	hinein	45
+3017	to shake	schütteln	45
+3027	single; sole	einzige	45
+3088	to lie; to say something not true	lügen	45
+3089	to repeat	wiederholen	45
+3090	to arrive	ankommen	45
+3091	worse	schlimmer	45
+3092	the same	derselbe	45
+3093	located	gelegen	45
+3094	to seal up	einschlagen	45
+3095	locked	verschlossen	45
+3096	tape; sticky tape	das Klebeband	45
+3097	exactly	genau	45
+3098	she sets	sie legt	45
+3099	he typed	er tippt	45
+3100	keyboard	die Tastatur	45
+3101	he moved; he pulled	er zog	45
+3102	awake	wach	45
+3103	not yet	noch nicht	45
+3104	he made	er hat gemacht	45
+3105	to sip	nippen	45
+3106	to swallow	schlucken	45
+3107	somehow	irgenwie	45
+3108	best	beste	45
+3109	the day after tomorrow	übermorgen	45
+3110	peacefully	friedlich	45
+3111	to allow	gönnen	45
+3112	to spend time	verbringen	45
+3113	though	obwohl	45
+3114	in case	Falls	45
+3115	as	genauso	45
+3116	astonished	erstaunt	45
+3117	secret	heimlichen	45
+3118	hidden	versteckt	45
+3119	anyway	sowieso	45
+3120	always	stets	45
+3121	the more	desto	45
+3122	sidewalk	der Bürgersteig	45
+3123	immediately	unmittelbar	45
+3124	once; as soon as	sobald	45
+3125	numerous	zahlreichen	45
+3126	soap	die Seife	45
+3127	hastily	hastig	45
+3128	therefore	also	45
+3129	to pick up	aufheben	45
+3130	flat	platt	45
+3131	open	öffne	45
+3132	drawer	die Schublade	45
+3133	all around	rundherum	45
+3134	apart	auseinander	45
+1399	namely; that is to say	nämlich	46
+2205	that (relative clause)	dass	46
+2284	otherwise; normally	sonst	46
+2652	of them; from which	davon	46
+2674	probably	wahrscheinlich	46
+2970	there; thereabouts	dort	46
+3135	thunder	der Donner	46
+3136	oneself	sich selbst	46
+3137	dreadful	grause	46
+3138	so that; with that	damit	46
+3139	silent	still	46
+3140	easier	leichter	46
+3141	real	wahr	46
+3142	world	die Welt	46
+3143	surely	wohl	46
+110	to discuss	diskutieren	50
+754	to press	drücken	50
+882	to answer	antworten	50
+884	to begin; to start	beginnen; anfangen	50
+886	to end	enden	50
+887	to explain	erklären	50
+889	to hang	hängen	50
+891	to lie; to be located	liegen	50
+893	to show	zeigen	50
+895	to stand	stehen	50
+950	to ride a motorcycle	Motorrad fahren	50
+962	to do crossword puzzles	Kreuzworträtsel machen	50
+968	to play computer games	Computerspiele spielen	50
+1149	to swim	schwimmen	50
+1166	to have time	Zeit haben	50
+1167	to run; to jog	laufen	50
+1177	to be correct	Recht haben	50
+1207	to feel like doing something	Lust haben	50
+1255	to celebrate	feiern	50
+1332	to marry	heiraten	50
+1341	to wish	wünschen	50
+1344	to plan	planen	50
+1394	to congratulate	gratulieren	50
+1475	to pick up (from a place)	abholen	50
+1477	to stop (doing something)	aufhören (mit)	50
+1479	to get up; to stand up	aufstehen	50
+1480	to wake up	aufwachen	50
+1481	to go out	ausgehen	50
+1482	to rest	ausruhen	50
+1485	to invite	einladen	50
+1486	to fall asleep	einschlafen	50
+1488	to come along	mitkommen	50
+1489	to take along	mitnehmen	50
+1490	to come by	vorbeikommen	50
+1491	to plan (to do)	vorhaben	50
+1492	to return; to come back	zurückkommen	50
+1493	to be permitted to; may	dürfen	50
+1521	to go for a walk	spazieren gehen	50
+1522	I'm going for a walk.	Ich gehe spazieren.	50
+1542	would like to do most	möchte am liebsten	50
+1760	to try on	anprobieren	50
+1762	to recommend	empfehlen	50
+1763	he recommends	er empfiehlt	50
+1767	to belong to	gehören	50
+1768	to believe	glauben	50
+1771	to lend; to borrow	leihen	50
+1772	to fit; to match	passen	50
+1774	to send	schicken	50
+1775	to taste (good)	schmecken	50
+1780	to pay	zahlen	50
+1953	to get; to receive	bekommen	50
+1956	to excuse	entschuldigen	50
+1959	to let; to allow	lassen	50
+1961	to lay; to put (in a lying position)	legen	50
+1963	to set; to put in a sitting position	setzen	50
+1964	to sit	sitzen	50
+1965	to place; to put (inside); to be (inside)	stecken	50
+1967	to stand up; to place; to put in a standing position	stellen	50
+1968	to wait	warten	50
+2041	to offer	anbieten	50
+2045	to bake	backen	50
+2051	to bite	beißen	50
+2053	to ask; to beg	bitten	50
+2057	to bring	bringen	50
+2067	to decide	entscheiden	50
+2073	to fall	fallen	50
+2077	to fly	fliegen	50
+2089	to win	gewinnen	50
+2092	to hold; to stop	halten	50
+2122	to name	nennen	50
+2124	to advise	raten	50
+2126	to ride	reiten	50
+2132	to close	schließen	50
+2142	to sing	singen	50
+2154	to die	sterben	50
+2166	to forget	vergessen	50
+2170	to lose	verlieren	50
+2174	to wash	waschen	50
+2182	to move; to pull	ziehen	50
+2206	to cover	decken	50
+2213	he would	er würde	50
+2219	to claim	behaupten	50
+2265	to open	öffnen; aufschlugen	50
+2269	to get; to catch	kriegen	50
+2271	he screams	er schreit	50
+2272	to get; to fetch	holen	50
+2275	to be glad	sich freuen	50
+2279	to look	schauen; gucken	50
+2313	to blow	wehen	50
+2315	to discover	entdecken	50
+2321	to growl	knurren	50
+2417	to call	rufen	50
+2423	to finish	beenden	50
+2440	to keep	behalten	50
+2443	to leave	lassen; verlassen	50
+2542	to bathe	baden	50
+2557	to build	bauen	50
+2649	to gather; to assemble	versammeln	50
+2677	to change	ändern	50
+2678	to catch	fangen	50
+2679	to load	laden	50
+2681	to collect; to gather	sammeln	50
+2683	to throw	werfen	50
+2690	I collect	ich sammle	50
+2691	you advise	du rätst	50
+2949	to obtain; to procure	besorgen	50
+2955	to turn; to revolve	drehen	50
+2957	to notice; to observe	bemerken	50
+1138	rarely	selten	52
+1144	something; a little	etwas	52
+1172	comfortable	bequem	52
+1192	far away from	weit weg von	52
+1194	free(ly)	frei	52
+1202	quite; rather	recht	52
+1209	urgent	dringend	52
+1212	just; exactly	gerade; nur	52
+1236	related to	verwandt mit	52
+1295	around (a place)	um ... herum	52
+1543	(intensifying participle used with imperatives)	doch	52
+1545	cozy; cozily	gemütlich	52
+1548	(softening participle used with imperatives)	mal	52
+1551	suspenseful; exciting	spannend	52
+1788	tender	zart	52
+1793	from; out of; made of	aus	52
+1794	at; near; with	bei	52
+1799	to; at; for	zu	52
+1801	equal	egal	52
+1804	(to/for) whom?	wem?	52
+1814	therefore	deshalb	52
+1960	Let's ...	Lass uns doch ...	52
+1970	occupied; taken	besetzt	52
+1975	separate(ly)	getrennt	52
+1976	I hope	hoffentlich	52
+1977	daily	täglich	52
+1979	full; crowded	voll	52
+1980	somewhat; rather	ziemlich	52
+1985	next to; beside	neben	52
+2207	simply	einfach	52
+2208	unbearable	unerträglich	52
+2216	quite a few	etlichen	52
+2218	even	sogar	52
+2221	useless	Nichtsnutz	52
+2224	mysterious	geheimnisvolle	52
+2225	such	solchem	52
+2232	done; at all	gar	52
+2233	odd	merkwürdig	52
+2238	for it; instead	dafür	52
+2240	thin	dünn	52
+2241	double	doppelt	52
+2243	though; certainly	allerdings	52
+2244	useful	nützlich	52
+2249	nowhere; not anywhere	nirgends; nirgendwo	52
+2250	magnificent	prächtig	52
+2254	to and fro	hin und her	52
+2255	there and back	hin und zurück	52
+2259	distant	fern	52
+2274	not at all	überhaupt nicht	52
+2278	stupid	blöd	52
+2285	dangerous	gefährlich	52
+2286	across; over	herüber	52
+2291	asleep	schlafend	52
+2305	for hours	stundenlang	52
+2308	suddenly	plötzlich	52
+2310	delicious	köstlich	52
+2329	like a shot	wie der Blitz	52
+2403	about	ungefähr	52
+2454	myself	ich selber	52
+2463	once	einmal; einst	52
+2467	poor	arm	52
+2596	bad; evil	böse	52
+2651	in no time	im Nu	52
+2653	with it	dazu	52
+2655	hard; tough	hart	52
+2656	meanwhile	inzwischen	52
+2657	something	irgendetwas	52
+2658	somewhere	irgendwo	52
+2659	ever; each	je	52
+2661	in any case	jedenfalls	52
+2662	however	jedoch	52
+2663	powerful	mächtig	52
+2664	after we talked	nachdem wir sprachen	52
+2665	nearer	näher	52
+2666	now; well (filler)	nun	52
+2668	apparent	offenbar	52
+2669	safe; certain; reliable	sicher	52
+2670	as soon as	sowie	52
+2672	by the way	übrigens	52
+2673	during	während	52
+2709	possible	allfällig	52
+2710	generally	allgemeinen	52
+2711	exclusive	ausschließlich	52
+2712	acquainted	bekannt	52
+2728	use	die Nutzung	52
+2742	basically; as a matter of principle	grundsätzlich	52
+2743	concerning	betreffend; bezüglich; hinsichtlich	52
+2744	respective	jeweiligen	52
+2745	no ___ whatsoever	keinerlei	52
+2746	overall; across the board	pauschal	52
+2760	furthermore; moreover	weiters	52
+2764	underlying	unterliegend	52
+2770	prompt(ly)	umgehend	52
+2818	actually; really	eigentlich	52
+2822	from there	daher	52
+2825	public	öffentlich	52
+2828	instant; moment; wink	der Augenblick	52
+2877	at all; actually; really	überhaupt	52
+2881	current	aktuelle	52
+2885	attainable	erreichbar	52
+2887	surprised; amazed	überrascht	52
+2900	hereupon; thereupon	daraufhin	52
+2903	real; actual	echte	52
+2918	on the way	unterwegs	52
+2933	horrible; dreadful	fürchterlich	52
+2952	bold; courageous	mutig	52
+2953	indeed	zwar	52
+2954	forth	hervor	52
+2961	just as good	genauso gut	52
+2968	thereby	dabei	52
+2969	due to; thanks to	wegen	52
+2972	until; hitherto	bisher	52
+2974	barely; hardly	kaum	52
+2976	actual; really	tatsächlich	52
+2982	finished; completed	fertig	52
+2983	funny	komisch	52
+2984	bad; wicked	schlimm	52
+2988	before	bevor	52
+2989	onto	hinaus	52
+2991	eternal	ewig	52
+2995	tight; close; narrow	eng	52
+2997	likewise; ditto; also	ebenfalls	52
+3000	anew; afresh	erneut	52
+3003	pure; absolute	rein	52
+3005	whose	dessen	52
+3016	definite	fest	52
+3022	instead of	anstatt	52
+3024	appalled; aghast	entsetzt	52
+3040	certain; positive	überzeugt	52
+3041	various	verschiedenen	52
+3043	so much the better	desto besser	52
+3048	constantly; permanently	ständig	52
+3049	gradual; gradually	allmählich	52
+3058	busy	beschäftigt	52
+3069	ready	bereit	52
+3072	it sounds	es klingt	52
+3074	there	dorthin	52
+3075	whether	ob	52
+3077	over; across	hinüber	52
+3078	over it; above it	darüber	52
+3079	over; finished; gone	vorbei	52
+3080	out of; apart from	außer	52
 199	correct	richtig	54
 220	difficult	schwer; schwierig	54
 222	easy	leicht	54
@@ -788,7 +1108,7 @@ English	German
 2904	basement	der Keller	56
 2905	stairway	der Treppenaufgang	56
 2906	steps	die Treppe	56
-2907	porch	die Vorhalle	56
+2907	porch	die Veranda; die Vorhalle	56
 2908	doorbell	die Türklingel	56
 2909	hallway	der Gang	56
 195	chair	der Stuhl	57
@@ -1029,114 +1349,6 @@ English	German
 1954	What will you have? (formal)	Was bekommen Sie?	64
 1998	Is this place free?	Ist hier noch frei?	64
 2000	food to go; take-out	zum Mitnehmen	64
-110	to discuss	diskutieren	65
-754	to press	drücken	65
-882	to answer	antworten	65
-884	to begin; to start	beginnen; anfangen	65
-886	to end	enden	65
-887	to explain	erklären	65
-889	to hang	hängen	65
-891	to lie; to be located	liegen	65
-893	to show	zeigen	65
-895	to stand	stehen	65
-950	to ride a motorcycle	Motorrad fahren	65
-962	to do crossword puzzles	Kreuzworträtsel machen	65
-968	to play computer games	Computerspiele spielen	65
-1149	to swim	schwimmen	65
-1166	to have time	Zeit haben	65
-1167	to run; to jog	laufen	65
-1177	to be correct	Recht haben	65
-1207	to feel like doing something	Lust haben	65
-1255	to celebrate	feiern	65
-1332	to marry	heiraten	65
-1341	to wish	wünschen	65
-1344	to plan	planen	65
-1394	to congratulate	gratulieren	65
-1475	to pick up (from a place)	abholen	65
-1477	to stop (doing something)	aufhören (mit)	65
-1479	to get up; to stand up	aufstehen	65
-1480	to wake up	aufwachen	65
-1481	to go out	ausgehen	65
-1482	to rest	ausruhen	65
-1485	to invite	einladen	65
-1486	to fall asleep	einschlafen	65
-1488	to come along	mitkommen	65
-1489	to take along	mitnehmen	65
-1490	to come by	vorbeikommen	65
-1491	to plan (to do)	vorhaben	65
-1492	to return; to come back	zurückkommen	65
-1493	to be permitted to; may	dürfen	65
-1521	to go for a walk	spazieren gehen	65
-1522	I'm going for a walk.	Ich gehe spazieren.	65
-1542	would like to do most	möchte am liebsten	65
-1760	to try on	anprobieren	65
-1762	to recommend	empfehlen	65
-1763	he recommends	er empfiehlt	65
-1767	to belong to	gehören	65
-1768	to believe	glauben	65
-1771	to lend; to borrow	leihen	65
-1772	to fit; to match	passen	65
-1774	to send	schicken	65
-1775	to taste (good)	schmecken	65
-1780	to pay	zahlen	65
-1953	to get; to receive	bekommen	65
-1956	to excuse	entschuldigen	65
-1959	to let; to allow	lassen	65
-1961	to lay; to put (in a lying position)	legen	65
-1963	to set; to put in a sitting position	setzen	65
-1964	to sit	sitzen	65
-1965	to place; to put (inside); to be (inside)	stecken	65
-1967	to stand up; to place; to put in a standing position	stellen	65
-1968	to wait	warten	65
-2041	to offer	anbieten	65
-2045	to bake	backen	65
-2051	to bite	beißen	65
-2053	to ask; to beg	bitten	65
-2057	to bring	bringen	65
-2067	to decide	entscheiden	65
-2073	to fall	fallen	65
-2077	to fly	fliegen	65
-2089	to win	gewinnen	65
-2092	to hold; to stop	halten	65
-2122	to name	nennen	65
-2124	to advise	raten	65
-2126	to ride	reiten	65
-2132	to close	schließen	65
-2142	to sing	singen	65
-2154	to die	sterben	65
-2166	to forget	vergessen	65
-2170	to lose	verlieren	65
-2174	to wash	waschen	65
-2182	to move; to pull	ziehen	65
-2206	to cover	decken	65
-2213	he would	er würde	65
-2219	to claim	behaupten	65
-2265	to open	öffnen; aufschlugen	65
-2269	to get; to catch	kriegen	65
-2271	he screams	er schreit	65
-2272	to get; to fetch	holen	65
-2275	to be glad	sich freuen	65
-2279	to look	schauen; gucken	65
-2313	to blow	wehen	65
-2315	to discover	entdecken	65
-2321	to growl	knurren	65
-2417	to call	rufen	65
-2423	to finish	beenden	65
-2440	to keep	behalten	65
-2443	to leave	lassen; verlassen	65
-2542	to bathe	baden	65
-2557	to build	bauen	65
-2649	to gather; to assemble	versammeln	65
-2677	to change	ändern	65
-2678	to catch	fangen	65
-2679	to load	laden	65
-2681	to collect; to gather	sammeln	65
-2683	to throw	werfen	65
-2690	I collect	ich sammle	65
-2691	you advise	du rätst	65
-2949	to obtain; to procure	besorgen	65
-2955	to turn; to revolve	drehen	65
-2957	to notice; to observe	bemerken	65
 427	Christmas	das Weihnachten	66
 1003	next year	nächstes Jahr	66
 1206	times	die Zeiten	66
@@ -1202,7 +1414,6 @@ English	German
 2611	chest	die Brust	68
 2634	thumb	der Daumen	68
 2934	skin	die Haut	68
-2942	voice	die Stimme	68
 2948	brain	das Hirn	68
 3081	head	der Kopf	68
 435	doctor	der Arzt	69
@@ -1644,7 +1855,6 @@ English	German
 3009	to watch	zusehen	84
 3013	to repair; to renovate	erneuern	84
 3014	to avoid; to evade	ausweichen	84
-3017	to shake	schütteln	84
 3018	to shake off	abschütteln	84
 3019	to reverse; to turn over	wenden	84
 3020	to cheer	jubeln	84
@@ -1656,160 +1866,6 @@ English	German
 3047	to imagine	sich einbilden	84
 3061	to interrupt	unterbrechen	84
 3071	to pay for	bezahlen	84
-1138	rarely	selten	85
-1144	something; a little	etwas	85
-1172	comfortable	bequem	85
-1192	far away from	weit weg von	85
-1194	free(ly)	frei	85
-1202	quite; rather	recht	85
-1209	urgent	dringend	85
-1212	just; exactly	gerade; nur	85
-1214	still; yet	noch	85
-1236	related to	verwandt mit	85
-1295	around (a place)	um ... herum	85
-1399	namely; that is to say	nämlich	85
-1543	(intensifying participle used with imperatives)	doch	85
-1545	cozy; cozily	gemütlich	85
-1548	(softening participle used with imperatives)	mal	85
-1551	suspenseful; exciting	spannend	85
-1788	tender	zart	85
-1793	from; out of; made of	aus	85
-1794	at; near; with	bei	85
-1799	to; at; for	zu	85
-1801	equal	egal	85
-1804	(to/for) whom?	wem?	85
-1814	therefore	deshalb	85
-1816	finally	zuletzt; schließlich; endlich	85
-1960	Let's ...	Lass uns doch ...	85
-1970	occupied; taken	besetzt	85
-1975	separate(ly)	getrennt	85
-1976	I hope	hoffentlich	85
-1977	daily	täglich	85
-1979	full; crowded	voll	85
-1980	somewhat; rather	ziemlich	85
-1985	next to; beside	neben	85
-2205	that (relative clause)	dass	85
-2207	simply	einfach	85
-2208	unbearable	unerträglich	85
-2216	quite a few	etlichen	85
-2218	even	sogar	85
-2221	useless	Nichtsnutz	85
-2224	mysterious	geheimnisvolle	85
-2225	such	solchem	85
-2232	done; at all	gar	85
-2233	odd	merkwürdig	85
-2238	for it; instead	dafür	85
-2240	thin	dünn	85
-2241	double	doppelt	85
-2243	though; certainly	allerdings	85
-2244	useful	nützlich	85
-2249	nowhere; not anywhere	nirgends; nirgendwo	85
-2250	magnificent	prächtig	85
-2254	to and fro	hin und her	85
-2255	there and back	hin und zurück	85
-2259	distant	fern	85
-2274	not at all	überhaupt nicht	85
-2278	stupid	blöd	85
-2284	otherwise; normally	sonst	85
-2285	dangerous	gefährlich	85
-2286	across; over	herüber	85
-2291	asleep	schlafend	85
-2305	for hours	stundenlang	85
-2308	suddenly	plötzlich	85
-2310	delicious	köstlich	85
-2329	like a shot	wie der Blitz	85
-2403	about	ungefähr	85
-2454	myself	ich selber	85
-2463	once	einmal; einst	85
-2467	poor	arm	85
-2596	bad; evil	böse	85
-2651	in no time	im Nu	85
-2652	of them; from which	davon	85
-2653	with it	dazu	85
-2655	hard; tough	hart	85
-2656	meanwhile	inzwischen	85
-2657	something	irgendetwas	85
-2658	somewhere	irgendwo	85
-2659	ever; each	je	85
-2661	in any case	jedenfalls	85
-2662	however	jedoch	85
-2663	powerful	mächtig	85
-2664	after we talked	nachdem wir sprachen	85
-2665	nearer	näher	85
-2666	now; well (filler)	nun	85
-2668	apparent	offenbar	85
-2669	safe; certain; reliable	sicher	85
-2670	as soon as	sowie	85
-2671	nevertheless	trotzdem	85
-2672	by the way	übrigens	85
-2673	during	während	85
-2674	probably	wahrscheinlich	85
-2709	possible	allfällig	85
-2710	generally	allgemeinen	85
-2711	exclusive	ausschließlich	85
-2712	acquainted	bekannt	85
-2728	use	die Nutzung	85
-2742	basically; as a matter of principle	grundsätzlich	85
-2743	concerning	betreffend; bezüglich; hinsichtlich	85
-2744	respective	jeweiligen	85
-2745	no ___ whatsoever	keinerlei	85
-2746	overall; across the board	pauschal	85
-2754	at it	daran	85
-2760	furthermore; moreover	weiters	85
-2764	underlying	unterliegend	85
-2770	prompt(ly)	umgehend	85
-2818	actually; really	eigentlich	85
-2822	from there	daher	85
-2825	public	öffentlich	85
-2828	instant; moment; wink	der Augenblick	85
-2877	at all; actually; really	überhaupt	85
-2881	current	aktuelle	85
-2885	attainable	erreichbar	85
-2887	surprised; amazed	überrascht	85
-2900	hereupon; thereupon	daraufhin	85
-2903	real; actual	echte	85
-2918	on the way	unterwegs	85
-2933	horrible; dreadful	fürchterlich	85
-2946	in; into	hinein	85
-2952	bold; courageous	mutig	85
-2953	indeed	zwar	85
-2954	forth	hervor	85
-2961	just as good	genauso gut	85
-2968	thereby	dabei	85
-2969	due to; thanks to	wegen	85
-2970	there; thereabouts	dort	85
-2972	until; hitherto	bisher	85
-2974	barely; hardly	kaum	85
-2976	actual; really	tatsächlich	85
-2982	finished; completed	fertig	85
-2983	funny	komisch	85
-2984	bad; wicked	schlimm	85
-2988	before	bevor	85
-2989	onto	hinaus	85
-2991	eternal	ewig	85
-2995	tight; close; narrow	eng	85
-2997	likewise; ditto; also	ebenfalls	85
-3000	anew; afresh	erneut	85
-3003	pure; absolute	rein	85
-3005	whose	dessen	85
-3016	definite	fest	85
-3022	instead of	anstatt	85
-3024	appalled; aghast	entsetzt	85
-3027	single; sole	einzige	85
-3040	certain; positive	überzeugt	85
-3041	various	verschiedenen	85
-3043	so much the better	desto besser	85
-3048	constantly; permanently	ständig	85
-3049	gradual; gradually	allmählich	85
-3058	busy	beschäftigt	85
-3069	ready	bereit	85
-3072	it sounds	es klingt	85
-3074	there	dorthin	85
-3075	whether	ob	85
-3077	over; across	hinüber	85
-3078	over it; above it	darüber	85
-3079	over; finished; gone	vorbei	85
-3080	out of; apart from	außer	85
 2042	I have offered	ich habe angeboten	86
 2044	you have begun	du hast angefangen	86
 2046	he has baked	er hat gebacken	86
@@ -2344,3 +2400,25 @@ English	German
 2558	farmer	der Bauer	99
 2627	clown	der Clown	99
 2629	cowboy	der Cowboy	99
+3144	cat	die Katze	42
+3145	bird	der Vogel	42
+3146	horse	das Pferd	42
+3147	cow	die Kuh	42
+3148	chicken	das Huhn	42
+3149	pig	das Schwein	42
+3150	turkey	der Truthahn	42
+3151	goat	die Ziege	42
+3152	sheep	das Schaf	42
+3153	mouse	die Maus	42
+3154	rat	die Ratte	42
+3155	rabbit	das Kaninchen	42
+3156	deer	das Reh	42
+3157	snake	die Schlange	42
+3158	lion	der Löwe	42
+3159	tiger	der Tiger	42
+3160	elephant	der Elefant	42
+3161	donkey	der Esel	42
+3162	dolphin	der Delfin	42
+3163	whale	der Wal	42
+3164	giraffe	die Giraffe	42
+3165	wolf	der Wolf	42
