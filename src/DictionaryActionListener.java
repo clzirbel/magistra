@@ -6,7 +6,6 @@ import java.awt.event.*;
 class DictionaryActionListener implements ActionListener {
 
     private WordList WL;
-    private WordPair WP;
     private TextField baseWord, foreignWord, group, remove, editentry, changegroup;
     private TextArea baseDisplay, foreignDisplay;
     private int[] foundarray;
@@ -79,20 +78,13 @@ class DictionaryActionListener implements ActionListener {
 	    }
     }
     else if (e.getSource().equals(remove)) {
-	    System.out.println("These indices are available: ");
-	    for (int w=0; w < foundarray.length; w++)
-	    	System.out.print(foundarray[w]+" ");
-	    System.out.println("");
-
 	    int w = Integer.parseInt(remove.getText());
 	    if (w > 0 & w < foundarray.length+1) {
 	    	if (foundarray[w-1] > -1) {
-	    		System.out.println("Removing pair with index "+Integer.toString(foundarray[w-1]));
 	    		WL.removePair(foundarray[w-1]);
 	    		clearfields = true;
 	    	}
 	    }
-	    
     }
 
     if (clearfields) {

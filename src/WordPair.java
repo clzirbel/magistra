@@ -46,8 +46,8 @@ public class WordPair extends Object {
        return Correct;
    }
     public boolean containsString(int L, String A) {
-	boolean Contains = false;
-	Contains = (Word[L].indexOf(A) >= 0);
+		boolean Contains = false;
+		Contains = (Word[L].indexOf(A) >= 0);
         return Contains;
     }
    public void registerTry() { NumTries++; };

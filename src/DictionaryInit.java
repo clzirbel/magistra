@@ -76,7 +76,7 @@ public class DictionaryInit extends JFrame {
 
     add(p,"Center");
     
-    DictionaryListener listener = new DictionaryListener (WL, baseWord, foreignWord, group, baseDisplay, foreignDisplay, editentry, changegroup, remove, foundarray, beingedited);
+    DictionaryListener listener = new DictionaryListener (WL, baseWord, foreignWord, baseDisplay, foreignDisplay, foundarray, beingedited);
 
     DictionaryActionListener actionlistener = new DictionaryActionListener(WL, baseWord, foreignWord, group, baseDisplay, foreignDisplay, editentry, changegroup, remove, foundarray, beingedited);
 
