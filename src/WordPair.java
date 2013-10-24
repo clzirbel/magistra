@@ -45,6 +45,30 @@ public class WordPair extends Object {
        }
        return Correct;
    }
+   public String portionCorrect(int L, String A) { 
+       String p = "--> " + A;
+       int numcorrect = 0;                      // number of correct characters, counting from beginning
+       StringTokenizer st;
+       st = new StringTokenizer(Word[L],";");
+       String AA = A + "----------------------------";
+       
+       while(st.hasMoreTokens()) {
+    	   String B = st.nextToken().trim();
+    	   String BB = B + "============================";
+    	   int nc = 0;
+    	   while (AA.charAt(nc) == BB.charAt(nc)) 
+    		   nc++;
+    	   nc = Math.min(nc, A.length());
+    	   nc = Math.min(nc, B.length());
+
+    	   if (nc > numcorrect) {
+    		   numcorrect = nc;
+    		   p = A.substring(0,nc) + " --> " + A.substring(nc);
+    	   }
+       }
+       return p;
+   }
+
     public boolean containsString(int L, String A) {
 		boolean Contains = false;
 		Contains = (Word[L].indexOf(A) >= 0);

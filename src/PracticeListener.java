@@ -14,6 +14,7 @@ class PracticeListener implements ActionListener {
     boolean ReadyForNextPair = false;
     boolean CurrentPreview = false;
     int NumTries = 0;
+    String pc = "";                    // portion correct, when wrong
     
     PracticeListener ( WordList WL, int n, int L, WordPair WP, JLabel baseLang, JLabel baseWord, JLabel foreignLang, JTextField input, JLabel status, JLabel help) {
 		this.WL = WL;
@@ -41,7 +42,7 @@ class PracticeListener implements ActionListener {
 		ReadyForNextPair = true;
     }
 	else if (e.getActionCommand().equals("Skip forever")) {
-		WP.setFirstResult('f');
+		WP.modifyPairData("f");
 		ReadyForNextPair = true;
     }
 	else {
@@ -50,13 +51,13 @@ class PracticeListener implements ActionListener {
 		 {
 			 ReadyForNextPair = true;                                // being previewed now, don't mark as correct
 		 }
-		 else if (WP.compareStrings( 1-L, inputString.getText()))    // correct answer
+		 else if (WP.compareStrings(1-L, inputString.getText()))    // correct answer
 		 {
-			 if ((L==0) && (NumTries == 0)) {                    // correct answer on first attempt
+			 if ((L==0) && (NumTries <= 1)) {                    // correct answer on first attempt
 	           	 WL.changeNumKnown(UserData.evaluatePairData(WP.getUserData()+"+")-UserData.evaluatePairData(WP.getUserData()));
 		    	 WP.modifyPairData("+");
 		     }
-		     else if (NumTries == 0) {                           // correct answer, but translating the "easy" direction
+		     else if (NumTries <= 1) {                           // correct answer, but translating the "easy" direction
 		    	 WP.modifyPairData("#");
 	         }
 		     else {
@@ -65,16 +66,25 @@ class PracticeListener implements ActionListener {
 			 ReadyForNextPair = true;
 		 }
 	     else {                                                  // incorrect answer
-	     if (L==0) {
+         pc = WP.getWord(1-L);
+	     if (L==0) {                                             // "hard" direction
 	    	 if (NumTries == 0) {
-		    	 WL.changeNumKnown(UserData.evaluatePairData(WP.getUserData()+"-")-UserData.evaluatePairData(WP.getUserData()));
+	    		 pc = WP.portionCorrect(1-L,inputString.getText());
+	    	 }
+	    	 else if (NumTries == 1) {
+	    		 WL.changeNumKnown(UserData.evaluatePairData(WP.getUserData()+"-")-UserData.evaluatePairData(WP.getUserData()));
 	             WP.modifyPairData("-");
 	    	 }
 	     }
-	     else if (NumTries == 0) WP.modifyPairData("=");
-
+	     else if (NumTries == 0) {
+    		 pc = WP.portionCorrect(1-L,inputString.getText());
+	     }
+	     else if (NumTries == 1) {
+    		 WP.modifyPairData("=");
+	     }
+	     
          input.setText("");
-         help.setText(WP.getWord(1-L));
+         help.setText(pc);
          ReadyForNextPair = false;
 	     //          long startTime = System.currentTimeMillis();
          //          while (System.currentTimeMillis() < startTime + 1);
