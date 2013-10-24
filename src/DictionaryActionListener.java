@@ -61,6 +61,7 @@ class DictionaryActionListener implements ActionListener {
 	    	    group.setText(Integer.toString(WP.getGroup()));
 	    	    editentry.setText("Being edited currently");
 	    	    beingedited = foundarray[w-1];
+	    	    clearfields = false;
 	    	}
 	    }
     }

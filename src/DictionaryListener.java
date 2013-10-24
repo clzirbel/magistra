@@ -39,7 +39,7 @@ class DictionaryListener implements TextListener {
                 foundarray[numfound] = current;
 			    numfound++;
 			    current++;
-                baseBuffer.append( WP.getWord(0) ).append(" [Group ").append(WP.getGroup()).append("]").append( '\n' );
+                baseBuffer.append("["+numfound+"] ").append( WP.getWord(0) ).append(" [Group ").append(WP.getGroup()).append("]").append( '\n' );
                 foreignBuffer.append("["+numfound+"] ").append( WP.getWord(1) ).append( '\n' );
 			}
 			else {
@@ -54,7 +54,7 @@ class DictionaryListener implements TextListener {
 		            foundarray[numfound] = current;
 				    numfound++;
 				    current++;
-		            baseBuffer.append( WP.getWord(0) ).append(" [Group ").append(WP.getGroup()).append("]").append( '\n' );
+		            baseBuffer.append("["+numfound+"] ").append( WP.getWord(0) ).append(" [Group ").append(WP.getGroup()).append("]").append( '\n' );
 		            foreignBuffer.append("["+numfound+"] ").append( WP.getWord(1) ).append( '\n' );
 				}
 				else {
