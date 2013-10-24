@@ -65,7 +65,18 @@ class PracticeListener implements ActionListener {
 		     }
 			 ReadyForNextPair = true;
 		 }
-	     else {                                                  // incorrect answer
+		 else if (inputString.getText().length() == 0) {
+			 if (NumTries == 0) {
+	    		 WL.changeNumKnown(UserData.evaluatePairData(WP.getUserData()+"-")-UserData.evaluatePairData(WP.getUserData()));
+	             WP.modifyPairData("-");
+			 }	 
+			 NumTries = 1;                                       // 
+			 pc = WP.getWord(1-L);                               // show correct answer
+	         input.setText("");
+	         help.setText(pc);
+	         ReadyForNextPair = false;
+		 }
+	     else {                                                  // incorrect answer, but something
          pc = WP.getWord(1-L);
 	     if (L==0) {                                             // "hard" direction
 	    	 if (NumTries == 0) {
