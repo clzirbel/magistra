@@ -249,6 +249,8 @@ English	German
 647	you stay; you remain	du bleibst	8
 648	she hikes	sie wandert	8
 649	you learn; you study (plural)	ihr lernt	8
+188	English	das Englisch	9
+190	German	das Deutsch	9
 241	ice cream; ice	das Eis	10
 242	strawberry	die Erdbeere	10
 244	carrot	die Karotte	10
@@ -329,12 +331,15 @@ English	German
 1951	plate	der Teller	12
 2436	hungry	hungrig	12
 2483	thirsty	durstig	12
+2533	sink	die Spüle	12
 2978	refrigerator	der Kühlschrank	12
 2979	stove	der Ofen	12
 2980	dishwasher	der Geschirrspüler	12
 2981	freezer	der Gefrierschrank	12
 3034	microwave	der Mikrowellenherd	12
 3035	to microwave	im Mikrowellenherd erhitzen	12
+3126	soap	die Seife	12
+3176	meal	die Mahlzeit	12
 1570	you would like	du möchtest	14
 1571	he would like	er möchte	14
 1572	we would like	wir möchten	14
@@ -347,52 +352,52 @@ English	German
 2687	we do	wir tun	14
 2688	you do (plural)	ihr tut	14
 2689	they do	sie tun	14
-264	clock; watch	die Uhr	15
-459	morning; before noon	der Vormittag	15
-469	time	die Zeit	15
-1281	at midnight	um Mitternacht	15
-1303	It is around five o'clock.	Es ist gegen fünf Uhr.	15
-1312	at (a time)	um	15
-1427	noon	der Mittag	15
-1431	this morning	heute Morgen	15
-1432	this afternoon	heute Nachmittag	15
-1433	tomorrow morning	morgen früh	15
-1434	tomorrow evening	morgen Abend	15
-1435	in the morning; mornings	morgens	15
-1436	before noon	vormittags	15
-1437	at noon	mittags	15
-1438	in the afternoon; afternoons	nachmittags	15
-1439	in the evening; evenings	abends	15
-1440	at night; nights	nachts	15
-1472	times of day	tagezeiten	15
-1500	minutes	die Minuten	15
-1501	second (unit of time)	die Sekunde	15
-1502	seconds	die Sekunden	15
-1504	hours	die Stunden	15
-1505	At what time?	Um wie viel Uhr?	15
-1506	What time is it?	Wie spät ist es?	15
-1507	What time is it? (viel)	Wie viel Uhr ist es?	15
-1508	It's one o'clock.	Es ist eins.	15
-1509	half	halb	15
-1510	half past one	halb zwei	15
-1512	five after two	fünf nach zwei	15
-1514	at two	um zwei	15
-1515	quarter	Viertel	15
-1516	It is a quarter after two.	Es ist Viertel nach zwei.	15
-1517	It is a quarter to two.	Es ist Viertel vor zwei.	15
-1519	five to two	fünf vor zwei	15
-1797	since; for (+ time)	seit	15
-1990	until five o'clock	bis fünf Uhr	15
-1991	around five o'clock	gegen fünf Uhr	15
-1992	in two days	in zwei Tagen	15
-1993	after Tuesday	nach Dienstag	15
-1994	for two years	seit zwei Jahren	15
-1995	from two to three o'clock	von zwei bis drei Uhr	15
-1996	two days ago	vor zwei Tagen	15
-1997	between two and three o'clock	zwischen zwei und drei Uhr	15
-2021	three days ago	vor drei Tagen	15
-2023	in one hour	in einer Stunde	15
-2024	between 5 and 7 o'clock	zwischen fünf und sieben Uhr	15
+264	clock; watch	die Uhr	16
+459	morning; before noon	der Vormittag	16
+469	time	die Zeit	16
+1281	at midnight	um Mitternacht	16
+1303	It is around five o'clock.	Es ist gegen fünf Uhr.	16
+1312	at (a time)	um	16
+1427	noon	der Mittag	16
+1431	this morning	heute Morgen	16
+1432	this afternoon	heute Nachmittag	16
+1433	tomorrow morning	morgen früh	16
+1434	tomorrow evening	morgen Abend	16
+1435	in the morning; mornings	morgens	16
+1436	before noon	vormittags	16
+1437	at noon	mittags	16
+1438	in the afternoon; afternoons	nachmittags	16
+1439	in the evening; evenings	abends	16
+1440	at night; nights	nachts	16
+1472	times of day	tagezeiten	16
+1500	minutes	die Minuten	16
+1501	second (unit of time)	die Sekunde	16
+1502	seconds	die Sekunden	16
+1504	hours	die Stunden	16
+1505	At what time?	Um wie viel Uhr?	16
+1506	What time is it?	Wie spät ist es?	16
+1507	What time is it? (viel)	Wie viel Uhr ist es?	16
+1508	It's one o'clock.	Es ist eins.	16
+1509	half	halb	16
+1510	half past one	halb zwei	16
+1512	five after two	fünf nach zwei	16
+1514	at two	um zwei	16
+1515	quarter	Viertel	16
+1516	It is a quarter after two.	Es ist Viertel nach zwei.	16
+1517	It is a quarter to two.	Es ist Viertel vor zwei.	16
+1519	five to two	fünf vor zwei	16
+1797	since; for (+ time)	seit	16
+1990	until five o'clock	bis fünf Uhr	16
+1991	around five o'clock	gegen fünf Uhr	16
+1992	in two days	in zwei Tagen	16
+1993	after Tuesday	nach Dienstag	16
+1994	for two years	seit zwei Jahren	16
+1995	from two to three o'clock	von zwei bis drei Uhr	16
+1996	two days ago	vor zwei Tagen	16
+1997	between two and three o'clock	zwischen zwei und drei Uhr	16
+2021	three days ago	vor drei Tagen	16
+2023	in one hour	in einer Stunde	16
+2024	between 5 and 7 o'clock	zwischen fünf und sieben Uhr	16
 34	200	zweihundert	18
 35	1000	tausend	18
 36	2000	zweitausend	18
@@ -435,45 +440,123 @@ English	German
 1018	friends (m)	die Freunde	20
 1019	friends (f)	die Freundinnen	20
 1038	friend (f)	die Freundin	20
+1051	family name	der Nachname	20
+1052	first name	der Vorname	20
 1221	person	der Mensch	20
 2247	neighbor	der Nachbar	20
 2538	baby	das Baby	20
 2886	acquaintance; friend	der Bekannte	20
 3029	fellow; dude	der Kerl	20
-248	brother	der Bruder	25
-257	mother	die Mutter	25
-258	father	der Vater	25
-259	sister	die Schwester	25
-276	birthday	der Geburtstag	25
-277	present	das Geschenk	25
-428	relative	der Verwandte	25
-441	child	das Kind	25
-442	parents	die Eltern	25
-443	grandfather	der Großvater	25
-444	uncle	der Onkel	25
-446	son	der Sohn	25
-450	aunt	die Tante	25
-452	daughter	die Tochter	25
-457	siblings	die Geschwister	25
-458	grandparents	die Großeltern	25
-485	family	die Familie	25
-553	wedding	die Hochzeit	25
-1229	family gathering	das Familienfest	25
-1260	female cousin	die Kusine	25
-1271	granddaughter	die Enkelin	25
-1290	sister-in-law	die Schwägerin	25
-1301	grandson	der Enkel	25
-1307	nephew	der Neffe	25
-1310	When is your birthday?	Wann hast du Geburtstag?	25
-1315	niece	die Nichte	25
-1326	grandmother	die Großmutter	25
-1331	brother-in-law	der Schwager	25
-1336	grandpa	der Opa	25
-1345	grandma	die Oma	25
-1378	male cousin	der Vetter	25
-2600	bride	die Braut	25
-2601	bridegroom	der Bräutigam	25
-2602	bridesmaid	die Brautjungfer	25
+3168	queen	die Könige	20
+3170	king	der König	20
+248	brother	der Bruder	22
+257	mother	die Mutter	22
+258	father	der Vater	22
+259	sister	die Schwester	22
+276	birthday	der Geburtstag	22
+277	present	das Geschenk	22
+428	relative	der Verwandte	22
+441	child	das Kind	22
+442	parents	die Eltern	22
+443	grandfather	der Großvater	22
+444	uncle	der Onkel	22
+446	son	der Sohn	22
+450	aunt	die Tante	22
+452	daughter	die Tochter	22
+457	siblings	die Geschwister	22
+458	grandparents	die Großeltern	22
+485	family	die Familie	22
+553	wedding	die Hochzeit	22
+1229	family gathering	das Familienfest	22
+1260	female cousin	die Kusine	22
+1271	granddaughter	die Enkelin	22
+1290	sister-in-law	die Schwägerin	22
+1301	grandson	der Enkel	22
+1307	nephew	der Neffe	22
+1310	When is your birthday?	Wann hast du Geburtstag?	22
+1315	niece	die Nichte	22
+1326	grandmother	die Großmutter	22
+1331	brother-in-law	der Schwager	22
+1336	grandpa	der Opa	22
+1345	grandma	die Oma	22
+1378	male cousin	der Vetter	22
+2600	bride	die Braut	22
+2601	bridegroom	der Bräutigam	22
+2602	bridesmaid	die Brautjungfer	22
+194	book	das Buch	24
+218	word	das Wort	24
+372	car	das Auto; der Wagen	24
+454	rope	die Schnur	24
+484	large package	das Paket	24
+1065	cell phone	das Handy	24
+1219	euro	der Euro	24
+1228	camera	der Fotoapparat	24
+1747	purse	die Tasche	24
+2977	key	der Schlüssel	24
+3012	air	die Luft	24
+156	only	nur	26
+157	when	wann; als	26
+159	who	wer	26
+163	this	dieser	26
+172	not	nicht	26
+173	often	oft	26
+230	dark	dunkel	26
+247	there	da	26
+273	city	die Stadt	26
+366	fast	schnell	26
+375	pretty	hübsch	26
+387	slow	langsam	26
+399	old	alt	26
+400	new	neu	26
+401	ugly	häßlich	26
+500	wish	der Wunsch	26
+508	problem	das Problem	26
+536	music	die Musik	26
+539	thing	das Ding; die Sache	26
+554	end	das Ende	26
+559	newspaper	die Zeitung	26
+703	big	groß	26
+704	small	klein	26
+705	a lot; much	viel	26
+708	hot	heiß	26
+711	good; well	gut	26
+771	all; every	alle	26
+779	nice(ly); beautiful(ly)	schön	26
+819	how many?	wie viele?	26
+831	long	lang	26
+833	many	viele	26
+1050	name	der Name	26
+1089	so	so	26
+1127	gladly	gern	26
+1162	maybe; perhaps	vielleicht	26
+1200	no; none; not any	kein	26
+1237	unfortunately	leider	26
+1246	important	wichtig	26
+1337	for	für	26
+1544	early	früh	26
+1552	late	spät	26
+1795	with; by means of	mit	26
+1984	in; to (a place)	in	26
+2210	if	wenn	26
+2217	more	mehr	26
+2481	these	diese	26
+2925	no clue	keine Ahnung	26
+2965	himself	er selbst	26
+3033	young	jung	26
+1252	his; its	sein	28
+1272	our grandma	unsere Oma	28
+1299	your (formal)	Ihr	28
+1300	my grandma	meine Oma	28
+1311	I see our friend.	Ich sehe unseren Freund.	28
+1313	your (informal plural)	euer	28
+1339	our parents	unsere Eltern	28
+1358	your (informal plural) female friend	eure Freundin	28
+1370	our	unser	28
+1395	her; its; theirs	ihr	28
+1396	my	mein	28
+1397	me	mich	28
+1419	your	dein	28
+1424	my parents	meine Eltern	28
 155	tell me	sag mal	30
 226	I don't care.	Das ist mir egal.	30
 290	Do you have any questions? (formal)	Haben Sie Fragen?	30
@@ -527,62 +610,145 @@ English	German
 2697	Give me the letter.	Gib mir den Brief!	30
 2698	I will show you something.	Ich zeige dir etwas.	30
 2699	I will tell you everything.	Ich sage dir alles.	30
-156	only	nur	35
-157	when	wann; als	35
-159	who	wer	35
-163	this	dieser	35
-172	not	nicht	35
-173	often	oft	35
-188	English	das Englisch	35
-190	German	das Deutsch	35
-194	book	das Buch	35
-218	word	das Wort	35
-230	dark	dunkel	35
-247	there	da	35
-273	city	die Stadt	35
-366	fast	schnell	35
-372	car	das Auto	35
-375	pretty	hübsch	35
-387	slow	langsam	35
-399	old	alt	35
-400	new	neu	35
-401	ugly	häßlich	35
-500	wish	der Wunsch	35
-508	problem	das Problem	35
-536	music	die Musik	35
-539	thing	das Ding; die Sache	35
-554	end	das Ende	35
-559	newspaper	die Zeitung	35
-704	small	klein	35
-705	a lot; much	viel	35
-708	hot	heiß	35
-711	good; well	gut	35
-771	all; every	alle	35
-779	nice(ly); beautiful(ly)	schön	35
-819	how many?	wie viele?	35
-831	long	lang	35
-833	many	viele	35
-1050	name	der Name	35
-1051	family name	der Nachname	35
-1052	first name	der Vorname	35
-1089	so	so	35
-1127	gladly	gern	35
-1162	maybe; perhaps	vielleicht	35
-1200	no; none; not any	kein	35
-1219	euro	der Euro	35
-1237	unfortunately	leider	35
-1246	important	wichtig	35
-1337	for	für	35
-1544	early	früh	35
-1552	late	spät	35
-1795	with; by means of	mit	35
-1984	in; to (a place)	in	35
-2210	if	wenn	35
-2217	more	mehr	35
-2481	these	diese	35
-2925	no clue	keine Ahnung	35
-2965	himself	er selbst	35
-3033	young	jung	35
+195	chair	der Stuhl	34
+200	door	die Tür	34
+213	table	der Tisch	34
+275	room	das Zimmer	34
+906	wall	die Wand	34
+1058	place of residence	der Wohnort	34
+1076	living room	das Wohnzimmer	34
+1104	window	das Fenster	34
+1114	bedroom	das Schlafzimmer	34
+1120	dining room	das Esszimmer	34
+1125	garage	die Garage	34
+1146	terrace; patio	die Terrasse	34
+1153	workroom; study	das Arbeitszimmer	34
+1154	balcony	der Balkon	34
+1155	bathroom	das Badezimmer	34
+1159	garden; yard	der Garten	34
+1169	bath; bathroom	das Bad	34
+1186	clothes closet	der Kleiderschrank	34
+1233	around the house	ums Haus	34
+1321	through the room	durchs Zimmer	34
+2589	floor; ground	der Boden	34
+2904	basement	der Keller	34
+2905	stairway	der Treppenaufgang	34
+2906	steps	die Treppe	34
+2907	porch	die Veranda; die Vorhalle	34
+2908	doorbell	die Türklingel	34
+2909	hallway	der Gang	34
+502	household	der Haushalt	36
+503	housework	die Hausarbeit	36
+507	hobby	das Hobby	36
+532	record	die Schallplatte	36
+540	things	die Sachen	36
+562	small package	das Päckchen	36
+566	bed	das Bett	36
+1061	alarm clock	der Wecker	36
+1068	computer	der Computer	36
+1072	desk	der Schreibtisch	36
+1075	lamp	die Lampe	36
+1078	nightstand	der Nachttisch	36
+1079	photograph	das Foto	36
+1080	photographs	die Fotos	36
+1081	poster	das Poster	36
+1084	radio	das Radio	36
+1090	sofa	das Sofa	36
+1103	videotape	das Video	36
+1105	CD player	der CD-Spieler	36
+1106	DVD player	der DVD-Spieler	36
+1107	TV set	der Fernseher	36
+1112	armchair	der Sessel	36
+1121	dresser	die Kommode	36
+1136	posters	die Poster	36
+1140	rug; carpet	der Teppich	36
+1141	shelf	das Regal	36
+1145	telephone	das Telefon	36
+1160	houseplant	die Zimmerpflanze	36
+1165	stereo	die Stereoanlage	36
+1180	wastebasket	der Papierkorb	36
+1181	VCR	der Videorecorder	36
+1188	coffee table	der Couchtisch	36
+1217	bookcase	das Bücherregal	36
+1218	computer connection	der Computeranschluss	36
+2543	bathtub	die Badewanne	36
+2570	broom	der Besen	36
+3076	mirror	der Spiegel	36
+3096	tape; sticky tape	das Klebeband	36
+3100	keyboard	die Tastatur	36
+3132	drawer	die Schublade	36
+199	correct	richtig	38
+220	difficult	schwer; schwierig	38
+222	easy	leicht	38
+223	fun	der Spaß	38
+224	nice	nett	38
+227	happy	froh; glücklich	38
+228	sad	traurig	38
+229	bright	hell	38
+235	under; below; beneath	unter	38
+236	over; above	über	38
+238	different	verschieden	38
+370	tall; high(ly)	hoch	38
+373	short	kurz	38
+706	a small amount; not much	wenig	38
+707	a little	ein bißchen	38
+714	enough	genug	38
+715	not enough	nicht genug	38
+725	far	weit	38
+726	up	hinauf	38
+727	under; downstairs; on the bottom	unten	38
+751	except	ausgenommen	38
+756	beginning	der Anfang	38
+769	a few	einige	38
+772	already	schon	38
+780	between	zwischen	38
+791	clear	klar	38
+801	false	falsch	38
+803	few; not many	wenige	38
+810	of; from; by	von	38
+824	before; in front of	vor	38
+832	low	niedrig	38
+836	narrow	schmal	38
+843	of course; natural(ly)	natürlich	38
+847	on top	oben	38
+857	round	rund	38
+876	then	dann	38
+881	to	an; zu	38
+899	after; toward	nach	38
+904	usual; usually	gewöhnlich	38
+911	wide	breit	38
+991	definitely	bestimmt	38
+994	really	wirklich; echt	26
+1001	always	immer	38
+1109	again	wieder	38
+1135	nothing	nichts	38
+1283	without	ohne	38
+1322	there is; there are	es gibt	38
+1323	through	durch	26
+1393	against; around a time	gegen	38
+1787	necessary	nötig; notwendig	38
+1791	each; every	jeder	38
+1792	which	welcher	38
+1981	at; on; to; near	an	38
+1982	on; on top of; at	auf	38
+1983	behind; in back of	hinter	38
+2212	out	raus; heraus	38
+2214	both	beide	38
+2220	because	denn; weil	38
+2230	to it	darauf	38
+2231	nobody	niemand	38
+2237	almost	fast	38
+2257	never	nie	38
+2277	outside	draußen	38
+2456	near	nahe	38
+2458	next	nächst	38
+2464	other	ander	38
+2467	poor	arm	38
+2474	soon	bald	38
+2646	too much	zu viel	38
+2647	too little	zu wenig	38
+2667	open	offen	38
+2879	either	beider	38
 141	to become	werden	40
 180	to listen; to hear	hören	40
 391	to drive; to ride	fahren	40
@@ -624,26 +790,37 @@ English	German
 2490	to try	versuchen	40
 2693	you see	du siehst	40
 1417	dog	der Hund	42
-2280	snout	die Schnauze; der Rüssel	95
-2510	eagle	der Adler	42
 2511	ape; monkey	der Affe	42
 2515	ant	die Ameise	42
 2552	bear	der Bär	42
-2574	beaver	der Biber	42
 2575	bee	die Biene	42
 2576	beehive	der Bienenstock	42
-2616	buffalo	der Büffel	42
-2632	badger	der Dachs	42
+3144	cat	die Katze	42
+3145	bird	der Vogel	42
+3146	horse	das Pferd	42
+3147	cow	die Kuh	42
+3148	chicken	das Huhn	42
+3149	pig	das Schwein	42
+3150	turkey	der Truthahn	42
+3151	goat	die Ziege	42
+3152	sheep	das Schaf	42
+3153	mouse	die Maus	42
+3154	rat	die Ratte	42
+3155	rabbit	das Kaninchen	42
+3156	deer	das Reh	42
+3157	snake	die Schlange	42
+3158	lion	der Löwe	42
+3159	tiger	der Tiger	42
+3160	elephant	der Elefant	42
+3161	donkey	der Esel	42
+3164	giraffe	die Giraffe	42
+3165	wolf	der Wolf	42
 411	snow	der Schnee	44
 709	cold	kalt	44
 710	warm	warm	44
-2263	dull; cloudy	trüben	44
 2266	cloud	die Wolke	44
 2267	sky	der Himmel	44
-2306	snow cover	die Schneedecke	44
 2584	lightening	der Blitz	44
-2832	river	der Fluss	44
-2835	forest	der Wald	44
 2836	springtime	das Frühjahr; der Frühling	44
 2837	autumn; fall	der Herbst	44
 2838	summer	der Sommer	44
@@ -667,95 +844,113 @@ English	German
 2856	to snow	schneien	44
 2857	It is snowing.	Es schneit.	44
 2859	overcast; cloudy	bewölkt	44
-2860	fair; bright	heiter	44
 2861	cool	kühl	44
 2862	foggy	neblig	44
 2863	rainy	regnerisch	44
-2864	muggy; humid	schwül	44
 2865	sunny	sonnig	44
 2866	windy	windig	44
 2867	cloudless; clear	wolkenlos	44
-2888	to ski	Ski fahren	44
 2889	to shovel	schaufeln	44
 2890	shovel	die Schaufel	44
-2891	sleet	der Graupel	44
-2892	sled	der Schlitten; der Bob	44
-2893	toboggan	der Rodelschlitten	44
-2894	to sled	Schlitten fahren; schlittern	44
-2895	ski	der Ski; der Schi	44
 2930	shadow; shade	der Schatten	44
-2993	frost	der Reif	44
-3012	air	die Luft	44
-1214	still; yet	noch	45
-1816	finally	zuletzt; schließlich; endlich	45
-2671	nevertheless	trotzdem	45
-2754	on that; to that; at that	daran	45
-2942	voice	die Stimme	45
-2946	in; into	hinein	45
-3017	to shake	schütteln	45
-3027	single; sole	einzige	45
-3088	to lie; to say something not true	lügen	45
-3089	to repeat	wiederholen	45
-3090	to arrive	ankommen	45
-3091	worse	schlimmer	45
-3092	the same	derselbe	45
-3093	located	gelegen	45
-3094	to seal up	einschlagen	45
-3095	locked	verschlossen	45
-3096	tape; sticky tape	das Klebeband	45
-3097	exactly	genau	45
-3098	she sets	sie legt	45
-3099	he typed	er tippt	45
-3100	keyboard	die Tastatur	45
-3101	he moved; he pulled	er zog	45
-3102	awake	wach	45
-3103	not yet	noch nicht	45
-3104	he made	er hat gemacht	45
-3105	to sip	nippen	45
-3106	to swallow	schlucken	45
-3107	somehow	irgenwie	45
-3108	best	beste	45
-3109	the day after tomorrow	übermorgen	45
-3110	peacefully	friedlich	45
-3111	to allow	gönnen	45
-3112	to spend time	verbringen	45
-3113	though	obwohl	45
-3114	in case	Falls	45
-3115	as	genauso	45
-3116	astonished	erstaunt	45
-3117	secret	heimlichen	45
-3118	hidden	versteckt	45
-3119	anyway	sowieso	45
-3120	always	stets	45
-3121	the more	desto	45
-3122	sidewalk	der Bürgersteig	45
-3123	immediately	unmittelbar	45
-3124	once; as soon as	sobald	45
-3125	numerous	zahlreichen	45
-3126	soap	die Seife	45
-3127	hastily	hastig	45
-3128	therefore	also	45
-3129	to pick up	aufheben	45
-3130	flat	platt	45
-3131	open	öffne	45
-3132	drawer	die Schublade	45
-3133	all around	rundherum	45
-3134	apart	auseinander	45
+3135	thunder	der Donner	44
+1214	still; yet	noch	46
 1399	namely; that is to say	nämlich	46
+1816	finally	zuletzt; schließlich; endlich	46
 2205	that (relative clause)	dass	46
 2284	otherwise; normally	sonst	46
 2652	of them; from which	davon	46
+2671	nevertheless	trotzdem	46
 2674	probably	wahrscheinlich	46
+2754	on that; to that; at that	daran	46
+2946	in; into	hinein	46
 2970	there; thereabouts	dort	46
-3135	thunder	der Donner	46
+3027	single; sole	einzige	46
+3091	worse	schlimmer	38
+3092	the same	derselbe	46
+3094	to seal up	einschlagen	46
+3095	locked	verschlossen	46
+3097	exactly	genau	38
+3098	she sets	sie legt	46
+3099	he typed	er tippt	46
+3101	he moved; he pulled	er zog	46
+3102	awake	wach	46
+3103	not yet	noch nicht	46
+3104	he made	er hat gemacht	46
+3107	somehow	irgenwie	46
+3108	best	beste	46
+3109	the day after tomorrow	übermorgen	46
+3110	peacefully	friedlich	46
+3113	though; although	obwohl	46
+3114	in case	Falls	46
+3115	as	genauso	46
+3117	secret	heimlichen	46
+3118	hidden	versteckt	46
+3119	anyway	sowieso	46
+3120	always	stets	46
+3121	the more	desto	46
+3123	immediately	sofort; unmittelbar	46
+3124	once; as soon as	sobald	46
+3125	numerous	zahlreichen	46
+3127	hastily	hastig	46
+3128	therefore	also	46
+3130	flat	platt	46
+3131	open	öffne	46
+3133	all around	rundherum	46
+3134	apart	auseinander	46
 3136	oneself	sich selbst	46
-3137	dreadful	grause	46
 3138	so that; with that	damit	46
 3139	silent	still	46
 3140	easier	leichter	46
 3141	real	wahr	46
 3142	world	die Welt	46
 3143	surely	wohl	46
+3167	guy	der Typ	46
+3174	life	das Leben	46
+3177	some	manche	46
+3178	anyone	jedermann	46
+3179	you mean	du meinst	46
+3180	at least	mindestens	46
+3181	at most	maximal	46
+3182	most	meisten	46
+3185	with another	miteinander	46
+3186	after that	nachdem	46
+3189	by	per	46
+192	answer	die Antwort	48
+193	blackboard	die Tafel	48
+196	chalk	die Kreide	48
+197	class	die Klasse; der Unterricht	48
+203	ink	die Tinte	48
+204	letter of the alphabet	der Buchstabe	48
+205	notebook	das Heft	48
+206	paper	das Papier	48
+207	pen	der Kugelschreiber	48
+208	pencil	der Bleistift	48
+209	question	die Frage	48
+210	sentence	der Satz	48
+211	student (f)	die Schülerin	48
+214	teacher (f)	die Lehrerin	48
+217	to the blackboard	an die Tafel	48
+377	schoolbus	der Schulebus	48
+406	teacher (m)	der Lehrer	48
+413	school	die Schule	48
+437	student (m)	der Student; der Schüler	48
+475	cassete; tape	die Kassette	48
+477	university	die Universität	48
+488	film; movie	der Film	48
+518	dictionary	das Wörterbuch	48
+549	scissors	die Schere	48
+557	test	die Prüfung	48
+1745	backpack	der Rucksack	48
+2503	alphabet	das Abc	48
+2619	crayon	der Buntstift	48
+2637	grade	die Note	48
+2638	felt-tip pen	der Filzstift	48
+2642	mathematics	die Mathematik	48
+2644	music teacher (m)	der Musiklehrer	48
+2645	music teacher (f)	die Musiklehrerin	48
+3175	favorite subject	das Lieblingsfach	48
+3188	break	der Pause	48
 110	to discuss	diskutieren	50
 754	to press	drücken	50
 882	to answer	antworten	50
@@ -864,6 +1059,22 @@ English	German
 2949	to obtain; to procure	besorgen	50
 2955	to turn; to revolve	drehen	50
 2957	to notice; to observe	bemerken	50
+3017	to shake	schütteln	50
+3088	to lie; to say something not true	lügen	50
+3089	to repeat	wiederholen	50
+3090	to arrive	ankommen	50
+3105	to sip	nippen	50
+3106	to swallow	schlucken	50
+3111	to allow	gönnen	50
+3112	to spend time	verbringen	50
+3129	to pick up	aufheben	50
+3169	to concentrate on	sich auf konzentrieren zu	50
+3172	to smile	lächeln	50
+3173	to laugh	lachen	50
+3183	to rent	mieten	50
+3184	to rent out	vermieten	50
+3190	to clean	putzen	50
+3192	to introduce	vorstellen	50
 1138	rarely	selten	52
 1144	something; a little	etwas	52
 1172	comfortable	bequem	52
@@ -871,13 +1082,10 @@ English	German
 1194	free(ly)	frei	52
 1202	quite; rather	recht	52
 1209	urgent	dringend	52
-1212	just; exactly	gerade; nur	52
-1236	related to	verwandt mit	52
+1212	just; exactly	gerade; nur	46
 1295	around (a place)	um ... herum	52
 1543	(intensifying participle used with imperatives)	doch	52
-1545	cozy; cozily	gemütlich	52
 1548	(softening participle used with imperatives)	mal	52
-1551	suspenseful; exciting	spannend	52
 1788	tender	zart	52
 1793	from; out of; made of	aus	52
 1794	at; near; with	bei	52
@@ -887,28 +1095,19 @@ English	German
 1814	therefore	deshalb	52
 1960	Let's ...	Lass uns doch ...	52
 1970	occupied; taken	besetzt	52
-1975	separate(ly)	getrennt	52
 1976	I hope	hoffentlich	52
 1977	daily	täglich	52
 1979	full; crowded	voll	52
 1980	somewhat; rather	ziemlich	52
-1985	next to; beside	neben	52
 2207	simply	einfach	52
-2208	unbearable	unerträglich	52
-2216	quite a few	etlichen	52
 2218	even	sogar	52
-2221	useless	Nichtsnutz	52
-2224	mysterious	geheimnisvolle	52
 2225	such	solchem	52
 2232	done; at all	gar	52
-2233	odd	merkwürdig	52
 2238	for it; instead	dafür	52
 2240	thin	dünn	52
 2241	double	doppelt	52
 2243	though; certainly	allerdings	52
 2244	useful	nützlich	52
-2249	nowhere; not anywhere	nirgends; nirgendwo	52
-2250	magnificent	prächtig	52
 2254	to and fro	hin und her	52
 2255	there and back	hin und zurück	52
 2259	distant	fern	52
@@ -919,291 +1118,118 @@ English	German
 2291	asleep	schlafend	52
 2305	for hours	stundenlang	52
 2308	suddenly	plötzlich	52
-2310	delicious	köstlich	52
-2329	like a shot	wie der Blitz	52
+2310	delicious	köstlich; lecker	52
 2403	about	ungefähr	52
 2454	myself	ich selber	52
 2463	once	einmal; einst	52
-2467	poor	arm	52
 2596	bad; evil	böse	52
 2651	in no time	im Nu	52
 2653	with it	dazu	52
 2655	hard; tough	hart	52
-2656	meanwhile	inzwischen	52
 2657	something	irgendetwas	52
 2658	somewhere	irgendwo	52
 2659	ever; each	je	52
 2661	in any case	jedenfalls	52
 2662	however	jedoch	52
-2663	powerful	mächtig	52
-2664	after we talked	nachdem wir sprachen	52
 2665	nearer	näher	52
 2666	now; well (filler)	nun	52
 2668	apparent	offenbar	52
-2669	safe; certain; reliable	sicher	52
+2669	safe; certain; reliable	sicher	38
 2670	as soon as	sowie	52
 2672	by the way	übrigens	52
 2673	during	während	52
-2709	possible	allfällig	52
+2709	possible	möglich; allfällig	52
 2710	generally	allgemeinen	52
-2711	exclusive	ausschließlich	52
 2712	acquainted	bekannt	52
 2728	use	die Nutzung	52
-2742	basically; as a matter of principle	grundsätzlich	52
-2743	concerning	betreffend; bezüglich; hinsichtlich	52
-2744	respective	jeweiligen	52
-2745	no ___ whatsoever	keinerlei	52
-2746	overall; across the board	pauschal	52
 2760	furthermore; moreover	weiters	52
-2764	underlying	unterliegend	52
-2770	prompt(ly)	umgehend	52
 2818	actually; really	eigentlich	52
 2822	from there	daher	52
-2825	public	öffentlich	52
 2828	instant; moment; wink	der Augenblick	52
 2877	at all; actually; really	überhaupt	52
 2881	current	aktuelle	52
 2885	attainable	erreichbar	52
 2887	surprised; amazed	überrascht	52
-2900	hereupon; thereupon	daraufhin	52
 2903	real; actual	echte	52
 2918	on the way	unterwegs	52
 2933	horrible; dreadful	fürchterlich	52
-2952	bold; courageous	mutig	52
 2953	indeed	zwar	52
-2954	forth	hervor	52
 2961	just as good	genauso gut	52
 2968	thereby	dabei	52
 2969	due to; thanks to	wegen	52
 2972	until; hitherto	bisher	52
 2974	barely; hardly	kaum	52
-2976	actual; really	tatsächlich	52
 2982	finished; completed	fertig	52
 2983	funny	komisch	52
 2984	bad; wicked	schlimm	52
 2988	before	bevor	52
 2989	onto	hinaus	52
-2991	eternal	ewig	52
 2995	tight; close; narrow	eng	52
-2997	likewise; ditto; also	ebenfalls	52
-3000	anew; afresh	erneut	52
-3003	pure; absolute	rein	52
-3005	whose	dessen	52
-3016	definite	fest	52
-3022	instead of	anstatt	52
-3024	appalled; aghast	entsetzt	52
-3040	certain; positive	überzeugt	52
-3041	various	verschiedenen	52
-3043	so much the better	desto besser	52
-3048	constantly; permanently	ständig	52
-3049	gradual; gradually	allmählich	52
-3058	busy	beschäftigt	52
 3069	ready	bereit	52
 3072	it sounds	es klingt	52
 3074	there	dorthin	52
 3075	whether	ob	52
 3077	over; across	hinüber	52
 3078	over it; above it	darüber	52
-3079	over; finished; gone	vorbei	52
-3080	out of; apart from	außer	52
-199	correct	richtig	54
-220	difficult	schwer; schwierig	54
-222	easy	leicht	54
-223	fun	der Spaß	54
-224	nice	nett	54
-227	happy	froh; glücklich	54
-228	sad	traurig	54
-229	bright	hell	54
-235	under; below; beneath	unter	54
-236	over; above	über	54
-237	near ___	in der Nähe von ___	54
-238	different	verschieden	54
-370	tall; high(ly)	hoch	54
-373	short	kurz	54
-703	big	groß	54
-706	a small amount; not much	wenig	54
-707	a little	ein bißchen	54
-714	enough	genug	54
-715	not enough	nicht genug	54
-725	far	weit	54
-726	up	hinauf	54
-727	under; downstairs; on the bottom	unten	54
-751	except	ausgenommen	54
-756	beginning	der Anfang	54
-769	a few	einige	54
-772	already	schon	54
-777	immediately	sofort	54
-780	between	zwischen	54
-791	clear	klar	54
-801	FALSE	falsch	54
-803	few; not many	wenige	54
-810	of; from; by	von	54
-811	from the top	von oben	54
-824	before; in front of	vor	54
-832	low	niedrig	54
-836	narrow	schmal	54
-843	of course; natural(ly)	natürlich	54
-847	on top	oben	54
-857	round	rund	54
-876	then	dann	54
-881	to	an; zu	54
-899	after; toward	nach	54
-900	toward the bottom	nach unten	54
-904	usual; usually	gewöhnlich	54
-911	wide	breit	54
-991	definitely	bestimmt	54
-994	really	echt; wirklich	54
-1001	always	immer	54
-1109	again	wieder	54
-1135	nothing	nichts	54
-1283	without	ohne	54
-1321	through the room	durchs Zimmer	54
-1322	there is; there are	es gibt	54
-1323	through	durch	54
-1393	against; around a time	gegen	54
-1787	necessary	nötig; notwendig	54
-1791	each; every	jeder	54
-1792	which	welcher	54
-1981	at; on; to; near	an	54
-1982	on; on top of; at	auf	54
-1983	behind; in back of	hinter	54
-2212	out	heraus	54
-2214	both	beide	54
-2220	because	denn; weil	54
-2230	to it	darauf	54
-2231	nobody	niemand	54
-2237	almost	fast	54
-2257	never	nie	54
-2277	outside	draußen	54
-2456	near	nahe	54
-2458	next	nächst	54
-2464	other	ander	54
-2474	soon	bald	54
-2646	too much	zu viel	54
-2647	too little	zu wenig	54
-2667	open	offen	54
-2879	either	beider	54
-454	rope	die Schnur	55
-484	large package	das Paket	55
-1065	cell phone	das Handy	55
-1228	camera	der Fotoapparat	55
-1747	purse	die Tasche	55
-2977	key	der Schlüssel	55
-388	chimney	der Schornstein	56
-1058	place of residence	der Wohnort	56
-1076	living room	das Wohnzimmer	56
-1104	window	das Fenster	56
-1114	bedroom	das Schlafzimmer	56
-1120	dining room	das Esszimmer	56
-1125	garage	die Garage	56
-1146	terrace; patio	die Terrasse	56
-1153	workroom; study	das Arbeitszimmer	56
-1154	balcony	der Balkon	56
-1155	bathroom	das Badezimmer	56
-1159	garden; yard	der Garten	56
-1169	bath; bathroom	das Bad	56
-1186	clothes closet	der Kleiderschrank	56
-1233	around the house	ums Haus	56
-2589	floor; ground	der Boden	56
-2904	basement	der Keller	56
-2905	stairway	der Treppenaufgang	56
-2906	steps	die Treppe	56
-2907	porch	die Veranda; die Vorhalle	56
-2908	doorbell	die Türklingel	56
-2909	hallway	der Gang	56
-195	chair	der Stuhl	57
-200	door	die Tür	57
-213	table	der Tisch	57
-275	room	das Zimmer	57
-502	household	der Haushalt	57
-503	housework	die Hausarbeit	57
-507	hobby	das Hobby	57
-532	record	die Schallplatte	57
-540	things	die Sachen	57
-562	small package	das Päckchen	57
-566	bed	das Bett	57
-906	wall	die Wand	57
-1061	alarm clock	der Wecker	57
-1068	computer	der Computer	57
-1072	desk	der Schreibtisch	57
-1075	lamp	die Lampe	57
-1078	nightstand	der Nachttisch	57
-1079	photograph	das Foto	57
-1080	photographs	die Fotos	57
-1081	poster	das Poster	57
-1084	radio	das Radio	57
-1090	sofa	das Sofa	57
-1103	videotape	das Video	57
-1105	CD player	der CD-Spieler	57
-1106	DVD player	der DVD-Spieler	57
-1107	TV set	der Fernseher	57
-1112	armchair	der Sessel	57
-1121	dresser	die Kommode	57
-1136	posters	die Poster	57
-1140	rug; carpet	der Teppich	57
-1141	shelf	das Regal	57
-1145	telephone	das Telefon	57
-1160	houseplant	die Zimmerpflanze	57
-1165	stereo	die Stereoanlage	57
-1180	wastebasket	der Papierkorb	57
-1181	VCR	der Videorecorder	57
-1188	coffee table	der Couchtisch	57
-1217	bookcase	das Bücherregal	57
-1218	computer connection	der Computeranschluss	57
-2533	sink	die Spüle	57
-2543	bathtub	die Badewanne	57
-2570	broom	der Besen	57
-3076	mirror	der Spiegel	57
-192	answer	die Antwort	58
-193	blackboard	die Tafel	58
-196	chalk	die Kreide	58
-197	class	die Klasse; der Unterricht	58
-203	ink	die Tinte	58
-204	letter of the alphabet	der Buchstabe	58
-205	notebook	das Heft	58
-206	paper	das Papier	58
-207	pen	der Kugelschreiber	58
-208	pencil	der Bleistift	58
-209	question	die Frage	58
-210	sentence	der Satz	58
-211	student (f)	die Schülerin	58
-214	teacher (f)	die Lehrerin	58
-217	to the blackboard	an die Tafel	58
-377	schoolbus	der Schulebus	58
-406	teacher (m)	der Lehrer	58
-413	school	die Schule	58
-437	student (m)	der Student; der Schüler	58
-475	cassete; tape	die Kassette	58
-477	university	die Universität	58
-488	film; movie	der Film	58
-518	dictionary	das Wörterbuch	58
-549	scissors	die Schere	58
-557	test	die Prüfung	58
-1745	backpack	der Rucksack	58
-2503	alphabet	das Abc	58
-2619	crayon	der Buntstift	58
-2637	grade	die Note	58
-2638	felt-tip pen	der Filzstift	58
-2642	mathematics	die Mathematik	58
-2644	music teacher (m)	der Musiklehrer	58
-2645	music teacher (f)	die Musiklehrerin	58
-371	van	der Lieferwagen	59
-374	street light	die Straßenlaterne	59
-376	traffic light	die Ampel	59
-378	fire engine	das Löschfahrzeug	59
-382	maple tree	der Ahorn	59
-383	pine tree	der Kiefer	59
-396	grass	das Gras	59
-397	telephone pole	der Telefonpfosten	59
-398	tree	der Baum	59
-404	fire hydrant	der Feuerhydrant	59
-409	truck	der Lastwagen	59
-412	house	das Haus	59
-416	bus	der Bus	59
-419	flower	die Blume	59
-1174	motorcycle	das Motorrad	59
-2246	fence	der Zaun	59
-2581	leaf	das Blatt	59
+3079	by; over; finished; gone	vorbei	52
+3137	dreadful	grause	52
+511	sweater	der Pullover	56
+512	blouse	die Bluse	56
+514	size	die Größe	56
+533	jacket	die Jacke	56
+755	button	der Knopf	56
+1291	necktie	die Krawatte; der Schlips	56
+1292	bracelet	das Armband	56
+1325	wristwatch	die Armbanduhr	56
+1683	article of clothing	das Kleidungsstück	56
+1685	suit	der Anzug	56
+1687	swimming suit	der Badeanzug	56
+1690	belt	der Gürtel	56
+1692	button-down shirt	das Hemd	56
+1694	casual shirt	das Sporthemd	56
+1697	hat	der Hut	56
+1702	dress	das Kleid	56
+1706	coat	der Mantel	56
+1708	cap	die Mütze	56
+1712	skirt	der Rock	56
+1714	sport coat	das Sakko	56
+1716	scarf	der Schal	56
+1718	shoe	der Schuh	56
+1720	slipper	der Hausschuh	56
+1721	tennis shoe	der Tennisschuh	56
+1722	sock	die Socke	56
+1724	boot	der Stiefel	56
+1726	stocking	der Strumpf	56
+1728	T-shirt	das T-Shirt	56
+1777	The color looks good on me.	Die Farbe steht mir.	56
+1784	striped	gestreift	56
+1785	plaid	kariert	56
+1786	fashionable	modisch	56
+1808	Do you like this shirt?	Gefällt Ihnen dieses Hemd?	56
+1809	I like it.	Es gefällt mir.	56
+1810	Size 42 will fit her for sure.	Größe 42 passt ihr bestimmt.	56
+1811	This shirt looks good on you.	Das Hemd steht dir gut.	56
+371	van	der Lieferwagen	58
+374	street light	die Straßenlaterne	58
+376	traffic light	die Ampel	58
+378	fire engine	das Löschfahrzeug	58
+382	maple tree	der Ahorn	58
+383	pine tree	der Kiefer	58
+396	grass	das Gras	58
+397	telephone pole	der Telefonpfosten	58
+398	tree	der Baum	58
+404	fire hydrant	der Feuerhydrant	58
+409	truck	der Lastwagen	58
+412	house	das Haus	58
+416	bus	der Bus	58
+419	flower	die Blume	58
+1174	motorcycle	das Motorrad	58
+2246	fence	der Zaun	58
+2581	leaf	das Blatt	58
+2832	river	der Fluss	58
+2835	forest	der Wald	58
+3122	sidewalk	der Bürgersteig	58
+237	near ___	in der Nähe von ___	60
 314	What is the name of the town?	Wie heißt die Stadt?	60
 315	What is the name of the street?	Wie heißt die Straße?	60
 320	What is the address?	Wie ist die Adresse?	60
@@ -1252,7 +1278,9 @@ English	German
 1806	at home	zu Hause	60
 1862	cafe	das Cafe	60
 1923	beer garden (restaurant)	der Biergarten	60
+1985	next to; beside	neben	60
 2654	community	die Gemeinschaft	60
+3093	located	gelegen	60
 189	Europe	das Europa	61
 191	Germany	das Deutschland	61
 263	train	der Zug	61
@@ -1309,42 +1337,53 @@ English	German
 1812	That is too expensive for me.	Das ist mir zu teuer.	62
 1944	bill	die Rechnung	62
 1946	day a business is closed	der Ruhetag	62
-511	sweater	der Pullover	63
-512	blouse	die Bluse	63
-514	size	die Größe	63
-533	jacket	die Jacke	63
-755	button	der Knopf	63
-1291	necktie	die Krawatte; der Schlips	63
-1292	bracelet	das Armband	63
-1325	wristwatch	die Armbanduhr	63
-1683	article of clothing	das Kleidungsstück	63
-1685	suit	der Anzug	63
-1687	swimming suit	der Badeanzug	63
-1690	belt	der Gürtel	63
-1692	button-down shirt	das Hemd	63
-1694	casual shirt	das Sporthemd	63
-1697	hat	der Hut	63
-1702	dress	das Kleid	63
-1706	coat	der Mantel	63
-1708	cap	die Mütze	63
-1712	skirt	der Rock	63
-1714	sport coat	das Sakko	63
-1716	scarf	der Schal	63
-1718	shoe	der Schuh	63
-1720	slipper	der Hausschuh	63
-1721	tennis shoe	der Tennisschuh	63
-1722	sock	die Socke	63
-1724	boot	der Stiefel	63
-1726	stocking	der Strumpf	63
-1728	T-shirt	das T-Shirt	63
-1777	The color looks good on me.	Die Farbe steht mir.	63
-1784	striped	gestreift	63
-1785	plaid	kariert	63
-1786	fashionable	modisch	63
-1808	Do you like this shirt?	Gefällt Ihnen dieses Hemd?	63
-1809	I like it.	Es gefällt mir.	63
-1810	Size 42 will fit her for sure.	Größe 42 passt ihr bestimmt.	63
-1811	This shirt looks good on you.	Das Hemd steht dir gut.	63
+811	from the top	von oben	63
+900	toward the bottom	nach unten	63
+1236	related to	verwandt mit	63
+1545	cozy; cozily	gemütlich	63
+1551	suspenseful; exciting	spannend	63
+1975	separate(ly)	getrennt	63
+2208	unbearable	unerträglich	63
+2216	quite a few	etlichen	63
+2221	useless	Nichtsnutz	63
+2224	mysterious	geheimnisvolle	63
+2233	odd	merkwürdig	63
+2249	nowhere; not anywhere	nirgends; nirgendwo	63
+2250	magnificent	prächtig	63
+2329	like a shot	wie der Blitz	63
+2656	meanwhile	inzwischen	63
+2663	powerful	mächtig	63
+2664	after we talked	nachdem wir sprachen	63
+2711	exclusive	ausschließlich	63
+2742	basically; as a matter of principle	grundsätzlich	63
+2743	concerning	betreffend; bezüglich; hinsichtlich	63
+2744	respective	jeweiligen	63
+2745	no ___ whatsoever	keinerlei	63
+2746	overall; across the board	pauschal	63
+2764	underlying	unterliegend	63
+2770	prompt(ly)	umgehend	63
+2825	public	öffentlich	63
+2900	hereupon; thereupon	daraufhin	63
+2952	bold; courageous	mutig	63
+2954	forth	hervor	63
+2976	actual; really	tatsächlich	63
+2991	eternal	ewig	63
+2997	likewise; ditto; also	ebenfalls	63
+3000	anew; afresh	erneut	63
+3003	pure; absolute	rein	63
+3005	whose	dessen	63
+3016	definite	fest	63
+3022	instead of	anstatt	63
+3024	appalled; aghast	entsetzt	63
+3040	certain; positive	überzeugt	63
+3041	various	verschiedenen	63
+3043	so much the better	desto besser	63
+3048	constantly; permanently	ständig	63
+3049	gradual; gradually	allmählich	63
+3058	busy	beschäftigt	63
+3080	out of; apart from	außer	63
+3116	astonished	erstaunt	63
+3191	about what	worüber	63
 1942	place; seat	der Platz	64
 1954	What will you have? (formal)	Was bekommen Sie?	64
 1998	Is this place free?	Ist hier noch frei?	64
@@ -1369,6 +1408,7 @@ English	German
 1401	Valentine's Day	der Valentinstag	66
 1441	Mondays; on Monday(s)	montags	66
 1442	Tuesdays; on Tuesday(s)	dienstags	66
+3187	Easter Sunday	der Ostersonntag	66
 496	play	das Stück; das Schauspiel	67
 1443	ballet	das Ballett	67
 1444	ballets	die Ballette	67
@@ -1416,6 +1456,7 @@ English	German
 2934	skin	die Haut	68
 2948	brain	das Hirn	68
 3081	head	der Kopf	68
+3166	throat	die Kehle	68
 435	doctor	der Arzt	69
 440	medicine	das Medikament	69
 523	stuffy nose	der Schnupfen	69
@@ -1426,8 +1467,10 @@ English	German
 2935	breath	der Atem	69
 2936	to breathe	atmen	69
 2941	strength; power	die Kraft	69
+2942	voice	die Stimme	69
 2975	dream	der Traum	69
 3082	dentist	der Zahnarzt	69
+3171	hospital	das Krankenhaus	69
 1085	rent	die Miete	70
 1087	roommate	der Mitbewohner	70
 1158	furnished	möbliert	70
@@ -1700,20 +1743,6 @@ English	German
 1731	(pair of) eyeglasses	die Brille	79
 1732	pairs of eyeglasses	die Brillen	79
 1737	sizes	die Größen	79
-1252	his; its	sein	80
-1272	our grandma	unsere Oma	80
-1299	your (formal)	Ihr	80
-1300	my grandma	meine Oma	80
-1311	I see our friend.	Ich sehe unseren Freund.	80
-1313	your (informal plural)	euer	80
-1339	our parents	unsere Eltern	80
-1358	your (informal plural) female friend	eure Freundin	80
-1370	our	unser	80
-1395	her; its; theirs	ihr	80
-1396	my	mein	80
-1397	me	mich	80
-1419	your	dein	80
-1424	my parents	meine Eltern	80
 1244	you (accusative)	dich	81
 1289	(to) him; it	ihn	81
 1297	you (informal plural accusative)	euch	81
@@ -2057,6 +2086,11 @@ English	German
 2595	boat	das Boot	89
 2628	comic	der Comic	89
 2833	tennis court	der Tennisplatz	89
+2888	to ski	Ski fahren	89
+2892	sled	der Schlitten; der Bob	89
+2893	toboggan	der Rodelschlitten	89
+2894	to sled	Schlitten fahren; schlittern	89
+2895	ski	der Ski; der Schi	89
 2729	(the) public	die Öffentlichkeit	90
 2943	election; choice	die Wahl	90
 2973	government	die Regierung	90
@@ -2194,7 +2228,8 @@ English	German
 2239	moustache	der Schnurrbart	95
 2258	reason; grounds	der Grund	95
 2261	contact	die Berührung	95
-2281	fear	die Angst	95
+2280	snout	die Schnauze; der Rüssel	95
+2281	fear	die Angst	38
 2303	wave	die Welle	95
 2323	step	der Schritt	95
 2327	pack	das Rudel	95
@@ -2400,25 +2435,28 @@ English	German
 2558	farmer	der Bauer	99
 2627	clown	der Clown	99
 2629	cowboy	der Cowboy	99
-3144	cat	die Katze	42
-3145	bird	der Vogel	42
-3146	horse	das Pferd	42
-3147	cow	die Kuh	42
-3148	chicken	das Huhn	42
-3149	pig	das Schwein	42
-3150	turkey	der Truthahn	42
-3151	goat	die Ziege	42
-3152	sheep	das Schaf	42
-3153	mouse	die Maus	42
-3154	rat	die Ratte	42
-3155	rabbit	das Kaninchen	42
-3156	deer	das Reh	42
-3157	snake	die Schlange	42
-3158	lion	der Löwe	42
-3159	tiger	der Tiger	42
-3160	elephant	der Elefant	42
-3161	donkey	der Esel	42
-3162	dolphin	der Delfin	42
-3163	whale	der Wal	42
-3164	giraffe	die Giraffe	42
-3165	wolf	der Wolf	42
+388	chimney	der Schornstein	134
+2510	eagle	der Adler	142
+2574	beaver	der Biber	142
+2616	buffalo	der Büffel	142
+2632	badger	der Dachs	142
+3162	dolphin	der Delfin	142
+3163	whale	der Wal	142
+2263	dull; cloudy	trüben	144
+2306	snow cover	die Schneedecke	144
+2860	fair; bright	heiter	144
+2864	muggy; humid	schwül	144
+2891	sleet	der Graupel	144
+2993	frost	der Reif	144
+3193	away	weg	9
+3194	her	ihre	28
+3195	quite; completely; all	ganz	26
+3196	back; behind; in back of	zurück	26
+3197	said	gesagt	26
+3198	better	besser	38
+3199	pair	dar Paar	56
+3200	further; more	weiter	36
+3201	order	die Ordnung	36
+3202	What happened?	Was ist passiert?	30
+3203	the same; equal	gleich	36
+3204	rich	reich	38
