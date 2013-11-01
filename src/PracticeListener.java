@@ -65,8 +65,8 @@ class PracticeListener implements ActionListener {
 		     }
 			 ReadyForNextPair = true;
 		 }
-		 else if (inputString.getText().length() == 0) {
-			 if (NumTries == 0) {
+		 else if (inputString.getText().length() == 0) {         // just hit return
+			 if (NumTries <= 1) {
 	    		 WL.changeNumKnown(UserData.evaluatePairData(WP.getUserData()+"-")-UserData.evaluatePairData(WP.getUserData()));
 	             WP.modifyPairData("-");
 			 }	 
@@ -118,7 +118,7 @@ class PracticeListener implements ActionListener {
         	input.setText(WP.getWord(1-L));
         	help.setText("Preview: study it and hit Enter");
         	WP.modifyPairData("P");                               // previewed
-        	WL.revisitLater(n, 5);                                // queue up to revisit later
+        	WL.revisitLater(n, 7);                                // queue up to revisit later
         	CurrentPreview = true;
         }
         else {
