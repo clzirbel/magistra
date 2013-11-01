@@ -71,7 +71,7 @@ public class WordPair extends Object {
 
     public boolean containsString(int L, String A) {
 		boolean Contains = false;
-		Contains = (Word[L].indexOf(A) >= 0);
+		Contains = (Word[L].toLowerCase().indexOf(A.toLowerCase()) >= 0);
         return Contains;
     }
    public void registerTry() { NumTries++; };
