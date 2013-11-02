@@ -432,7 +432,7 @@ English	German
 262	friend (m)	der Freund	20
 336	young woman	das Fräulein	20
 338	gentleman	der Herr	20
-339	young ladies	die Fräulein	20
+339	young ladies	die Fräulein	76
 340	gentlemen	die Herren	20
 445	people	die Leute	20
 542	friendship	die Freundschaft	20
@@ -447,7 +447,7 @@ English	German
 2538	baby	das Baby	20
 2886	acquaintance; friend	der Bekannte	20
 3029	fellow; dude	der Kerl	20
-3168	queen	die Könige	20
+3168	queen	die Königin	20
 3170	king	der König	20
 248	brother	der Bruder	22
 257	mother	die Mutter	22
@@ -691,7 +691,7 @@ English	German
 370	tall; high(ly)	hoch	38
 373	short	kurz	38
 706	a small amount; not much	wenig	38
-707	a little	ein bißchen	38
+707	a little	ein bißchen; ein bisschen	38
 714	enough	genug	38
 715	not enough	nicht genug	38
 725	far	weit	38
@@ -738,7 +738,7 @@ English	German
 2230	to it	darauf	38
 2231	nobody	niemand	38
 2237	almost	fast	38
-2257	never	nie	38
+2257	never	nie; niemals	38
 2277	outside	draußen	38
 2456	near	nahe	38
 2458	next	nächst	38
@@ -1146,7 +1146,7 @@ English	German
 2818	actually; really	eigentlich	52
 2822	from there	daher	52
 2828	instant; moment; wink	der Augenblick	52
-2877	at all; actually; really	überhaupt	52
+2877	at all; actually; really	überhaupt	46
 2881	current	aktuelle	52
 2885	attainable	erreichbar	52
 2887	surprised; amazed	überrascht	52
@@ -1220,7 +1220,7 @@ English	German
 398	tree	der Baum	58
 404	fire hydrant	der Feuerhydrant	58
 409	truck	der Lastwagen	58
-412	house	das Haus	58
+412	house	das Haus	24
 416	bus	der Bus	58
 419	flower	die Blume	58
 1174	motorcycle	das Motorrad	58
@@ -1312,7 +1312,7 @@ English	German
 749	departure times	die Abfahrtszeiten	61
 752	to get off	aussteigen	61
 753	in time	rechtzeitig	61
-827	land	das Land	61
+827	country; land	das Land	61
 1011	Americans (m)	die Amerikaner	61
 1012	American (f)	die Amerikanerin	61
 1014	Americans (f)	die Amerikanerinnen	61
@@ -1493,13 +1493,13 @@ English	German
 932	cheerful; fun	lustig	71
 934	practical	praktisch	71
 935	romantic	romantisch	71
-936	quiet	ruhig; leise	71
+936	quiet	ruhig; leise	46
 937	athletic	sportlich	71
 938	stressful	stressig	71
 939	likeable	sympathisch	71
 940	unlikable	unsympathisch	71
-941	super!	toll!	71
-942	super! great!	ganz toll!	71
+941	super!	toll!	46
+942	super! great!	ganz toll!	46
 943	loyal	treu	71
 1044	interest	das Interesse	71
 2229	proud	stolz	71
@@ -1682,7 +1682,7 @@ English	German
 1273	seventh	siebte; siebente	77
 1314	second (order)	zweite	77
 1327	eleventh	elfte	77
-1329	first	erste; zuerst	77
+1329	first	erste; zuerst	46
 1342	tenth	zehnte	77
 1351	fifth	fünfte	77
 1352	thirteenth	dreizehnte	77
@@ -2226,7 +2226,7 @@ English	German
 2226	nonsense	der Unsinn	95
 2235	manufacturer	der Hersteller	95
 2239	moustache	der Schnurrbart	95
-2258	reason; grounds	der Grund	95
+2258	reason; grounds	der Grund	52
 2261	contact	die Berührung	95
 2280	snout	die Schnauze; der Rüssel	95
 2281	fear	die Angst	38
@@ -2257,7 +2257,7 @@ English	German
 2920	amount; abundance; set	die Menge	95
 2959	hope	die Hoffnung	95
 2960	devil	der Teufel	95
-2986	fault; guilt	die Schuld	95
+2986	fault; guilt	die Schuld	52
 2990	lie	die Lüge	95
 2994	possibilities	die Möglichkeiten	95
 2996	enthusiasm	die Begeisterung	95
@@ -2317,7 +2317,7 @@ English	German
 2962	percent	das Prozent	96
 2963	millions	die Millionen	96
 2964	as; here; since	da	96
-2966	approximately; perhaps	etwa	96
+2966	approximately; perhaps	etwa	46
 2971	last year	im vergangenen Jahr	96
 3038	melted	geschmolzen	96
 3044	bouncing	aufschneiderisch	96
@@ -2460,3 +2460,33 @@ English	German
 3202	What happened?	Was ist passiert?	30
 3203	the same; equal	gleich	36
 3204	rich	reich	38
+3205	Well done!	Gut gemacht!	30
+3206	dead	tot	46
+3207	children	die Kinder	20
+3208	I may; I am allowed to	ich darf	46
+3209	That's right.	Das stimmt.	30
+3210	alone	allein	38
+3211	down	runter	38
+3212	to understand	verstehen	40
+3213	crazy; mad	verrückt	46
+3214	rest; calm; peace	die Ruhe	46
+3215	last	letzte	46
+3216	It's your turn.	Sie sind dran.	46
+3217	hand	die Hand	24
+3218	to kill	töten	50
+3219	death	der Tod	46
+3220	story; history	die Geschichte	52
+3221	troubles; worries	die Sorgen	52
+3222	to be lost; to become lost	verloren	50
+3223	Vienna lies on the Danube.	Wien liegt an der Donau.	60
+3224	someone	jemand	20
+3225	heart	dar Herz	68
+3226	treasure; sweetheart	der Schatz	46
+3227	just; level; plane	eben	46
+3228	truth	die Wahrheit	52
+3229	sometimes	manchmal	38
+3230	idea	die Idee	52
+3231	but; rather	sondern	52
+3232	place; location	der Ort	60
+3233	fire	das Feuer	24
+3234	only; merely; just	bloß	46
