@@ -31,7 +31,7 @@ public class Practice {
     JLabel baseLang    = new JLabel(WL.getLanguage(L));
     JLabel baseWord    = new JLabel(WP.getWord(L));
     JLabel foreignLang = new JLabel(WL.getLanguage(1-L));
-    JTextField input   = new JTextField(30);
+    JTextField input   = new JTextField(40);
     JLabel status      = new JLabel("You know " + WL.getNumKnown() + " words.  Group " + WP.getGroup() + " " + WP.getUserData());
     JLabel help        = new JLabel("");
     JButton skip       = new JButton("Skip once");
@@ -59,6 +59,8 @@ public class Practice {
 
     pane.add(baseLang);
     pane.add(baseWord);
+//    foreignLang.setMinimumSize(new Dimension(100,100));
+//    foreignLang.setPreferredSize(new Dimension(100,100));
     pane.add(foreignLang);
     pane.add(input);
     pane.add(status);
@@ -79,7 +81,7 @@ public class Practice {
     exit.addActionListener(listener);
 
     frame.pack();
-    frame.show();
+    frame.setVisible(true);
     
     }
 }

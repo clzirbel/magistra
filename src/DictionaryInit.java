@@ -1,14 +1,35 @@
 // DictionaryInit.java
 import java.awt.*;
 
+import javax.swing.BoxLayout;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
+import javax.swing.UIManager;
+import javax.swing.UnsupportedLookAndFeelException;
 
-public class DictionaryInit extends JFrame {
+public class DictionaryInit {
     public DictionaryInit (WordList WL) {
 	
-    Panel p = new Panel();
+    JFrame frame = new JFrame("Magistra editor");
+    Container p = frame.getContentPane();
+
+//    Panel p = new Panel();
     p.setLayout(new GridLayout(9,2));
+//    p.setLayout(new BoxLayout(9,2));
+    
+    String laf = UIManager.getSystemLookAndFeelClassName();
+    try
+    {
+    	UIManager.setLookAndFeel(laf);
+    }
+    catch (UnsupportedLookAndFeelException exc)
+    {
+    	System.err.println ("[WARNING] Unsupported Look and Feel: " + laf + ".");
+    }
+    catch (Exception exc)
+    {
+    	System.err.println ("[WARNING] Error loading " + laf + ": " + exc + ".");
+    }
 
     Label baseLang          = new Label(WL.getLanguage(0)+" (hit Enter to add pair)");
     TextField baseWord      = new TextField(30);
@@ -73,8 +94,6 @@ public class DictionaryInit extends JFrame {
     p.add(clear);
     p.add(kb1);
     p.add(kb2);
-
-    add(p,"Center");
     
     DictionaryListener listener = new DictionaryListener (WL, baseWord, foreignWord, baseDisplay, foreignDisplay, foundarray, beingedited);
 
@@ -91,9 +110,15 @@ public class DictionaryInit extends JFrame {
     editentry.addActionListener(actionlistener);
     remove.addActionListener(actionlistener);
 
-    setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-    
-    setSize(600,500);
-    setVisible(true);
+//    add(p,"Center");
+//    setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+//    setSize(600,500);
+//    setVisible(true);
+
+    frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+    frame.setVisible(true);
+    frame.pack();
+    frame.setSize(600,500);
+
     }
 }
