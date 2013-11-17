@@ -37,7 +37,7 @@ public class Practice {
     JButton skip       = new JButton("Skip once");
     JButton forever    = new JButton("Skip forever");
     JButton switchDir  = new JButton("Switch direction");
-    JButton exit       = new JButton("Exit");
+    JButton exit       = new JButton("Save and exit");
     JLabel kb1;
     JLabel kb2;
     if (WL.getLanguage(1-L).equals("German"))

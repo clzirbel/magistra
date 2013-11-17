@@ -34,7 +34,7 @@ class PracticeListener implements ActionListener {
 	    L = 1 - L;
 		ReadyForNextPair = true;
 	}
-	else if (e.getActionCommand().equals("Exit")) {
+	else if (e.getActionCommand().equals("Save and exit")) {
 	    WL.writeUserData();
         System.exit(0);
 	}
