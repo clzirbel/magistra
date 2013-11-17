@@ -1,9 +1,7 @@
 // DictionaryInit.java
 import java.awt.*;
-
-import javax.swing.BoxLayout;
+import javax.swing.Box;
 import javax.swing.JFrame;
-import javax.swing.JLabel;
 import javax.swing.UIManager;
 import javax.swing.UnsupportedLookAndFeelException;
 
@@ -11,11 +9,8 @@ public class DictionaryInit {
     public DictionaryInit (WordList WL) {
 	
     JFrame frame = new JFrame("Magistra editor");
-    Container p = frame.getContentPane();
 
-//    Panel p = new Panel();
-    p.setLayout(new GridLayout(9,2));
-//    p.setLayout(new BoxLayout(9,2));
+    frame.setLayout(new FlowLayout());
     
     String laf = UIManager.getSystemLookAndFeelClassName();
     try
@@ -35,20 +30,19 @@ public class DictionaryInit {
     TextField baseWord      = new TextField(30);
     Label foreignLang       = new Label(WL.getLanguage(1));
     TextField foreignWord   = new TextField(30);
-    Button exit             = new Button("Save and Exit");
     Label groupLabel        = new Label("Group (hit enter to add pair) -->");
-    Button clear            = new Button("Clear");
-    TextField group         = new TextField("25");
-    TextArea baseDisplay    = new TextArea(4,30);
-    TextArea foreignDisplay = new TextArea(4,30);
+    TextField group         = new TextField("20");
+    TextArea baseDisplay    = new TextArea(20,30);
+    TextArea foreignDisplay = new TextArea(20,30);
     Label editentrylabel    = new Label("Edit this entry -->");
-    TextField editentry     = new TextField(30);
+    TextField editentry     = new TextField("");
     Label changegrouplabel  = new Label("Change group of this entry to current group -->");
-    TextField changegroup   = new TextField(30);
+    TextField changegroup   = new TextField("");
     Label removelabel       = new Label("Remove this entry -->");
-    TextField remove        = new TextField(30);
-    JLabel kb1;
-    JLabel kb2;
+    TextField remove        = new TextField("");
+    Button exit             = new Button("Save and Exit");
+    Button clear            = new Button("Clear");
+    Label kb1;
 
     int maxnumfound = 20;
     int[] foundarray = new int[maxnumfound];
@@ -57,46 +51,76 @@ public class DictionaryInit {
 
     if (WL.getLanguage(1).equals("German"))
     {
-    	kb1 = new JLabel("Press Alt-Left Shift for the German keyboard, then");
-    	kb2 = new JLabel("y for z, z for y, ; for ö, ' for ä, [ for ü, - for ß, _ for ?, < for ;");
+    	kb1 = new Label("Press Alt-Left Shift for the German keyboard, then y for z, z for y, ; for ö, ' for ä, [ for ü, - for ß, _ for ?, < for ;");
     }
     else if (WL.getLanguage(1).equals("Spanish"))
     {
-    	kb1 = new JLabel("Press Alt-Left Shift for the Spanish keyboard, then");
-    	kb2 = new JLabel("; for ñ, = for ¡, _ for ?, + for ¿, ' and a letter for é, í, ú, ó, á");
+    	kb1 = new Label("Press Alt-Left Shift for the Spanish keyboard, then ; for ñ, = for ¡, _ for ?, + for ¿, ' and a letter for é, í, ú, ó, á");
     }
     else 
     {
-    	kb1 = new JLabel("");
-    	kb2 = new JLabel("");
+    	kb1 = new Label("");
     }
 
-//    Label kb1         = new Label("Press Alt-Left Shift for the German keyboard, then");
-//    Label kb2         = new Label("y for z, z for y, ; for ö, ' for ä, [ for ü, - for ß, _ for ?, < for ;"); 
+    Dimension D = new Dimension(300,24);
+    foreignLang.setPreferredSize(D);
+    baseLang.setPreferredSize(D);
+    groupLabel.setPreferredSize(D);
+    group.setPreferredSize(D);
+    group.setMinimumSize(D);                   // can't get this box to be the right size when it has text in it!
+    editentrylabel.setPreferredSize(D);
+    editentry.setPreferredSize(D);
+    changegrouplabel.setPreferredSize(D);
+    changegroup.setPreferredSize(D);
+    removelabel.setPreferredSize(D);
+    remove.setPreferredSize(D);
+    exit.setPreferredSize(D);
+    clear.setPreferredSize(D);
+    kb1.setPreferredSize(new Dimension(600,24));
 
-    //    p.setLayout(new GridLayout(5,2));
+    Container row1 = Box.createHorizontalBox();
+    Container row2 = Box.createHorizontalBox();
+    Container row3 = Box.createHorizontalBox();
+    Container row4 = Box.createHorizontalBox();
+    Container row5 = Box.createHorizontalBox();
+    Container row6 = Box.createHorizontalBox();
+    Container row7 = Box.createHorizontalBox();
+    Container row8 = Box.createHorizontalBox();
+    Container row9 = Box.createHorizontalBox();
 
-    p.add(foreignLang);
-    p.add(baseLang);
-    p.add(foreignWord);
-    p.add(baseWord);
-    p.add(groupLabel);
-    p.add(group);
-    p.add(foreignDisplay);
-    p.add(baseDisplay);
-    p.add(editentrylabel);
-    p.add(editentry);
-    p.add(changegrouplabel);
-    p.add(changegroup);
-    p.add(removelabel);
-    p.add(remove);
-    p.add(exit);
-    p.add(clear);
-    p.add(kb1);
-    p.add(kb2);
+    row1.add(foreignLang);
+    row1.add(baseLang);
+    row2.add(foreignWord);
+    row2.add(baseWord);
+    row3.add(groupLabel);
+//    row3.add(Box.createHorizontalGlue());
+    row3.add(group);
+    row4.add(foreignDisplay);
+    row4.add(baseDisplay);
+    row5.add(editentrylabel);
+    row5.add(editentry);
+    row6.add(changegrouplabel);
+    row6.add(changegroup);
+    row7.add(removelabel);
+    row7.add(remove);
+    row8.add(exit);
+    row8.add(clear);
+    row9.add(kb1);
+
+    Container allRows = Box.createVerticalBox();
     
-    DictionaryListener listener = new DictionaryListener (WL, baseWord, foreignWord, baseDisplay, foreignDisplay, foundarray, beingedited);
+    allRows.add(row1);
+    allRows.add(row2);
+    allRows.add(row3);
+    allRows.add(row4);
+    allRows.add(row5);
+    allRows.add(row6);
+    allRows.add(row7);
+    allRows.add(row8);
+    allRows.add(row9);
+    frame.add(allRows);
 
+    DictionaryListener listener = new DictionaryListener (WL, baseWord, foreignWord, baseDisplay, foreignDisplay, foundarray, beingedited);
     DictionaryActionListener actionlistener = new DictionaryActionListener(WL, baseWord, foreignWord, group, baseDisplay, foreignDisplay, editentry, changegroup, remove, foundarray, beingedited);
 
     baseWord.addTextListener(listener);
@@ -110,15 +134,8 @@ public class DictionaryInit {
     editentry.addActionListener(actionlistener);
     remove.addActionListener(actionlistener);
 
-//    add(p,"Center");
-//    setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-//    setSize(600,500);
-//    setVisible(true);
-
     frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     frame.setVisible(true);
     frame.pack();
-    frame.setSize(600,500);
-
     }
 }

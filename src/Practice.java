@@ -1,5 +1,6 @@
 // Practice.java
 import java.awt.*;
+
 import javax.swing.*;
 
 public class Practice {
@@ -7,7 +8,7 @@ public class Practice {
 
     JFrame frame = new JFrame("Magistra");
     Container pane = frame.getContentPane();
-
+    
     int L = 0;  // default is to start with the base language
     int n = 0;  // first pair to practice
 
@@ -27,6 +28,9 @@ public class Practice {
     {
     	System.err.println ("[WARNING] Error loading " + laf + ": " + exc + ".");
     }
+
+    pane.setLayout(new GridLayout(6,2));
+    
 
     JLabel baseLang    = new JLabel(WL.getLanguage(L));
     JLabel baseWord    = new JLabel(WP.getWord(L));
@@ -55,7 +59,7 @@ public class Practice {
     	kb1 = new JLabel("");
     	kb2 = new JLabel("");
     }
-    pane.setLayout(new GridLayout(6,2));
+//    pane.setLayout(new GridLayout(6,2));
 
     pane.add(baseLang);
     pane.add(baseWord);
@@ -66,8 +70,8 @@ public class Practice {
     pane.add(status);
     pane.add(help);
     pane.add(skip);
-    pane.add(forever);
     pane.add(switchDir);
+    pane.add(forever);
     pane.add(exit);
     pane.add(kb1);
     pane.add(kb2);
@@ -80,6 +84,8 @@ public class Practice {
     switchDir.addActionListener(listener);
     exit.addActionListener(listener);
 
+
+    frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     frame.pack();
     frame.setVisible(true);
     
