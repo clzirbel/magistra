@@ -30,7 +30,13 @@ class PracticeListener implements ActionListener {
     }
 
     public void actionPerformed (ActionEvent e) {
-	if (e.getActionCommand().equals("Switch direction")) {
+
+        String[] result = new String[2];
+
+        result[0] = "";
+        result[1] = "";
+
+    if (e.getActionCommand().equals("Switch direction")) {
 	    L = 1 - L;
 		ReadyForNextPair = true;
 	}
@@ -81,6 +87,7 @@ class PracticeListener implements ActionListener {
 	     if (L==0) {                                             // "hard" direction
 	    	 if (NumTries == 0) {
 	    		 pc = WP.portionCorrect(1-L,inputString.getText());
+	    		 result = pc.split(" --> ");
 	    	 }
 	    	 else if (NumTries == 1) {
 	    		 WL.changeNumKnown(UserData.evaluatePairData(WP.getUserData()+"-")-UserData.evaluatePairData(WP.getUserData()));
@@ -89,12 +96,13 @@ class PracticeListener implements ActionListener {
 	     }
 	     else if (NumTries == 0) {
     		 pc = WP.portionCorrect(1-L,inputString.getText());
+    		 result = pc.split(" --> ");
 	     }
 	     else if (NumTries == 1) {
     		 WP.modifyPairData("=");
 	     }
-	     
-         input.setText("");
+	     	     
+         input.setText(result[0]);
          help.setText(pc);
          ReadyForNextPair = false;
 	     //          long startTime = System.currentTimeMillis();

@@ -46,7 +46,7 @@ public class WordPair extends Object {
        return Correct;
    }
    public String portionCorrect(int L, String A) { 
-       String p = "--> " + A;
+       String p = " --> " + A;
        int numcorrect = 0;                      // number of correct characters, counting from beginning
        StringTokenizer st;
        st = new StringTokenizer(Word[L],";");
