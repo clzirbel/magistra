@@ -398,6 +398,7 @@ English	German
 2021	three days ago	vor drei Tagen	16
 2023	in one hour	in einer Stunde	16
 2024	between 5 and 7 o'clock	zwischen fünf und sieben Uhr	16
+2972	until	bis	16
 34	200	zweihundert	18
 35	1000	tausend	18
 36	2000	zweitausend	18
@@ -450,6 +451,7 @@ English	German
 3170	king	der König	20
 3207	children	die Kinder	20
 3224	someone	jemand	20
+3271	adult; grown-up	der Erwachsene	20
 248	brother	der Bruder	22
 257	mother	die Mutter	22
 258	father	der Vater	22
@@ -500,6 +502,7 @@ English	German
 3096	tape; sticky tape	das Klebeband	24
 3217	hand	die Hand	24
 3233	fire	das Feuer	24
+3315	street	die Straße	24
 156	only	nur	26
 157	when	wann; als	26
 159	who	wer	26
@@ -537,6 +540,7 @@ English	German
 1050	name	der Name	26
 1089	so	so	26
 1127	gladly	gern	26
+1144	something; a little	etwas; irgendwas	26
 1162	maybe; perhaps	vielleicht	26
 1200	no; none; not any	kein	26
 1237	unfortunately	leider	26
@@ -556,6 +560,9 @@ English	German
 3195	complete; all	ganz	26
 3196	back; behind; in back of	zurück	26
 3197	said	gesagt	26
+3262	absolutely	wirklich	26
+3338	less	weniger	26
+3339	particularly	besonders	26
 1252	his; its	sein	28
 1272	our grandma	unsere Oma	28
 1299	your (formal)	Ihr	28
@@ -595,7 +602,7 @@ English	German
 651	Stop! (formal)	Halten Sie!	30
 652	Watch out!	Vorsicht!	30
 653	Fire!	Feuer!	30
-654	Call a doctor!	Rufen Sie einen Artz!	30
+654	Call a doctor!	Rufen Sie einen Arzt!	30
 655	Call an ambulance!	Rufen Sie einen Krankenwagen!	30
 656	Call the police!	Rufen Sie die Polizei!	30
 690	Can you ___? (formal)	Können Sie ___?	30
@@ -622,7 +629,6 @@ English	German
 2650	look here	schaut her	30
 2696	Give it to me.	Gib es mir!	30
 2697	Give me the letter.	Gib mir den Brief!	30
-2698	I will show you something.	Ich zeige dir etwas.	40
 2699	I will tell you everything.	Ich sage dir alles.	30
 2925	no clue	keine Ahnung	30
 3202	What happened?	Was ist passiert?	30
@@ -735,6 +741,7 @@ English	German
 3076	mirror	der Spiegel	36
 3100	keyboard	die Tastatur	36
 3132	drawer	die Schublade	36
+3312	light	das Licht	36
 199	correct	richtig	38
 220	difficult	schwer; schwierig	38
 222	easy	leicht	38
@@ -785,6 +792,8 @@ English	German
 1787	necessary	nötig; notwendig	38
 1791	each; every	jeder	38
 1792	which	welcher	38
+1799	to; too; on; at; for	zu	38
+1979	full; crowded	voll	38
 1981	at; on; to; near	an	38
 1982	on; on top of; at	auf	38
 1983	behind; in back of	hinter	38
@@ -818,6 +827,9 @@ English	German
 3210	alone	allein	38
 3211	down	runter	38
 3229	sometimes	manchmal	38
+3298	she means; she thinks; she says	sie meint	38
+3317	ill; sick	krank	38
+3330	empty	leer	38
 369	My car is fast.	Mein Auto ist schnell.	40
 927	He dances well.	Er tanzt gut.	40
 1340	he becomes	er wird	40
@@ -832,9 +844,11 @@ English	German
 2008	I had	ich hatte	40
 2010	he had	er hatte	40
 2031	he was	er war	40
+2084	they have gone	sie sind gegangen	40
 2213	he would	er würde	40
 2690	I collect	ich sammle	40
 2693	you see	du siehst	40
+2698	I will show you something.	Ich zeige dir etwas.	40
 2705	Come with me!	Komm mit!	40
 2708	Let's go!	Gehen wir!	40
 3072	it sounds	es klingt	40
@@ -846,6 +860,14 @@ English	German
 3216	It's your turn.	Sie sind dran.	40
 3242	he said	er sagte	40
 3252	That is easier said than done.	Das ist leichter gesagt als getan.	40
+3255	I arrive tomorrow.	Ich komme morgen an.	40
+3256	I should swim today.	Ich soll heute schwimmen.	40
+3257	Can you run?	Kannst du laufen?	40
+3259	I have too much to do!	Ich habe zu viel zu tun!	40
+3260	I feel hot.	Mir ist heiß.	40
+3261	I am very attractive!	Ich bin heiß.	40
+3309	it seems that ...	es scheint, dass ...	40
+3334	she hates	sie hasse	40
 1417	dog	der Hund	42
 2511	ape; monkey	der Affe	42
 2515	ant	die Ameise	42
@@ -982,6 +1004,14 @@ English	German
 3226	treasure; sweetheart	der Schatz	46
 3227	simply; just; level; plane	eben	46
 3234	only; merely; just	bloß	46
+3267	He is handsome.	Er ist fesch.	46
+3268	He looks good.	Er sieht gut aus.	46
+3269	She is pretty.	Sie ist schön.	46
+3272	unique	einzigartig	46
+3300	strange; odd	seltsam	46
+3308	part	der Teil	46
+3311	everywhere	überall	46
+3321	future	die Zukunft	46
 192	answer	die Antwort	48
 193	blackboard	die Tafel	48
 196	chalk	die Kreide	48
@@ -1017,6 +1047,8 @@ English	German
 2645	music teacher (f)	die Musiklehrerin	48
 3175	favorite subject	das Lieblingsfach	48
 3188	break	der Pause	48
+3294	report	der Bericht	48
+3328	corrections	die Verbesserung	48
 110	to discuss	diskutieren	50
 882	to answer	antworten	50
 884	to begin; to start	beginnen; anfangen	50
@@ -1108,6 +1140,7 @@ English	German
 2679	to load	laden	50
 2683	to throw	werfen	50
 2691	you advise	du rätst	50
+2868	to last	dauern	50
 2949	to obtain; to procure	besorgen	50
 2955	to turn; to revolve	drehen	50
 2957	to notice; to observe	bemerken	50
@@ -1127,11 +1160,21 @@ English	German
 3218	to kill	töten	50
 3222	to be lost; to become lost	verloren	50
 3251	to collect something	kassieren	50
+3254	to remember	sich erinnern	50
+3263	to hurry	sich beeilen	50
+3265	to spend (money)	ausgeben	50
+3266	to donate	spenden	50
+3270	to practice	üben	50
+3273	to save; to rescue	retten	50
+3275	to stumble	stolpern	50
+3299	to translate	übersetzen	50
+3301	to burn	brennen	50
+3318	to achieve; to create; to accomplish	schaffen	50
+3323	to disappear	verschwinden	50
 507	hobby	das Hobby	52
 562	small package	das Päckchen	52
 1081	poster	das Poster	52
 1138	rarely	selten	52
-1144	something; a little	etwas; irgendwas	26
 1172	comfortable	bequem	52
 1192	far away from	weit weg von	52
 1194	free(ly)	frei	52
@@ -1144,13 +1187,11 @@ English	German
 1788	tender	zart	52
 1793	from; out of; made of	aus	52
 1794	at; near; with	bei	52
-1799	to; too; on; at; for	zu	38
 1801	equal	egal	52
 1804	(to/for) whom?	wem?	52
-1814	therefore	deshalb	52
+1814	therefore	deshalb; darum	52
 1970	occupied; taken	besetzt	52
 1977	daily	täglich	52
-1979	full; crowded	voll	52
 1980	somewhat; rather	ziemlich	52
 2207	simply	einfach	52
 2218	even	sogar	52
@@ -1179,7 +1220,7 @@ English	German
 2596	bad; evil	böse	52
 2653	with it	dazu	52
 2655	hard; tough	hart	52
-2658	somewhere	irgendwo	52
+2658	somewhere; anywhere	irgendwo	52
 2659	ever; each	je	52
 2661	in any case	jedenfalls	52
 2662	however	jedoch	52
@@ -1200,22 +1241,24 @@ English	German
 2881	current	aktuelle	52
 2885	attainable	erreichbar	52
 2887	surprised; amazed	überrascht	52
+2902	embarrassed	peinlich; betreten	52
 2903	real; actual	echte	52
 2918	on the way	unterwegs	52
 2933	horrible; dreadful	fürchterlich	52
 2953	indeed	zwar	52
+2956	owner	der Besitzer	52
 2961	just as good	genauso gut	52
 2968	thereby	dabei	52
 2969	due to; thanks to	wegen	52
-2972	until	bis	16
 2974	barely; hardly	kaum	52
 2982	finished; completed	fertig	52
-2983	funny	komisch	52
+2983	funny; strange	komisch	52
 2984	bad; wicked	schlimm	52
 2986	fault; guilt	die Schuld	52
 2988	before	bevor	52
 2989	onto	hinaus	52
 2995	tight; close; narrow	eng	52
+3022	instead of	statt; anstatt	52
 3069	ready	bereit	52
 3074	there	dorthin	52
 3075	whether	ob	52
@@ -1229,8 +1272,19 @@ English	German
 3230	idea	die Idee	52
 3231	but; but rather	sondern	52
 3253	whereupon	worauf	52
+3258	so far; hitherto	bisher	52
+3264	honest	ehrlich	52
+3316	error; fault	der Fehler	52
+3319	fully; completely	völlig	52
+3324	buddy; fellow	der Kumpel	52
+3325	fight; battle; struggle	der Kampf	52
+3326	careful; carefully	vorsichtig	52
+3331	moist	feucht	52
+3332	permanent; lasting	dauernd	52
 2271	he screams	er schreit	54
 2651	in no time	im Nu	54
+2858	pleasant	angenehm	54
+2878	to recount; to tell	erzählen	54
 3065	destination; goal; finish line	das Ziel	54
 3120	always	stets	54
 3235	fate; fortune; luck; destiny	das Schicksal	54
@@ -1243,6 +1297,29 @@ English	German
 3243	impossible	unmöglich; ausgeschlossen	54
 3248	chance; coincidence; accident	der Zufall	54
 3249	before; previously	vorher	54
+3276	That is too good to be true.	Das ist zu schön, um wahr zu sein.	54
+3305	victim; prey	der Opfer	54
+3306	member	das Mitglied	54
+3310	weapon	die Waffe	54
+2002	you were	du warst	55
+2003	she was	sie war	55
+2004	we were	wir waren	55
+2005	you were (plural)	ihr wart	55
+2006	they were	sie waren	55
+2007	you were (formal)	Sie waren	55
+2009	you had	du hattest	55
+2011	we had	wir hatten	55
+2012	you had (plural)	ihr hattet	55
+2013	they had	sie hatten	55
+2014	you had (formal)	Sie hatten	55
+2015	I was allowed to	ich durfte	55
+2016	you were able to	du konntest	55
+2017	he liked	er mochte	55
+2018	we had to	wir mussten	55
+2019	you were supposed to (plural)	ihr solltet	55
+2020	they wanted	sie wollten	55
+2037	it had	es hatte	55
+3031	they liked	sie mochten	55
 511	sweater	der Pullover	56
 512	blouse	die Bluse	56
 514	size	die Größe	56
@@ -1280,6 +1357,7 @@ English	German
 1810	Size 42 will fit her for sure.	Größe 42 passt ihr bestimmt.	56
 1811	This shirt looks good on you.	Das Hemd steht dir gut.	56
 3199	pair	der Paar	56
+3274	handkerchief	das Taschentuch	56
 371	van	der Lieferwagen	58
 374	street light	die Straßenlaterne	58
 376	traffic light	die Ampel	58
@@ -1299,20 +1377,32 @@ English	German
 2832	river	der Fluss	58
 2835	forest	der Wald	58
 3122	sidewalk	der Bürgersteig	58
+3313	earth; soil	die Erde	58
+3314	hill	der Hügel	58
+1085	rent	die Miete	59
+1087	roommate	der Mitbewohner	59
+1158	furnished	möbliert	59
+1183	apartment	die Wohnung	59
+1225	shared housing	die Wohngemeinschaft	59
+2958	noise	der Lärm	59
+3302	tent	das Zelt	59
 237	near ___	in der Nähe von ___	60
 314	What is the name of the town?	Wie heißt die Stadt?	60
 315	What is the name of the street?	Wie heißt die Straße?	60
 320	What is the address?	Wie ist die Adresse?	60
 321	What is the street address?	Wie ist die Hausnummer?	60
+384	bridge	die Brücke	60
 385	sign	das Zeichen	60
 386	traffic sign	das Verkehrszeichen	60
 395	building	das Bauen	60
 414	hotel	das Hotel	60
 417	movie theater	das Kino	60
 418	store	das Geschäft	60
+479	office	das Büro	60
 491	subway	die U-bahn	60
 492	ticket; map	die Karte	60
 495	theater	das Theater	60
+506	location; place; job; position	die Stelle	60
 510	department store	das Kaufhaus	60
 516	bookstore	die Buchhandlung	60
 520	cash register; cashier	die Kasse	60
@@ -1335,7 +1425,7 @@ English	German
 759	car exit	die Ausfahrt	60
 760	exit	der Ausgang	60
 761	to keep free	freihalten	60
-762	station	der Bahnhof	60
+762	train station	der Bahnhof	60
 776	at an end	zu Ende	60
 825	in front of us	vor uns	60
 850	over there	da drüben	60
@@ -1343,16 +1433,17 @@ English	German
 874	that there	das da	60
 1066	centrally located	zentral gelegen	60
 1527	library	die Bibliothek	60
-1529	gym	das Fitnesscenter	60
 1803	(to) home	nach Hause	60
 1806	at home	zu Hause	60
 1862	cafe	das Cafe	60
 1923	beer garden (restaurant)	der Biergarten	60
 1985	next to; beside	neben	60
 2654	community	die Gemeinschaft	60
+2834	gymnasium	die Turnhalle	60
 3093	located	gelegen	60
 3223	Vienna lies on the Danube.	Wien liegt an der Donau.	60
 3232	place; location	der Ort	60
+3303	bus stop	die Bushaltestelle	60
 189	Europe	das Europa	61
 191	Germany	das Deutschland	61
 263	train	der Zug	61
@@ -1379,7 +1470,7 @@ English	German
 744	customs officer	der Zollbeamter	61
 745	airport	der Flughafen	61
 746	airline ticket	die Fahrkarte	61
-747	passport	der Pass	61
+747	passport	der Reisepass; der Pass	61
 748	freight train	der Güterzug	61
 749	departure times	die Abfahrtszeiten	61
 752	to get off	aussteigen	61
@@ -1393,6 +1484,7 @@ English	German
 2620	castle	die Burg	61
 2636	world map	die Weltkarte	61
 3250	border	die Grenze	61
+3320	ship; boat	das Schiff	61
 515	quality	die Qualität	62
 696	How much does that cost?	Wieviel kostet das?	62
 697	I'll take it.	Ich nehme es.	62
@@ -1417,7 +1509,6 @@ English	German
 1545	cozy; cozily	gemütlich	63
 1551	suspenseful; exciting	spannend	63
 1975	separate(ly)	getrennt	63
-2208	unbearable	unerträglich	63
 2216	quite a few	etlichen	63
 2221	useless	Nichtsnutz	63
 2224	mysterious	geheimnisvolle	63
@@ -1428,18 +1519,13 @@ English	German
 2656	meanwhile	inzwischen	63
 2663	powerful	mächtig	63
 2664	after we talked	nachdem wir sprachen	63
-2711	exclusive	ausschließlich	63
 2742	basically; as a matter of principle	grundsätzlich	63
-2743	concerning	betreffend; bezüglich; hinsichtlich	63
-2744	respective	jeweiligen	63
 2745	no ___ whatsoever	keinerlei	63
-2746	overall; across the board	pauschal	63
 2764	underlying	unterliegend	63
 2770	prompt(ly)	umgehend	63
 2825	public	öffentlich	63
-2900	hereupon; thereupon	daraufhin	63
+2920	amount; abundance; set	die Menge	63
 2952	bold; courageous	mutig	63
-2954	forth	hervor	63
 2976	actual; really	tatsächlich	63
 2991	eternal	ewig	63
 2997	likewise; ditto; also	ebenfalls	63
@@ -1447,9 +1533,6 @@ English	German
 3003	pure; absolute	rein	63
 3005	whose	dessen	63
 3016	definite	fest	63
-3022	instead of	statt; anstatt	52
-3024	appalled; aghast	entsetzt	63
-3040	certain; positive	überzeugt	63
 3041	various	verschiedenen	63
 3043	so much the better	desto besser	63
 3048	constantly; permanently	ständig	63
@@ -1457,7 +1540,11 @@ English	German
 3058	busy	beschäftigt	63
 3080	out of; apart from	außer	63
 3116	astonished	erstaunt	63
-3191	about what	worüber	63
+3327	mindfully; carefully	achtsam	63
+3333	excitement; commotion	die Aufregung	63
+3335	pardon; forgiveness	die Verzeihung	63
+3336	strong; strongly	stark	63
+3337	damn	verdammte	63
 1942	place; seat	der Platz	64
 1954	What will you have? (formal)	Was bekommen Sie?	64
 1998	Is this place free?	Ist hier noch frei?	64
@@ -1533,6 +1620,9 @@ English	German
 3081	head	der Kopf	68
 3166	throat	die Kehle	68
 3225	heart	der Herz	68
+3304	face	das Gesicht	68
+3307	blood	das Blut	68
+3322	mouth	der Mund	68
 435	doctor	der Arzt	69
 440	medicine	das Medikament	69
 523	stuffy nose	der Schnupfen	69
@@ -1548,13 +1638,6 @@ English	German
 3082	dentist	der Zahnarzt	69
 3171	hospital	das Krankenhaus	69
 3244	fever	das Fieber	69
-1085	rent	die Miete	70
-1087	roommate	der Mitbewohner	70
-1158	furnished	möbliert	70
-1183	apartment	die Wohnung	70
-1225	shared housing	die Wohngemeinschaft	70
-2956	owner	der Besitzer	70
-2958	noise	der Lärm	70
 918	serious	ernst	71
 919	eccentric	exzentrisch	71
 920	fantastic	fantastisch	71
@@ -1622,7 +1705,6 @@ English	German
 367	You drive too slow. (formal)	Sie fahren zu langsames.	74
 368	I like driving.	Ich mag fahren.	74
 380	highway	die Landstraße	74
-384	bridge	die Brücke	60
 389	gas station	die Tankstelle	74
 390	tire	der Reifen	74
 392	headlight	das Scheinwerferlicht	74
@@ -1730,7 +1812,6 @@ English	German
 1416	uncles	die Onkel	76
 1526	train stations	die Bahnhöfe	76
 1528	libraries	die Bibliotheken	76
-1530	gyms	die Fitnesscenter	76
 1532	cups	die Tassen	76
 1537	weeks	die Wochen	76
 1540	weekends	die Wochenenden	76
@@ -1812,6 +1893,16 @@ English	German
 1729	T-shirts	die T-Shirts	79
 1732	pairs of eyeglasses	die Brillen	79
 1737	sizes	die Größen	79
+2208	unbearable	unerträglich	80
+2711	exclusive	ausschließlich	80
+2743	concerning	betreffend; bezüglich; hinsichtlich	80
+2744	respective	jeweiligen	80
+2746	overall; across the board	pauschal	80
+2900	hereupon; thereupon	daraufhin	80
+2954	forth	hervor	80
+3024	appalled; aghast	entsetzt	80
+3040	certain; positive	überzeugt	80
+3191	about what	worüber	80
 1244	you (accusative)	dich	81
 1289	(to) him; it	ihn	81
 1297	you (informal plural accusative)	euch	81
@@ -1829,25 +1920,6 @@ English	German
 1825	to/for her	ihr	81
 1827	to/for you (plural)	euch	81
 1828	to/for them	ihnen	81
-2002	you were	du warst	82
-2003	she was	sie war	82
-2004	we were	wir waren	82
-2005	you were (plural)	ihr wart	82
-2006	they were	sie waren	82
-2007	you were (formal)	Sie waren	82
-2009	you had	du hattest	82
-2011	we had	wir hatten	82
-2012	you had (plural)	ihr hattet	82
-2013	they had	sie hatten	82
-2014	you had (formal)	Sie hatten	82
-2015	I was allowed to	ich durfte	82
-2016	you were able to	du konntest	82
-2017	he liked	er mochte	82
-2018	we had to	wir mussten	82
-2019	you were supposed to (plural)	ihr solltet	82
-2020	they wanted	sie wollten	82
-2037	it had	es hatte	82
-3031	they liked	sie mochten	82
 2774	to eat 3	essen, aß, gegessen	83
 2775	to give 3	geben, gab, gegeben	83
 2776	to read 3	lesen, las, gelesen	83
@@ -1923,12 +1995,10 @@ English	German
 2827	to put on; to apply	anlegen	84
 2829	to paint	malen	84
 2831	to draw	zeichnen	84
-2868	to last	dauern	84
 2869	to happen	passieren; geschehen	84
 2871	to glance	blicken	84
 2873	to guess; to suspect	ahnen	84
 2874	to have a baby	ein Baby kriegen	84
-2878	to recount; to tell	erzählen	84
 2882	to lock	abschließen	84
 2897	to attract attention; to stand out	auffallen	84
 2898	to appear; to seem	erschien	84
@@ -1981,7 +2051,6 @@ English	German
 2078	it has flown	es ist geflogen	86
 2080	we have given	wir haben gegeben	86
 2082	it has pleased	es hat gefallen	86
-2084	they have gone	sie sind gegangen	86
 2086	I have enjoyed	ich habe genossen	86
 2088	it has happened	es ist geschehen	86
 2090	you have won	du hast gewonnen	86
@@ -2142,6 +2211,7 @@ English	German
 2755	inventor; originator	der Erfinder	87
 2821	formation; education	die Bildung	87
 2826	school education	die Schulbildung	87
+3329	priest	der Priester	88
 2273	pacifier	der Schnuller	89
 2508	roller coaster	die Achterbahn	89
 2547	ball	der Ball	89
@@ -2160,6 +2230,27 @@ English	German
 2943	election; choice	die Wahl	90
 2973	government	die Regierung	90
 3002	speech	die Rede	90
+3052	economy; economics	die Wirtschaft	90
+3277	amount; sum	der Betrag	90
+3278	negotiation	die Verhandlung	90
+3279	billion	die Milliarde	90
+3280	million	die Million	90
+3281	to shrink	schrumpfen	90
+3282	hole	das Loch	90
+3283	hole in the budget	das Budgetloch	90
+3284	vice chancellor	der Vizekanzler	90
+3285	chancellor	der Kanzler	90
+3286	tax	die Steuer	90
+3287	takeover; adoption	die Übernahme	90
+3288	the last few days	die vergangenen Tage	90
+3289	postponed	aufgeschoben	90
+3290	tax revenue	die Steuereinnahmen	90
+3291	gross domestic product	das Bruttoinlandsprodukt	90
+3292	enforceable	durchzusetzen	90
+3293	general accounting office	der Rechnungshof	90
+3295	draft report	der Rohbericht	90
+3296	action; measure; step; procedure	die Maßnahme	90
+3297	economic growth	das Wirtschaftswachstum	90
 1612	cold cuts	der Aufschnitt	92
 1638	mineral water	das Mineralwasser; der Sprudel	92
 1639	dairy product	das Milchprodukt	92
@@ -2249,7 +2340,6 @@ English	German
 2567	gas pump	die Benzinpumpe	93
 2621	pavement	der Bürgersteig	93
 2633	steam-roller	die Dampfwalze	93
-2834	gymnasium	die Turnhalle	93
 505	guitar	die Gitarre	94
 537	song	das Lied	94
 547	photo album	das Fotoalbum	94
@@ -2317,7 +2407,6 @@ English	German
 2769	changes; modifications	die Änderungen	95
 2824	poetry	die Dichtung	95
 2870	glance	der Blick	95
-2920	amount; abundance; set	die Menge	95
 2959	hope	die Hoffnung	95
 2960	devil	der Teufel	95
 2990	lie	die Lüge	95
@@ -2346,7 +2435,6 @@ English	German
 2768	to take into consideration	berücksichtigen	96
 2771	to accrue	erwachsen	96
 2773	to replace	ersetzen	96
-2858	pleasant	angenehm	96
 2875	four years with the same teacher	vier Jahre mit dem selben Lehrer	96
 2876	he is interested in German	er interresiert sich für Deutsch	96
 2880	neither	weder; keiner von beiden	96
@@ -2354,7 +2442,6 @@ English	German
 2896	awkward; uncomfortable	unbehaglich	96
 2899	disappeared; lost	verschwunden	96
 2901	effect; impression	der Eindruck	96
-2902	embarrassed	betreten	96
 2910	banquet	das Bankett	96
 2912	dungeon; jail	der Kerker	96
 2913	commotion	der Aufruhr	96
@@ -2428,7 +2515,6 @@ English	German
 2884	appointment	der Termin	97
 2915	directions; instructions	die Anweisungen	97
 2967	company; organization	das Unternehmen	97
-3052	economy; economics	die Wirtschaft	90
 1817	To whom is the salesman showing three rings?	Wem zeigt der Verkäufer drei Ringe?	98
 1818	He is showing them to Mr. Ebert.	Er zeigt sie Herrn Ebert.	98
 1819	For whom is Mr. Ebert buying a ring?	Wem kauft Herr Ebert einen Ring?	98
@@ -2479,10 +2565,8 @@ English	German
 464	colleague	der Kollege	99
 470	musician	der Musiker	99
 473	meeting	die Besprechung	99
-479	office	das Büro	99
 499	co-worker	der Mitarbeiter	99
 504	work	die Arbeit	99
-506	job; position	die Stelle	99
 555	official	der Beamte	99
 1015	professions	die Berufe	99
 1046	journalist (m)	der Journalist	99
@@ -2508,47 +2592,4 @@ English	German
 2864	muggy; humid	schwül	144
 2891	sleet	der Graupel	144
 2993	frost	der Reif	144
-3254	to remember	sich erinnern	50
-3255	I arrive tomorrow.	Ich komme morgen an.	40
-3256	I should swim today.	Ich soll heute schwimmen.	40
-3257	Can you run?	Kannst du laufen?	40
-3258	so far; hitherto	bisher	52
-3259	I have too much to do!	Ich habe zu viel zu tun!	40
-3260	I feel hot.	Mir ist heiß.	40
-3261	I am very attractive!	Ich bin heiß.	40
-3262	absolutely	wirklich	26
-3263	to hurry	sich beeilen	50
-3264	honest	ehrlich	52
-3265	to spend (money)	ausgeben	50
-3266	to donate	spenden	50
-3267	He is handsome.	Er ist fesch.	46
-3268	He looks good.	Er sieht gut aus.	46
-3269	She is pretty.	Sie ist schön.	46
-3270	to practice	üben	50
-3271	adult; grown-up	der Erwachsene	20
-3272	unique	einzigartig	46
-3273	to save; to rescue	retten	50
-3274	handkerchief	das Taschentuch	56
-3275	to stumble	stolpern	50
-3276	That is too good to be true.	Das ist zu schön, um wahr zu sein.	54
-3277	amount; sum	der Betrag	90
-3278	negotiation	die Verhandlung	90
-3279	billion	die Milliarde	90
-3280	million	die Million	90
-3281	to shrink	schrumpfen	90
-3282	hole	das Loch	90
-3283	hole in the budget	das Budgetloch	90
-3284	vice chancellor	der Vizekanzler	90
-3285	chancellor	der Kanzler	90
-3286	tax	die Steuer	90
-3287	takeover; adoption	die Übernahme	90
-3288	the last few days	die vergangenen Tage	90
-3289	postponed	aufgeschoben	90
-3290	tax revenue	die Steuereinnahmen	90
-3291	gross domestic product	das Bruttoinlandsprodukt	90
-3292	enforceable	durchzusetzen	90
-3293	general accounting office	der Rechnungshof	90
-3294	report	der Bericht	48
-3295	draft report	der Rohbericht	90
-3296	action; measure; step; procedure	die Maßnahme	90
-3297	economic growth	das Wirtschaftswachstum	90
+3340	eternity	die Ewigkeit	88
