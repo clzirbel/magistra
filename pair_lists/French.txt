@@ -1,4 +1,4 @@
-English  	French   	
+English  	French
 1	a	un(e)	1
 2	a bit	un peu	3
 3	a few; some	quelques	3
@@ -508,7 +508,7 @@ English  	French
 507	yesterday	hier	2
 508	yesterday evening	hier soir	3
 509	yesterday morning	hier matin	3
-510	you	tu or toi	2
+510	you	tu; toi	2
 511	you are	tu es	2
 512	you are pl.	vous êtes	3
 513	you go	tu vas	2
