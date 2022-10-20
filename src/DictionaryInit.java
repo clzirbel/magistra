@@ -121,7 +121,7 @@ public class DictionaryInit {
     frame.add(allRows);
 
     DictionaryListener listener = new DictionaryListener (WL, baseWord, foreignWord, baseDisplay, foreignDisplay, foundarray, beingedited);
-    DictionaryActionListener actionlistener = new DictionaryActionListener(WL, baseWord, foreignWord, group, baseDisplay, foreignDisplay, editentry, changegroup, remove, foundarray, beingedited);
+    DictionaryActionListener actionlistener = new DictionaryActionListener(WL, baseWord, foreignWord, group, baseDisplay, foreignDisplay, editentry, changegroup, remove, foundarray, beingedited, frame);
 
     baseWord.addTextListener(listener);
     foreignWord.addTextListener(listener);

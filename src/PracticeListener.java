@@ -11,12 +11,13 @@ class PracticeListener implements ActionListener {
     private WordPair WP;
     private JLabel baseLang, baseWord, foreignLang, status, help;
     private JTextField input;
+    private JFrame frame;
     boolean ReadyForNextPair = false;
     boolean CurrentPreview = false;
     int NumTries = 0;
     String pc = "";                    // portion correct, when wrong
     
-    PracticeListener ( WordList WL, int n, int L, WordPair WP, JLabel baseLang, JLabel baseWord, JLabel foreignLang, JTextField input, JLabel status, JLabel help) {
+    PracticeListener ( WordList WL, int n, int L, WordPair WP, JLabel baseLang, JLabel baseWord, JLabel foreignLang, JTextField input, JLabel status, JLabel help, JFrame frame) {
 		this.WL = WL;
 	    this.n = n;
 	    this.L = L;
@@ -27,6 +28,7 @@ class PracticeListener implements ActionListener {
 		this.input = input;
 		this.status = status;
 		this.help = help;
+		this.frame = frame;
     }
 
     public void actionPerformed (ActionEvent e) {
@@ -42,7 +44,8 @@ class PracticeListener implements ActionListener {
 	}
 	else if (e.getActionCommand().equals("Save and exit")) {
 	    WL.writeUserData();
-        System.exit(0);
+	    frame.setVisible(false);
+	    new Launcher();
 	}
 	else if (e.getActionCommand().equals("Skip once")) {
 		ReadyForNextPair = true;

@@ -2,6 +2,7 @@
 
 import java.awt.*;
 import java.awt.event.*;
+import javax.swing.*;
 
 class DictionaryActionListener implements ActionListener {
 
@@ -11,8 +12,9 @@ class DictionaryActionListener implements ActionListener {
     private int[] foundarray;
     private boolean clearfields = false;
     private int beingedited;
+    private JFrame frame;
     
-    DictionaryActionListener ( WordList WL, TextField baseWord, TextField foreignWord, TextField group, TextArea baseDisplay, TextArea foreignDisplay, TextField editentry, TextField changegroup, TextField remove, int[] foundarray, int beingedited)  {
+    DictionaryActionListener ( WordList WL, TextField baseWord, TextField foreignWord, TextField group, TextArea baseDisplay, TextArea foreignDisplay, TextField editentry, TextField changegroup, TextField remove, int[] foundarray, int beingedited, JFrame frame)  {
 	this.WL = WL;
 	this.baseWord = baseWord;
 	this.foreignWord = foreignWord;
@@ -24,12 +26,14 @@ class DictionaryActionListener implements ActionListener {
     this.remove = remove;
     this.foundarray = foundarray;
     this.beingedited = beingedited;
+    this.frame = frame;
     }
 
     public void actionPerformed (ActionEvent e) {
 	if (e.getActionCommand().equals("Save and Exit")) {
 		WL.writeWordList();
-        System.exit(0);
+	    frame.setVisible(false);
+	    new Launcher();
 	}
     else if (e.getSource().equals(baseWord) | e.getSource().equals(group)) {
     	if (beingedited > -1) {          // editing a word pair

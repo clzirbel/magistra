@@ -76,7 +76,7 @@ public class Practice {
     pane.add(kb1);
     pane.add(kb2);
 
-    PracticeListener listener = new PracticeListener (WL, n, L, WP, baseLang, baseWord, foreignLang, input, status, help);
+    PracticeListener listener = new PracticeListener (WL, n, L, WP, baseLang, baseWord, foreignLang, input, status, help, frame);
 
     input.addActionListener(listener);
     skip.addActionListener(listener);
