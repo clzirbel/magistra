@@ -4,6 +4,7 @@
 import java.awt.Component;
 import java.awt.Dimension;
 import java.awt.DisplayMode;
+import java.awt.Font;
 import java.awt.GraphicsEnvironment;
 import java.awt.GridLayout;
 import java.awt.event.ActionEvent;
@@ -32,7 +33,7 @@ import javax.swing.UnsupportedLookAndFeelException;
  */
 public class Launcher extends JFrame implements ActionListener
 {
-	private JButton magistraButton;
+	private JButton practiceButton;
 	private JButton dictionaryButton;
 	private TextBox nameField;
 	private TextBox languageField;
@@ -47,7 +48,7 @@ public class Launcher extends JFrame implements ActionListener
 	private static final String levelDescription = "Level";
 	private static final String dictionaryPathDescription = "Dictionary Path";
 	private static final String userDataPathDescription = "User Data Path";
-	private static final String magistraButtonDescription = "Practice words";
+	private static final String practiceButtonDescription = "Practice words";
 	private static final String dictionaryButtonDescription = "Edit word list";
 	
 	/**
@@ -99,26 +100,42 @@ public class Launcher extends JFrame implements ActionListener
 		levelField = new TextBox(levelDescription);
 		dictionaryPathField = new TextBox(dictionaryPathDescription);
 		userDataPathField = new TextBox(userDataPathDescription);
-		magistraButton = new JButton(magistraButtonDescription);
+		practiceButton = new JButton(practiceButtonDescription);
 		dictionaryButton = new JButton(dictionaryButtonDescription);
 		
-		nameField.setMinimumSize(new Dimension(200, 20));
-		languageField.setMinimumSize(new Dimension(200, 20));
-		levelField.setMinimumSize(new Dimension(200, 20));
-		dictionaryPathField.setMinimumSize(new Dimension(200, 20));
-		userDataPathField.setMinimumSize(new Dimension(200, 20));
-		magistraButton.setMinimumSize(new Dimension(50, 20));
-		dictionaryButton.setMinimumSize(new Dimension(50, 20));
+		int fontSize = 16;
+		int fieldWidth = fontSize*24;
+		int fieldHeight = fontSize*2;
+		int buttonWidth = fontSize*10;
+		int buttonHeight = fontSize*3;
+
+		Font textFont = new Font("SansSerif", Font.PLAIN, fontSize);
+
+		nameField.setMinimumSize(new Dimension(fieldWidth, fieldHeight));
+		languageField.setMinimumSize(new Dimension(fieldWidth, fieldHeight));
+		levelField.setMinimumSize(new Dimension(fieldWidth, fieldHeight));
+		dictionaryPathField.setMinimumSize(new Dimension(fieldWidth, fieldHeight));
+		userDataPathField.setMinimumSize(new Dimension(fieldWidth, fieldHeight));
+		practiceButton.setMinimumSize(new Dimension(buttonWidth, buttonHeight));
+		dictionaryButton.setMinimumSize(new Dimension(buttonWidth, buttonHeight));
 		
-		nameField.setMaximumSize(new Dimension(200, 20));
-		languageField.setMaximumSize(new Dimension(200, 20));
-		levelField.setMaximumSize(new Dimension(200, 20));
-		dictionaryPathField.setMaximumSize(new Dimension(200, 20));
-		userDataPathField.setMaximumSize(new Dimension(200, 20));
-		magistraButton.setMaximumSize(new Dimension(75, 30));
-		dictionaryButton.setMaximumSize(new Dimension(75, 30));
+		nameField.setMaximumSize(new Dimension(fieldWidth, fieldHeight));
+		languageField.setMaximumSize(new Dimension(fieldWidth, fieldHeight));
+		levelField.setMaximumSize(new Dimension(fieldWidth, fieldHeight));
+		dictionaryPathField.setMaximumSize(new Dimension(fieldWidth, fieldHeight));
+		userDataPathField.setMaximumSize(new Dimension(fieldWidth, fieldHeight));
+		practiceButton.setMaximumSize(new Dimension(buttonWidth, buttonHeight));
+		dictionaryButton.setMaximumSize(new Dimension(buttonWidth, buttonHeight));
 		
-		magistraButton.addActionListener(this);
+		nameField.setFont(textFont);
+		languageField.setFont(textFont);
+		levelField.setFont(textFont);
+		dictionaryPathField.setFont(textFont);
+		userDataPathField.setFont(textFont);
+		practiceButton.setFont(textFont);
+		dictionaryButton.setFont(textFont);
+
+		practiceButton.addActionListener(this);
 		dictionaryButton.addActionListener(this);
 		
 		// set the contents and tooltips of the components
@@ -147,7 +164,7 @@ public class Launcher extends JFrame implements ActionListener
 		buttonPanel.setLayout(buttonLayout);
 		
 		buttonPanel.add(dictionaryButton);
-		buttonPanel.add(magistraButton);
+		buttonPanel.add(practiceButton);
 		
 		panel.add(nameField, Component.CENTER_ALIGNMENT);
 		panel.add(Box.createRigidArea(new Dimension(0, 10)));
@@ -164,10 +181,11 @@ public class Launcher extends JFrame implements ActionListener
 		// create the window
 		getContentPane().add(panel);
 		
-		this.setResizable(false);
+		this.setResizable(true);
 		DisplayMode mode = GraphicsEnvironment.getLocalGraphicsEnvironment().getDefaultScreenDevice().getDisplayMode();
-		this.setMinimumSize(new Dimension(300, 250));
+		this.setMinimumSize(new Dimension(fieldWidth+20, fieldHeight*10+20));
 		this.setLocation(mode.getWidth()/2 - getWidth()/2, mode.getHeight()/2 - getHeight()/2);
+		this.setLocation(0,0);
 		this.setVisible(true);
 	}
 	
@@ -176,7 +194,7 @@ public class Launcher extends JFrame implements ActionListener
 	 */
 	public void actionPerformed(ActionEvent e)
 	{
-		if (e.getSource().equals(magistraButton))
+		if (e.getSource().equals(practiceButton))
 		{
 			try
 			{
@@ -187,7 +205,7 @@ public class Launcher extends JFrame implements ActionListener
 				System.err.println("[WARNING] Error saving config.txt: " + ex.getMessage());
 			}
 			
-			// launch magistra here
+			// launch magistra here to practice words
 			
 			Magistra m = new Magistra();
 	    	m.run(nameField.getCurrentText(), languageField.getCurrentText(), levelField.getCurrentText(), dictionaryPathField.getCurrentText(), userDataPathField.getCurrentText()

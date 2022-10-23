@@ -1,6 +1,6 @@
 // Practice.java
 import java.awt.*;
-
+import java.awt.Font;
 import javax.swing.*;
 
 public class Practice {
@@ -31,11 +31,22 @@ public class Practice {
 
     pane.setLayout(new GridLayout(6,2));
     
+    int fontSize = 16;
+    int fieldWidth = fontSize*24;
+    int fieldHeight = fontSize*2;
+
+    Font textFont = new Font("SansSerif", Font.PLAIN, fontSize);
 
     JLabel baseLang    = new JLabel(WL.getLanguage(L));
     JLabel baseWord    = new JLabel(WP.getWord(L));
     JLabel foreignLang = new JLabel(WL.getLanguage(1-L));
     JTextField input   = new JTextField(40);
+
+    baseLang.setFont(textFont);
+    baseWord.setFont(textFont);
+    foreignLang.setFont(textFont);
+    input.setFont(textFont);
+
     JLabel status      = new JLabel("You know " + WL.getNumKnown() + " words.  Group " + WP.getGroup() + " " + WP.getUserData());
     JLabel help        = new JLabel("");
     JButton skip       = new JButton("Skip once");
@@ -44,6 +55,14 @@ public class Practice {
     JButton exit       = new JButton("Save and exit");
     JLabel kb1;
     JLabel kb2;
+
+    status.setFont(textFont);
+    help.setFont(textFont);
+    skip.setFont(textFont);
+    forever.setFont(textFont);
+    switchDir.setFont(textFont);
+    exit.setFont(textFont);
+
     if (WL.getLanguage(1-L).equals("German"))
     {
     	kb1 = new JLabel("Press Alt-Left Shift for the German keyboard, then");
@@ -52,13 +71,18 @@ public class Practice {
     else if (WL.getLanguage(1-L).equals("Spanish"))
     {
     	kb1 = new JLabel("Press Alt-Left Shift for the Spanish keyboard, then");
-    	kb2 = new JLabel("; for ñ, = for ¡, _ for ?, + for ¿, ' and a letter for é, í, ú, ó, á");
+    	kb2 = new JLabel("; for ñ, = for ¡, _ for ?, + for ¿, ? for _, ' and a letter for é, í, ú, ó, á");
     }
     else 
     {
     	kb1 = new JLabel("");
     	kb2 = new JLabel("");
     }
+
+    kb1.setFont(textFont);
+    kb2.setFont(textFont);
+
+
 //    pane.setLayout(new GridLayout(6,2));
 
     pane.add(baseLang);
