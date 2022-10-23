@@ -1,0 +1,26 @@
+Starter.java and Launcher.java are the right places to start.
+
+On the Mac, the special characters cause trouble and so need to be removed.
+
+To compile:
+
+javac Magistra.java
+
+To create a .jar file with all classes in it:
+
+jar -cf magistra.jar *.class
+
+To run the Launcher class:
+
+jar -cp magistra.jar Launcher
+
+
+
+cd src
+javac *.java
+jar -cvfm magistra.jar manifest.txt *.class
+cd ..
+del magistra.jar
+move src\magistra.jar .
+java -jar magistra.jar
+
