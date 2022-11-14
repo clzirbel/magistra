@@ -186,6 +186,9 @@ public class Launcher extends JFrame implements ActionListener
 		this.setMinimumSize(new Dimension(fieldWidth+20, fieldHeight*10+20));
 		this.setLocation(mode.getWidth()/2 - getWidth()/2, mode.getHeight()/2 - getHeight()/2);
 		this.setLocation(0,0);
+
+	    this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+
 		this.setVisible(true);
 	}
 	

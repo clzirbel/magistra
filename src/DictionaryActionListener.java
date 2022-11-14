@@ -33,7 +33,8 @@ class DictionaryActionListener implements ActionListener {
 	if (e.getActionCommand().equals("Save and Exit")) {
 		WL.writeWordList();
 	    frame.setVisible(false);
-	    new Launcher();
+	    System.exit(0);
+	    //new Launcher();
 	}
     else if (e.getSource().equals(baseWord) | e.getSource().equals(group)) {
     	if (beingedited > -1) {          // editing a word pair

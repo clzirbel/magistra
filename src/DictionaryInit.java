@@ -26,6 +26,11 @@ public class DictionaryInit {
     	System.err.println ("[WARNING] Error loading " + laf + ": " + exc + ".");
     }
 
+    int fontSize = 16;
+    int fieldWidth = fontSize*24;
+    int fieldHeight = fontSize*2;
+    Font textFont = new Font("SansSerif", Font.PLAIN, fontSize);
+
     Label baseLang          = new Label(WL.getLanguage(0)+" (hit Enter to add pair)");
     TextField baseWord      = new TextField(30);
     Label foreignLang       = new Label(WL.getLanguage(1));
@@ -44,6 +49,24 @@ public class DictionaryInit {
     Button clear            = new Button("Clear");
     Label kb1;
 
+    baseLang.setFont(textFont);
+    baseWord.setFont(textFont);
+    foreignLang.setFont(textFont);
+    foreignWord.setFont(textFont);
+    groupLabel.setFont(textFont);
+    group.setFont(textFont);
+    baseDisplay.setFont(textFont);
+    foreignDisplay.setFont(textFont);
+    editentrylabel.setFont(textFont);
+    editentry.setFont(textFont);
+    changegrouplabel.setFont(textFont);
+    changegroup.setFont(textFont);
+    removelabel.setFont(textFont);
+    remove.setFont(textFont);
+    exit.setFont(textFont);
+    clear.setFont(textFont);
+
+
     int maxnumfound = 20;
     int[] foundarray = new int[maxnumfound];
     
@@ -61,6 +84,8 @@ public class DictionaryInit {
     {
     	kb1 = new Label("");
     }
+
+    kb1.setFont(textFont);
 
     Dimension D = new Dimension(300,24);
     foreignLang.setPreferredSize(D);

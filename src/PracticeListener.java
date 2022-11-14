@@ -45,7 +45,8 @@ class PracticeListener implements ActionListener {
 	else if (e.getActionCommand().equals("Save and exit")) {
 	    WL.writeUserData();
 	    frame.setVisible(false);
-	    new Launcher();
+	    System.exit(0);
+	    //new Launcher();
 	}
 	else if (e.getActionCommand().equals("Skip once")) {
 		ReadyForNextPair = true;
