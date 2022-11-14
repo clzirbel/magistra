@@ -24,3 +24,5 @@ del magistra.jar
 move src\magistra.jar .
 java -jar magistra.jar
 
+
+diff C:/Users/zirbel/Dropbox/Magistra/pair_lists/Spanish.txt C:/Users/zirbel/Documents/GitHub/magistra/pair_lists/Spanish.txt
