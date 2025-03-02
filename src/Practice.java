@@ -66,12 +66,12 @@ public class Practice {
     if (WL.getLanguage(1-L).equals("German"))
     {
     	kb1 = new JLabel("Press Alt-Left Shift for the German keyboard, then");
-    	kb2 = new JLabel("y for z, z for y, ; for ö, ' for ä, [ for ü, - for ß, _ for ?, < for ;");
+    	kb2 = new JLabel("y for z, z for y, ; for Ã¶, ' for Ã¤, [ for Ã¼, - for ÃŸ, _ for ?, < for ;");
     }
     else if (WL.getLanguage(1-L).equals("Spanish"))
     {
     	kb1 = new JLabel("Press Alt-Left Shift for the Spanish keyboard, then");
-    	kb2 = new JLabel("; for ñ, = for ¡, _ for ?, + for ¿, ? for _, ' and a letter for é, í, ú, ó, á");
+    	kb2 = new JLabel("; for Ã±, = for Â¡, _ for ?, + for Â¿, ? for _, ' and a letter for Ã©, Ã­, Ãº, Ã³, Ã¡");
     }
     else 
     {

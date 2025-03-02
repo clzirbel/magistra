@@ -2,8 +2,8 @@ English	German
 94	red	rot	3
 95	blue blue blue	blau blau blau	25
 96	yellow	gelb	3
-97	green	grün	3
-98	white	weiß	3
+97	green	grÃ¼n	3
+98	white	weiÃŸ	3
 100	black	schwarz	25
 101	brown	braun	3
 102	pink pink	rosa rosa	3

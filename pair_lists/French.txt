@@ -7,25 +7,25 @@ English  	French
 6	above	au-dessus de; ci-dessus	7
 7	across from	d'en face	7
 8	African	africain	5
-9	after	après	2
-10	afternoon	l'après-midi	2
+9	after	aprÃ¨s	2
+10	afternoon	l'aprÃ¨s-midi	2
 11	again	de nouveau	3
 12	agriculture	l'agriculture f.	4
 13	airplane	l'avion m.	5
-14	airport	l'aéroport m.	5
+14	airport	l'aÃ©roport m.	5
 15	almost	presque; quasiment	2
 16	alone	seul	4
-17	already	déja	3
+17	already	dÃ©ja	3
 18	also	aussi	3
 19	always	toujours	3
-20	American	américain	5
+20	American	amÃ©ricain	5
 21	among	parmi	7
 22	and	et	1
 23	anthropology	l'anthropologie f.	8
 24	apartment	l'appartement m.	3
 25	April	avril	1
-26	as soon as	dès que; aussitôt que	7
-27	August	août	1
+26	as soon as	dÃ¨s que; aussitÃ´t que	7
+27	August	aoÃ»t	1
 28	aunt	la tante	3
 29	autumn	l'automme m.	1
 30	bad	mauvais	2
@@ -33,9 +33,9 @@ English  	French
 32	beach	la plage	5
 33	beautiful	beau	3
 34	because	parce que	3
-35	behind	derrière	7
+35	behind	derriÃ¨re	7
 36	below	au-dessous de; ci-dessous	7
-37	bicycle	le vélo	4
+37	bicycle	le vÃ©lo	4
 38	bird	l'oiseau m.	8
 39	birthday	l'anniversaire m.	4
 40	black	noir	1
@@ -44,9 +44,9 @@ English  	French
 43	boat	le bateau	4
 44	book	le livre	4
 45	boring	ennuyeux	5
-46	boy	le garçon	2
-47	breakfast	le petit déjeuner	4
-48	brother	le frère	3
+46	boy	le garÃ§on	2
+47	breakfast	le petit dÃ©jeuner	4
+48	brother	le frÃ¨re	3
 49	bus	l'autobus m.	5
 50	bush	la brousse	6
 51	but	mais	2
@@ -55,27 +55,27 @@ English  	French
 54	capital	la capitale	5
 55	car	la voiture	5
 56	carefully	soigneusement	6
-57	castle	le château	6
+57	castle	le chÃ¢teau	6
 58	cat	le chat	6
 59	certainly	certainement	5
 60	chair	la chaise	6
 61	child	l'enfant	3
 62	choice	le choix	6
-63	church	l'église f.	4
+63	church	l'Ã©glise f.	4
 64	clinic	la clinique	5
-65	clock	le réveil	6
-66	coffee	le café	3
+65	clock	le rÃ©veil	6
+66	coffee	le cafÃ©	3
 67	colony	la colonie	7
-68	company	la société	7
+68	company	la sociÃ©tÃ©	7
 69	countryside	la campagne	7
 70	crazy	fou	7
 71	dad	le papa	3
 72	day	le jour	1
-73	December	décembre	1
+73	December	dÃ©cembre	1
 74	desk or office	le bureau	4
 75	difficult	difficile	3
-76	dinner	le dîner	3
-77	doctor	le médicin	5
+76	dinner	le dÃ®ner	3
+77	doctor	le mÃ©dicin	5
 78	dog	le chien	8
 79	door	la porte	7
 80	dress	la robe	5
@@ -83,21 +83,21 @@ English  	French
 82	during	pendant	3
 83	each; every	chaque	3
 84	easy	facile	3
-85	economics	les sciences économiques f.	6
+85	economics	les sciences Ã©conomiques f.	6
 86	eight	huit	1
 87	eighteen	dix-huit	1
 88	eleven	onze	1
-89	energetic	énergique	4
+89	energetic	Ã©nergique	4
 90	English	anglais	2
 91	especially; particularly	surtout	4
-92	European	européen	5
+92	European	europÃ©en	5
 93	evening	le soir	1
 94	expensive	cher	3
-95	famous	célèbre	4
+95	famous	cÃ©lÃ¨bre	4
 96	far from	loin de	5
 97	fat	gros	3
-98	father	le père	3
-99	February	février	1
+98	father	le pÃ¨re	3
+99	February	fÃ©vrier	1
 100	ferry	le bac	5
 101	fifteen	quinze	1
 102	fifty	cinquante	1
@@ -107,23 +107,23 @@ English  	French
 106	flower garden	le jardin	4
 107	for	pour	2
 108	for example	par exemple	4
-109	foreign	étranger	5
-110	forest	la forêt	5
+109	foreign	Ã©tranger	5
+110	forest	la forÃªt	5
 111	formerly; in the past	autrefois	7
 112	forty	quarante	1
 113	four	quatre	1
 114	fourteen	quatorze	1
 115	franc	le franc	9
-116	French	français	2
+116	French	franÃ§ais	2
 117	Friday	vendredi	1
 118	friend	l'ami(e)	3
-119	funny	drôle	3
+119	funny	drÃ´le	3
 120	game	le match	5
 121	garbage can	la corbeille	4
 122	girl	la fille	3
 123	glove	le gant	5
 124	good	bon	2
-125	grandmother	la grand-mère	3
+125	grandmother	la grand-mÃ¨re	3
 126	grass	l'herbe f.	4
 127	gray	gris	1
 128	great!	chouette!	2
@@ -141,18 +141,18 @@ English  	French
 140	he makes	il fait	2
 141	he speaks	il parle	2
 142	he wants	il veut	3
-143	he writes	il écrit	3
+143	he writes	il Ã©crit	3
 144	hello	bonjour	2
 145	here	ici	3
 146	him	lui	3
 147	his f.	sa	4
 148	his m.	son	4
 149	his p.	ses	4
-150	hospital	l'hôpital m.	6
-151	hotel	l'hôtel m.	5
+150	hospital	l'hÃ´pital m.	6
+151	hotel	l'hÃ´tel m.	5
 152	hour	l'heure f.	1
 153	house	la maison	4
-154	how are you?	comment ça va?	2
+154	how are you?	comment Ã§a va?	2
 155	how many?	combien de?	2
 156	how?	comment?	2
 157	hundred	cent	1
@@ -164,27 +164,27 @@ English  	French
 163	I do not know	je ne sais pas	2
 164	I go	je vais	2
 165	I have	j'ai	2
-166	I have spoken	j'ai parlé	8
+166	I have spoken	j'ai parlÃ©	8
 167	I make	je fais	2
 168	I speak	je parle	2
 169	I think	je crois	3
-170	I tried	j'ai essayé	8
+170	I tried	j'ai essayÃ©	8
 171	I want	je veux	2
 172	I was trying	j'essayais	8
 173	I will try	j'essaierai	8
 174	if	si	2
 175	in front of	devant	7
 176	in the fall	en automme	6
-177	in the summer	en été	6
+177	in the summer	en Ã©tÃ©	6
 178	in the winter	en hiver	6
-179	in; at; to	à	2
+179	in; at; to	Ã 	2
 180	in; into; inside	dans	2
-181	inside	à l'intérieur; dedans	4
-182	interesting	intéressant	3
+181	inside	Ã  l'intÃ©rieur; dedans	4
+182	interesting	intÃ©ressant	3
 183	is there?	y a-t-il?	3
 184	it is bad out	il fait mauvais	3
 185	it is cold	il fait froid	3
-186	it is freezing	il gèle	3
+186	it is freezing	il gÃ¨le	3
 187	it is hot	il fait chaud	3
 188	it is necessary to go	il faut aller	4
 189	it is nice out	il fait beau	3
@@ -202,26 +202,26 @@ English  	French
 201	large	grand	2
 202	last month	le mois dernier	7
 203	last Saturday	samedi dernier	7
-204	last week	la semaine dernière	7
-205	last year	l'année dernière	7
+204	last week	la semaine derniÃ¨re	7
+205	last year	l'annÃ©e derniÃ¨re	7
 206	later	plus tard	3
 207	lazy	paresseux	3
 208	left	gauche	4
 209	let's go!	allons!	2
 210	letter	la lettre	5
-211	library	la bibliothèque	5
+211	library	la bibliothÃ¨que	5
 212	like; as; since	comme	3
 213	long	long	3
 214	luck	la chance	6
-215	lunch	le déjeuner	4
+215	lunch	le dÃ©jeuner	4
 216	man	l'homme m.	3
 217	March	mars	1
 218	marine	le marin	8
-219	market	le marché	4
+219	market	le marchÃ©	4
 220	May	mai	1
-221	maybe	peut-être	3
+221	maybe	peut-Ãªtre	3
 222	me	moi	2
-223	medicine	la médicine	6
+223	medicine	la mÃ©dicine	6
 224	miss	la mademoiselle	3
 225	Mister	le monsieur	3
 226	mom	la maman	3
@@ -229,25 +229,25 @@ English  	French
 228	money	l'argent m.	3
 229	month	le mois	1
 230	morning	le matin	1
-231	mother	la mère	3
+231	mother	la mÃ¨re	3
 232	mountains	la montagne	5
-233	movie house	le cinéma	6
+233	movie house	le cinÃ©ma	6
 234	Mrs.	madame	3
 235	music	la musique	6
 236	my f.	ma	4
 237	my m.	mon	4
 238	my name is	je m'appelle	2
 239	my pl.	mes	4
-240	naughty	méchant	7
-241	near	près de	7
+240	naughty	mÃ©chant	7
+241	near	prÃ¨s de	7
 242	neighbor	le voisin	3
 243	new	nouveau	4
 244	newspaper	le journal	5
 245	next Monday	lundi prochain	8
 246	next month	le mois prochain	8
-247	next to	à coté de	7
+247	next to	Ã  cotÃ© de	7
 248	next week	la semaine prochaine	8
-249	next year	l'année prochaine	8
+249	next year	l'annÃ©e prochaine	8
 250	nice	sympa	3
 251	night	la nuit	1
 252	nine	neuf	1
@@ -262,7 +262,7 @@ English  	French
 261	October	octobre	1
 262	often	souvent	3
 263	old	vieux	3
-264	on foot	à pied	4
+264	on foot	Ã  pied	4
 265	on the corner	au coin de la rue	7
 266	on; upon; over	sur	7
 267	once	une fois que	7
@@ -286,9 +286,9 @@ English  	French
 285	piano	le piano	6
 286	picture	la photo	6
 287	picturesque	pittoresque	6
-288	play	la pièce	6
-289	poem	le poème	6
-290	poet	le poète	6
+288	play	la piÃ¨ce	6
+289	poem	le poÃ¨me	6
+290	poet	le poÃ¨te	6
 291	police officer	l'agent m.	5
 292	political science	les sciences politiques f.	5
 293	port	le port	5
@@ -298,10 +298,10 @@ English  	French
 297	quarter past	et quart	8
 298	quarter to	moins le quart	8
 299	rain	la pluie	3
-300	raincoat	l'imperméable m.	5
+300	raincoat	l'impermÃ©able m.	5
 301	really	vraiment	3
 302	red	rouge	1
-303	region	la région	5
+303	region	la rÃ©gion	5
 304	relationship	les rapports m.	8
 305	restaurant	le restaurant	5
 306	right	droite	3
@@ -309,14 +309,14 @@ English  	French
 308	river	le fleuve	5
 309	road	la route	5
 310	sad	triste	3
-311	same	même	3
+311	same	mÃªme	3
 312	Saturday	samedi	1
 313	scenery	le paysage	5
-314	school	l'école f.	3
+314	school	l'Ã©cole f.	3
 315	scientist	le scientifique	8
-316	screen	l'écran m.	8
+316	screen	l'Ã©cran m.	8
 317	sea	la mer	5
-318	secretary	la secrétaire	5
+318	secretary	la secrÃ©taire	5
 319	September	septembre	1
 320	seven	sept	1
 321	seventeen	dix-sept	1
@@ -334,31 +334,31 @@ English  	French
 333	soldier	le soldat	8
 334	something	quelque chose	4
 335	sometimes	quelquefois; parfois	4
-336	soon	bientôt	4
+336	soon	bientÃ´t	4
 337	spring	le printemps	4
 338	store	le magasin	4
 339	strange	bizarre	6
-340	student	l'étudiant(e)	5
+340	student	l'Ã©tudiant(e)	5
 341	such	tel	5
-342	suddenly	tout à coup	7
+342	suddenly	tout Ã  coup	7
 343	suit	le complet	6
-344	summer	l'été m.	3
+344	summer	l'Ã©tÃ© m.	3
 345	sun	le soleil	4
 346	Sunday	dimanche	1
-347	supermarket	le supermarché	4
-348	surrounded by	entouré de	7
+347	supermarket	le supermarchÃ©	4
+348	surrounded by	entourÃ© de	7
 349	sweater	le pull-over	6
 350	table	la table	3
 351	teacher	le professeur	5
-352	television	la télé	4
+352	television	la tÃ©lÃ©	4
 353	ten	dix	1
 354	territory	le territoire	8
-355	that idea	cette idée	8
+355	that idea	cette idÃ©e	8
 356	that is	c'est	3
 357	their	leur	4
 358	their pl.	leurs	4
 359	there is	il y a	2
-360	there; here; in; then	là	3
+360	there; here; in; then	lÃ 	3
 361	these are	ce sont	4
 362	they are	ils sont	4
 363	they f.	elles	2
@@ -373,18 +373,18 @@ English  	French
 372	thousand	mille	1
 373	three	trois	1
 374	Thursday	jeudi	1
-375	tired	fatigué	3
-376	to answer	répondre à	8
+375	tired	fatiguÃ©	3
+376	to answer	rÃ©pondre Ã 	8
 377	to arrive	arriver	8
 378	to arrive from	arriver de	8
 379	to ask	poser	8
 380	to ask for	demander	8
-381	to attend	assister à	8
+381	to attend	assister Ã 	8
 382	to bargain	marchander	8
 383	to be able	pouvoir	3
 384	to be cold	avoir froid	3
 385	to be hungry	avoir faim	3
-386	to be located	être situé	8
+386	to be located	Ãªtre situÃ©	8
 387	to become	devenir	8
 388	to bring	apporter	8
 389	to call	appeler	8
@@ -396,25 +396,25 @@ English  	French
 395	to dance	danser	8
 396	to depart	partir	8
 397	to direct	diriger	8
-398	to discourage from	décourager de	8
+398	to discourage from	dÃ©courager de	8
 399	to do the dishes	faire la vaisselle	4
-400	to encourage to	encourager à	8
+400	to encourage to	encourager Ã 	8
 401	to find	trouver	3
 402	to finish	finir	4
 403	to forget	oublier	3
-404	to frighten	faire peur à	8
-405	to get used to	s'habituer à	8
+404	to frighten	faire peur Ã 	8
+405	to get used to	s'habituer Ã 	8
 406	to give	donner	4
 407	to go by	passer	8
 408	to go in	entrer dans	8
 409	to go out	sortir	4
-410	to go over	réviser	8
+410	to go over	rÃ©viser	8
 411	to go with	accompagner	8
 412	to hear	entendre	4
-413	to interest	intéresser	8
+413	to interest	intÃ©resser	8
 414	to let	laisser	8
 415	to like	aimer	3
-416	to listen to	écouter à	3
+416	to listen to	Ã©couter Ã 	3
 417	to look for	chercher	4
 418	to lose	perdre	4
 419	to make or do	faire	2
@@ -424,10 +424,10 @@ English  	French
 423	to order	commander	8
 424	to pay	payer	8
 425	to play	jouer	3
-426	to please	faire plaisir à	8
-427	to prepare	préparer	8
+426	to please	faire plaisir Ã 	8
+427	to prepare	prÃ©parer	8
 428	to read	lire	3
-429	to repeat	répéter	4
+429	to repeat	rÃ©pÃ©ter	4
 430	to say	dire	3
 431	to see	voir	3
 432	to sell	vendre	4
@@ -437,12 +437,12 @@ English  	French
 436	to sleep	dormir	3
 437	to speak	parler	3
 438	to stay	rester	8
-439	to stop	arrêter	8
-440	to study	étudier	4
+439	to stop	arrÃªter	8
+440	to study	Ã©tudier	4
 441	to take	prendre	4
 442	to take advantage of	profiter de	8
 443	to take care of	soigner	8
-444	to teach	apprendre à	8
+444	to teach	apprendre Ã 	8
 445	to think	croire	8
 446	to translate	traduire	8
 447	to try	essayer	3
@@ -454,7 +454,7 @@ English  	French
 453	to win	gagner	8
 454	to wipe	essuyer	8
 455	to work	travailler	4
-456	to write	écrire	4
+456	to write	Ã©crire	4
 457	today is	c'est aujourd'hui	2
 458	together	ensemble	7
 459	tomorrow	demain	2
@@ -471,8 +471,8 @@ English  	French
 470	uncle	l'oncle m.	3
 471	under; beneath	sous	7
 472	unfortunately	malheureusement	3
-473	university	l'université f.	6
-474	until; up to; as far as	jusqu'à	3
+473	university	l'universitÃ© f.	6
+474	until; up to; as far as	jusqu'Ã 	3
 475	usually	d'habitude	7
 476	village	le village	5
 477	watch	la montre	6
@@ -496,13 +496,13 @@ English  	French
 495	white	blanc	1
 496	who?	qui?	3
 497	why?	pourquoi?	3
-498	window	la fenêtre	7
+498	window	la fenÃªtre	7
 499	winter	l'hiver m.	1
 500	with	avec	2
 501	woman	la femme	3
 502	work	le travail	7
 503	would like	voudrait	8
-504	year	l'année f.	1
+504	year	l'annÃ©e f.	1
 505	yellow	jaune	1
 506	yes	oui	1
 507	yesterday	hier	2
@@ -510,7 +510,7 @@ English  	French
 509	yesterday morning	hier matin	3
 510	you	tu; toi	2
 511	you are	tu es	2
-512	you are pl.	vous êtes	3
+512	you are pl.	vous Ãªtes	3
 513	you go	tu vas	2
 514	you go pl.	vous allez	3
 515	you go! pl.	allez!	3
@@ -529,7 +529,7 @@ English  	French
 528	your s. f.	ta	4
 529	your s. m.	ton	4
 530	your s. pl.	tes	4
-531	zero	zéro	1
+531	zero	zÃ©ro	1
 532	(of), whose, whom, which	dont	7
 533	a long time	longtemps	7
 534	a lot of, much	bien de	7
@@ -544,12 +544,12 @@ English  	French
 543	anything	quoi que se soit	7
 544	around	autour de	7
 545	around, round about	alentour	9
-546	as for	quant à	9
+546	as for	quant Ã 	9
 547	as well as	ainsi que; aussi bien que	9
 548	as/so much/many	autant	9
 549	at last, finally, after all	enfin	9
 550	at the bottom of	en bas de	9
-551	at the same time as	en même temps que	9
+551	at the same time as	en mÃªme temps que	9
 552	at the time of	lors de	9
 553	at the top of	en haut de	9
 554	badly	mal	3
@@ -559,14 +559,14 @@ English  	French
 558	before, front	avant	9
 559	besides, moreover	d'ailleurs	9
 560	better	meilleur; mieux	4
-561	beyond	au delà de	9
+561	beyond	au delÃ  de	9
 562	big, large, tall, great	grand (grande)	9
 563	bottom	du dessous	9
 564	but, save	hormis	9
 565	by chance	par hasard	9
 566	by, through, out of, from	par	9
-567	cowardly, loose	lâche	9
-568	despite	malgré	9
+567	cowardly, loose	lÃ¢che	9
+568	despite	malgrÃ©	9
 569	distant, distance	lointain	9
 570	down below, downstairs	en bas	9
 571	each (one), every one	chacun (chacune)	9
@@ -574,55 +574,55 @@ English  	French
 573	elsewhere	ailleurs	9
 574	enclosed	ci-joint	9
 575	enough	assez	4
-576	even if, even though, although	quand même	9
+576	even if, even though, although	quand mÃªme	9
 577	everyone	tout le monde	3
 578	everywhere	partout	5
 579	except that	sinon que	9
 580	fair, just, correct, true	juste	9
 581	far	loin	5
-582	far from it	loin de là	9
+582	far from it	loin de lÃ 	9
 583	few, not much, not many	peu	4
 584	for fear of	de peur de	9
 585	forward	en avant	9
-586	from now on	désormais	9
-587	hardly, scarcely	ne ... guère	9
+586	from now on	dÃ©sormais	9
+587	hardly, scarcely	ne ... guÃ¨re	9
 588	heavy	lourd (lourde)	9
-589	henceforth, hereafter	dorénavant	9
-590	hereafter	ci-après	9
+589	henceforth, hereafter	dorÃ©navant	9
+590	hereafter	ci-aprÃ¨s	9
 591	high, top	haut	9
 592	how much, how many	combien de	9
 593	however	toutefois; cependant	9
-594	how's it going?	ça va?	2
-595	immediately	aussitôt; tout de suite	4
-596	in a moment, a moment ago	tout à l'heure	9
+594	how's it going?	Ã§a va?	2
+595	immediately	aussitÃ´t; tout de suite	4
+596	in a moment, a moment ago	tout Ã  l'heure	9
 597	in order that	pour que	9
 598	in such a way that	de sorte de	9
 599	it, that	cela	9
-600	it, that, this	ça	9
+600	it, that, this	Ã§a	9
 601	just as it is	tel quel	9
 602	last	dernier	9
 603	less	moins	4
 604	lesser	moindre	9
-605	light	léger (légère)	9
+605	light	lÃ©ger (lÃ©gÃ¨re)	9
 606	low, bottom	bas (basse)	9
 607	many	beaucoup	3
 608	more	plus	4
 609	moreover, furthermore	par ailleurs	9
 610	most	plupart	9
-611	narrow, tight	étroit (étroite)	9
-612	near, close	près	5
+611	narrow, tight	Ã©troit (Ã©troite)	9
+612	near, close	prÃ¨s	5
 613	neither ... nor	ne ... ni ... ni	9
 614	never	ne ... jamais	9
 615	nevertheless, however, still, yet	pourtant	9
 616	next	prochain	4
-617	next to, compared with	auprès de	9
+617	next to, compared with	auprÃ¨s de	9
 618	no, not any	ne ... nul (nulle)	9
 619	no, not one, not any	ne ... aucun (aucune)	9
 620	nobody, not one, not anybody	ne ... personne	9
 621	not	ne ... pas	9
 622	nothing	ne ... rien	9
 623	now that	maintenant que	9
-624	of course	bien sûr; mais oui	9
+624	of course	bien sÃ»r; mais oui	9
 625	of which (one)	duquel (de laquelle)	9
 626	of which (ones)	desquels (desquelles)	9
 627	of, from	de	9
@@ -633,14 +633,14 @@ English  	French
 632	only, but only	ne ... que	9
 633	opposite	ci-contre	9
 634	other	autre	9
-635	otherwise	sans ça / sans quoi	9
+635	otherwise	sans Ã§a / sans quoi	9
 636	otherwise, except, unless	sinon	9
 637	out of, outside	hors de	9
-638	over there	là-bas	9
+638	over there	lÃ -bas	9
 639	provided that	pourvu que	9
-640	quite, completely	tout à fait	9
-641	rather	plutôt	9
-642	rather than	plotôt que	9
+640	quite, completely	tout Ã  fait	9
+641	rather	plutÃ´t	9
+642	rather than	plotÃ´t que	9
 643	save, but, except	sauf	9
 644	short	court	9
 645	similar, such, equal, same	pareil (pareille)	9
@@ -654,7 +654,7 @@ English  	French
 653	some, a few	quelques-uns /unes	9
 654	someone, somebody	quelqu'un /e	9
 655	such as, like	tel que	9
-656	that-there one	celui-là (celle-là)	9
+656	that-there one	celui-lÃ  (celle-lÃ )	9
 657	the best	le mieux	9
 658	the one	celui (celle), ceux (celles)	9
 659	the slightest, the least	le moindre	9
@@ -663,19 +663,19 @@ English  	French
 662	then, so	alors	9
 663	therefore, consequently	donc	9
 664	these-here ones	ceux-ci (celles-ci)	9
-665	thick	épais (epaisse)	9
+665	thick	Ã©pais (epaisse)	9
 666	thin	mince	9
 667	this	ce; cet; cette; ceci	9
 668	this-here one	celui-ci (celle-ci)	9
 669	those	ces	9
-670	those-there ones	ceux-là (celles-là)	9
+670	those-there ones	ceux-lÃ  (celles-lÃ )	9
 671	thus, so	ainsi	9
-672	to which (one)	auquel (à laquelle)	9
+672	to which (one)	auquel (Ã  laquelle)	9
 673	to which (ones)	auxquels (auxquelles)	9
 674	top	du dessus	9
 675	toward	vers	9
 676	underneath, underside	dessous	9
-677	unless	à moins que	9
+677	unless	Ã  moins que	9
 678	upright, on end, standing	debout	9
 679	upstairs	en haut up,	9
 680	what	quel	9
@@ -687,8 +687,8 @@ English  	French
 686	when	quand	9
 687	when, at the time when	lorsque	9
 688	when, while, whereas	alors que	9
-689	where	où	5
-690	wherever	partout où	9
+689	where	oÃ¹	5
+690	wherever	partout oÃ¹	9
 691	which	lequel	9
 692	while, whereas	tandis que	9
 693	who, whom, which, that	qui	9

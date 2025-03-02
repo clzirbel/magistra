@@ -1,6 +1,6 @@
 English	Spanish
 1	a	un; una	11
-2	after	despuÈs de	11
+2	after	despu√©s de	11
 3	again	otra vez	11
 4	almost	casi	11
 5	already	ya	11
@@ -29,12 +29,12 @@ English	Spanish
 31	cigar	el cigarro	11
 32	city	la ciudad	11
 33	clothes	la ropa	11
-34	coffee	el cafÈ	11
-35	cold	el frÌo	11
-37	conversation	la conversaciÛn	11
+34	coffee	el caf√©	11
+35	cold	el fr√≠o	11
+37	conversation	la conversaci√≥n	11
 38	cool	fresco	11
 39	correctly	correctamente	11
-40	country	el paÌs	11
+40	country	el pa√≠s	11
 41	cup	la taza	11
 42	daughter	la hija	11
 44	dear	caro	11
@@ -44,8 +44,8 @@ English	Spanish
 48	door	la puerta	11
 49	dress	el vestido	11
 50	early	temprano	11
-51	easy	f·cil	11
-52	English	el inglÈs	11
+51	easy	f√°cil	11
+52	English	el ingl√©s	11
 53	enough	bastante	11
 54	family	la familia	11
 55	far from	lejos de	11
@@ -58,25 +58,25 @@ English	Spanish
 62	for	por	11
 63	for example	por ejemplo	11
 64	foreign	extranjero	11
-65	French	el francÈs	11
+65	French	el franc√©s	11
 66	friend	el amigo	11
 67	fruit	la fruta	11
 68	glass	el vaso	11
 69	glove	el guante	11
 70	good	bueno	11
-71	good day!	°buenos dÌas!	11
+71	good day!	¬°buenos d√≠as!	11
 73	grade	la nota	11
 75	happy	alegre	11
-76	difficult; hard	difÌcil	11
+76	difficult; hard	dif√≠cil	11
 77	hat	el sombrero	11
-78	hat store	la sombrererÌa	11
+78	hat store	la sombrerer√≠a	11
 79	heat	el calor	11
-80	here	aquÌ	11
+80	here	aqu√≠	11
 81	house	la casa	11
-82	how are you?	øcÛmo est· Vd.?	11
+82	how are you?	¬øc√≥mo est√° Vd.?	11
 83	I am very sorry	lo siento mucho	11
 84	I am warm	tengo calor	11
-85	I think so	creo que sÌ	11
+85	I think so	creo que s√≠	11
 86	important	importante	11
 87	impossible	imposible	11
 88	in; on	en	11
@@ -85,8 +85,8 @@ English	Spanish
 91	it is cool	hace fresco	11
 92	it is hot today	hace calor hoy	11
 93	it is sunny	hace sol	11
-94	it's too bad	es l·stima	11
-95	lady	la seÒora; la dama	11
+94	it's too bad	es l√°stima	11
+95	lady	la se√±ora; la dama	11
 96	language	la lengua	11
 97	large	grande	11
 98	larger	mayor	11
@@ -102,16 +102,16 @@ English	Spanish
 108	map	el mapa	11
 109	meal	la comida	11
 110	meat	la carne	11
-111	Mexico	el MÈxico	11
+111	Mexico	el M√©xico	11
 112	milk	la leche	11
-113	miss; young woman	la seÒorita	11
+113	miss; young woman	la se√±orita	11
 114	mistake	la falta	11
 115	money	el dinero	11
-116	more	m·s	11
+116	more	m√°s	11
 117	most of	la mayor parte de	11
 118	mother	la madre	11
 119	much, many	mucho	11
-120	music	la m˙sica	11
+120	music	la m√∫sica	11
 121	near	cerca de	11
 122	necessary	preciso; necesario	11
 124	no one	nadie	11
@@ -123,37 +123,37 @@ English	Spanish
 130	once	una vez	11
 131	or	o	11
 132	other, another	otro	11
-133	overcoat	el gab·n	11
+133	overcoat	el gab√°n	11
 134	paper	el papel	11
 135	part	la parte	11
 136	pen	la pluma	11
-137	pencil	el l·piz	11
+137	pencil	el l√°piz	11
 138	people	la gente	11
 139	person	la persona	11
-140	pity	la l·stima	11
-141	polite	cortÈs	11
+140	pity	la l√°stima	11
+141	polite	cort√©s	11
 142	poor	pobre	11
 143	possible	posible	11
 144	potato	la patata	11
 145	probable	probable	11
 146	progress	el progreso	11
 147	purchase	la compra	11
-148	reason	la razÛn	11
+148	reason	la raz√≥n	11
 150	restaurant	el restaurante	11
 151	rich	rico	11
 152	sad	triste	11
-153	see you soon!	°hasta luego!	11
+153	see you soon!	¬°hasta luego!	11
 154	shirt	la camisa	11
 155	shoe	el zapato	11
-156	shoe store	la zapaterÌa	11
+156	shoe store	la zapater√≠a	11
 157	short	corto	11
 158	sick	enfermo	11
-159	sir	el seÒor	11
+159	sir	el se√±or	11
 160	slowly	lentamente	11
-161	small	pequeÒo	11
+161	small	peque√±o	11
 162	so that	de modo que	11
-163	Spain	la EspaÒa	11
-164	Spanish	el espaÒol	11
+163	Spain	la Espa√±a	11
+164	Spanish	el espa√±ol	11
 165	store	la tienda	11
 166	summer	el verano	11
 167	sun	el sol	11
@@ -217,13 +217,13 @@ English	Spanish
 230	to work	trabajar	11
 231	to write	escribir	11
 233	too much	demasiado	11
-234	translation	la traducciÛn	11
+234	translation	la traducci√≥n	11
 235	twice	dos veces	11
 236	unless	a menos que	11
 237	until	hasta	11
 238	vegetable	la legumbre	11
 239	very	muy	11
-240	very much	muchÌsimo	11
+240	very much	much√≠simo	11
 241	view	la vista	11
 242	waiter	el mozo	11
 243	wall	la pared; el muro	11
@@ -231,12 +231,12 @@ English	Spanish
 245	wealth	la riqueza	11
 246	weather	el tiempo	11
 247	well	bien	11
-248	what a pity!	°quÈ l·stima!	11
-250	when?	øcuando?	11
-251	where?	ødÛnde?	11
-253	who?	øquiÈn?	11
+248	what a pity!	¬°qu√© l√°stima!	11
+250	when?	¬øcuando?	11
+251	where?	¬ød√≥nde?	11
+253	who?	¬øqui√©n?	11
 254	whose	cuyo	11
-255	why?	øpor quÈ?	11
+255	why?	¬øpor qu√©?	11
 256	window	la ventana	11
 257	wine	el vino	11
 258	winter	el invierno	11
@@ -247,21 +247,21 @@ English	Spanish
 266	books	los libros	11
 267	my name is	mi nombre es	11
 268	thank you	gracias	11
-269	never	jam·s	11
+269	never	jam√°s	11
 272	advertisement	el anuncio	12
 273	England	la Inglaterra	12
 274	everywhere	por todas partes	12
 275	France	la Francia	12
-276	generally	por lo com˙n	12
-277	German	el alem·n	12
+276	generally	por lo com√∫n	12
+277	German	el alem√°n	12
 278	Germany	la Alemania	12
 279	haste	la prisa	12
 280	hunger	el hambre f.	12
 281	nevertheless	sin embargo	12
-282	North America	la AmÈrica del Norte	12
+282	North America	la Am√©rica del Norte	12
 283	sometimes	algunas veces	12
 284	soup	la sopa	12
-285	South America	la AmÈrica del Sur	12
+285	South America	la Am√©rica del Sur	12
 286	such	tal	12
 287	thirst	la sed	12
 288	three times	tres veces	12
@@ -279,7 +279,7 @@ English	Spanish
 300	United States	los Estados Unidos	12
 301	work	el trabajo	12
 302	all; everything	todo	12
-303	also, too	tambiÈn	12
+303	also, too	tambi√©n	12
 304	at home	en casa	12
 305	blackboard	la pizarra	12
 306	chalk	la tiza	12
@@ -287,39 +287,39 @@ English	Spanish
 308	classroom	la sala de clase	12
 309	difficulty	la dificultad	12
 310	diligent	diligente	12
-311	doctor	el mÈdico	12
+311	doctor	el m√©dico	12
 312	each	cada	12
-313	English adj.	inglÈs	12
-314	every day	todos los dÌas	12
+313	English adj.	ingl√©s	12
+314	every day	todos los d√≠as	12
 315	field, country	el campo	12
 316	finally	al fin	12
 317	fountain pen	la plumafuente	12
-318	gentleman	el seÒor	12
-319	grammar	la gram·tica	12
-320	he	Èl	12
+318	gentleman	el se√±or	12
+319	grammar	la gram√°tica	12
+320	he	√©l	12
 321	he is a farmer	es campesino	12
-322	he is seated	est· sentado	12
+322	he is seated	est√° sentado	12
 323	he learns the word	aprende la palabra	12
 324	he speaks	habla	12
 325	he writes	escribe	12
 326	his, her, its, their, your formal	su, sus	12
-327	how?	øcÛmo?	12
+327	how?	¬øc√≥mo?	12
 329	I am tired.	Estoy cansado.	12
 330	I speak	hablo	12
 331	I write	escribo	12
 332	interesting	interesante	12
 333	John's book	el libro de Juan	12
-334	lesson	la lecciÛn	12
+334	lesson	la lecci√≥n	12
 335	lessons	las lecciones	12
 336	little, few	poco	12
 337	my	mi	12
-338	newspaper	el periÛdico	12
+338	newspaper	el peri√≥dico	12
 339	notebook	el cuaderno	12
 340	our	nuestro	12
 341	papers	los papeles	12
-342	pencils	los l·pices	12
+342	pencils	los l√°pices	12
 343	pens	las plumas	12
-344	pronunciation	la pronunciaciÛn	12
+344	pronunciation	la pronunciaci√≥n	12
 345	pupil f.	la alumna	12
 346	pupil m.	el alumno	12
 347	rule	la regla	12
@@ -329,7 +329,7 @@ English	Spanish
 351	she	ella	12
 352	some, any	algunos	12
 353	something, anything	algo	12
-354	Spanish adj.	espaÒol	12
+354	Spanish adj.	espa√±ol	12
 355	teacher m.	el maestro	12
 356	teacher f.	la maestra	12
 357	the teacher's table	la mesa del maestro	12
@@ -346,31 +346,31 @@ English	Spanish
 368	to read	leer	12
 369	to understand	comprender	12
 370	truth	la verdad	12
-371	useful	˙til	12
+371	useful	√∫til	12
 372	village	el pueblo	12
 373	vocabulary	el vocabulario	12
 374	we	nosotros	12
-375	we are here	estamos aquÌ	12
+375	we are here	estamos aqu√≠	12
 376	we speak	hablamos	12
 377	we write	escribimos	12
 378	while	mientras	12
 379	who, whom, that, which	que	12
 380	word	la palabra	12
 381	you are pl.	sois	12
-382	you fam.	t˙	12
+382	you fam.	t√∫	12
 383	you fam. pl.	vosotros	12
 384	you for.	usted	12
 385	you for. pl.	ustedes	12
 386	you speak	hablas	12
-387	you speak pl.	habl·is	12
+387	you speak pl.	habl√°is	12
 388	you write	escribes	12
-389	you write pl.	escribÌs	12
+389	you write pl.	escrib√≠s	12
 390	your	tu	12
 391	your pl.	vuestro	12
 392	I have	yo tengo	12
 393	he eats	come	12
 394	he goes	va	12
-395	he is (estar)	est·	12
+395	he is (estar)	est√°	12
 396	he is (ser)	es	12
 399	I eat	como	12
 400	I go	voy	12
@@ -378,27 +378,27 @@ English	Spanish
 402	we are (ser)	somos	12
 403	we eat	comemos	12
 404	we go	vamos	12
-405	you are (estar)	est·s	12
+405	you are (estar)	est√°s	12
 406	you are (ser)	eres	12
 407	you eat	comes	12
-408	you eat pl.	comÈis	12
+408	you eat pl.	com√©is	12
 409	you go	vas	12
 410	you go pl.	vais	12
-411	you pl. are (estar)	est·is	12
-412	sleep; dream; sleepiness	el sueÒo	12
-413	there	ahÌ	12
-414	you are sick	est·s enfermo	12
-415	there, over there	all·	12
-416	aunt	la tÌa	13
+411	you pl. are (estar)	est√°is	12
+412	sleep; dream; sleepiness	el sue√±o	12
+413	there	ah√≠	12
+414	you are sick	est√°s enfermo	12
+415	there, over there	all√°	12
+416	aunt	la t√≠a	13
 417	bookseller	el librero	13
-418	bookstore	la librerÌa	13
+418	bookstore	la librer√≠a	13
 419	exercise	el ejercicio	13
 420	ink	la tinta	13
 421	lawyer	el abogado	13
 422	relative	el pariente	13
 423	son	el hijo	13
 424	suit of clothes	el traje	13
-425	the rest	lo dem·s	13
+425	the rest	lo dem√°s	13
 426	to attend	asistir a	13
 427	to doubt	dudar	13
 428	to interest	interesar	13
@@ -411,21 +411,21 @@ English	Spanish
 435	cousin	el primo	13
 436	cow	la vaca	13
 437	dog	el perro	13
-438	doll	la muÒeca	13
+438	doll	la mu√±eca	13
 439	duck	el pato	13
 440	giraffe	la jirafa	13
 441	goat	la chiva	13
 442	good afternoon	buenas tardes	13
-443	good morning	buenos dÌas	13
+443	good morning	buenos d√≠as	13
 444	grandma	la abuela	13
 445	grandpa	el abuelo	13
-446	he wants	Èl quiere	13
+446	he wants	√©l quiere	13
 447	I want	yo quiero	13
 448	let's go to	vamos a	13
-449	lion	el leÛn	13
-450	my dad	mi pap·	13
+449	lion	el le√≥n	13
+450	my dad	mi pap√°	13
 451	my friend is	mi amigo es	13
-452	my mom	mi mam·	13
+452	my mom	mi mam√°	13
 453	open the box	abre la caja	13
 454	pass the	pasa la	13
 455	please	por favor	13
@@ -433,15 +433,15 @@ English	Spanish
 457	she wants	ella quiere	13
 458	silence	silencio	13
 459	sister	la hermana	13
-460	sit down	siÈntate	13
-461	stand up	lev·ntate	13
+460	sit down	si√©ntate	13
+461	stand up	lev√°ntate	13
 462	talk	habla	13
-463	uncle	el tÌo	13
+463	uncle	el t√≠o	13
 464	walk	camina	13
 465	welcome	bienvenidos	13
 466	zebra	la zebra	13
 467	fate; luck	la suerte	13
-468	they are (estar)	est·n	13
+468	they are (estar)	est√°n	13
 469	they are (ser)	son	13
 470	they go	van	13
 471	to loan; to borrow	prestar	13
@@ -453,22 +453,22 @@ English	Spanish
 477	I want to sleep.	Quiero dormir.	13
 478	You play a game.	Juegas un juego.	13
 479	You sleep in your bedroom.	Duermes en tu dormitorio.	13
-480	My uncle is a lawyer.	Mi tÌo es abogado.	13
-481	they are tired	est·n cansados	13
+480	My uncle is a lawyer.	Mi t√≠o es abogado.	13
+481	they are tired	est√°n cansados	13
 482	daughter-in-law	la nuera	13
 483	son-in-law	el yerno	13
-484	anger	la cÛlera	13
+484	anger	la c√≥lera	13
 485	of course	por supuesto	13
 486	custom, habit	la costumbre	14
 487	fact	el hecho	14
 488	front; previous	anterior	14
 489	proof; trial	la prueba	14
-490	purpose	el propÛsito	14
+490	purpose	el prop√≥sito	14
 491	soil; floor; pavement; bottom	el suelo	14
 492	stone, gravel	la piedra	14
-493	strange	extraÒo	14
-494	the others, the rest	los dem·s	14
-495	to add	aÒadir	14
+493	strange	extra√±o	14
+494	the others, the rest	los dem√°s	14
+495	to add	a√±adir	14
 496	to agree, convene	convenir	14
 497	to come up to, respond, attend	acudir	14
 498	to fix, establish	fijar	14
@@ -481,72 +481,72 @@ English	Spanish
 505	to throw	echar	14
 506	topic; business	el asunto	14
 507	valley	el valle	14
-508	go!	°ve!	15
-509	he ate	comiÛ	15
+508	go!	¬°ve!	15
+509	he ate	comi√≥	15
 510	he had	tuvo	15
-511	he had eaten	habÌa comido	15
-512	he had gone	habÌa ido	15
-513	he had spoken	habÌa hablado	15
+511	he had eaten	hab√≠a comido	15
+512	he had gone	hab√≠a ido	15
+513	he had spoken	hab√≠a hablado	15
 514	he has	tiene	15
 515	he has eaten	ha comido	15
 516	he has gone	ha ido	15
 517	he has spoken	ha hablado	15
-518	he spoke	hablÛ	15
+518	he spoke	habl√≥	15
 519	he was (estar)	estuvo	15
-520	he was (ser)	fuÈ	15
-521	he was eating	comÌa	15
+520	he was (ser)	fu√©	15
+521	he was eating	com√≠a	15
 522	he was going	iba	15
 523	he was speaking	hablaba	15
-524	he went	fuÈ	15
-525	he will be (estar)	estar·	15
-526	he will be (ser)	ser·	15
-527	he will eat	comer·	15
-528	he will go	ir·	15
-529	he will have	tendr·	15
-530	he will have gone	habr· ido	15
-531	he will have spoken	habr· hablado	15
-532	he will speak	hablar·	15
-533	he would eat	comerÌa	15
-534	he would go	irÌa	15
-535	he would have gone	habrÌa ido	15
-536	he would have spoken	habrÌa hablado	15
-537	he would speak	hablarÌa	15
-538	I ate	comÌ	15
+524	he went	fu√©	15
+525	he will be (estar)	estar√°	15
+526	he will be (ser)	ser√°	15
+527	he will eat	comer√°	15
+528	he will go	ir√°	15
+529	he will have	tendr√°	15
+530	he will have gone	habr√° ido	15
+531	he will have spoken	habr√° hablado	15
+532	he will speak	hablar√°	15
+533	he would eat	comer√≠a	15
+534	he would go	ir√≠a	15
+535	he would have gone	habr√≠a ido	15
+536	he would have spoken	habr√≠a hablado	15
+537	he would speak	hablar√≠a	15
+538	I ate	com√≠	15
 539	I had	tuve	15
-540	I had eaten	habÌa comido 1st	15
-541	I had gone	habÌa ido 1st	15
-542	I had spoken	habÌa hablado 1st	15
+540	I had eaten	hab√≠a comido 1st	15
+541	I had gone	hab√≠a ido 1st	15
+542	I had spoken	hab√≠a hablado 1st	15
 543	I have eaten	he comido	15
 544	I have gone	he ido	15
 545	I have spoken	he hablado	15
-546	I spoke	hablÈ	15
+546	I spoke	habl√©	15
 547	I was (estar)	estuve	15
-548	I was (ser)	fuÌ	15
-549	I was eating	comÌa	15
+548	I was (ser)	fu√≠	15
+549	I was eating	com√≠a	15
 550	I was going	iba	15
 551	I was speaking	hablaba 1st	15
-552	I went	fuÌ	15
-553	I will be (estar)	estarÈ	15
-554	I will be (ser)	serÈ	15
-555	I will eat	comerÈ	15
-556	I will go	irÈ	15
-557	I will have	tendrÈ	15
-558	I will have eaten	habrÈ comido	15
-559	I will have gone	habrÈ ido	15
-560	I will have spoken	habrÈ hablado	15
-561	I will speak	hablarÈ	15
-562	I would eat	comerÌa	15
-563	I would go	irÌa 1st	15
-564	I would have gone	habrÌa ido 1st	15
-565	I would have spoken	habrÌa hablado	15
-566	I would speak	hablarÌa 1st	15
-567	speak!	°habla!	15
+552	I went	fu√≠	15
+553	I will be (estar)	estar√©	15
+554	I will be (ser)	ser√©	15
+555	I will eat	comer√©	15
+556	I will go	ir√©	15
+557	I will have	tendr√©	15
+558	I will have eaten	habr√© comido	15
+559	I will have gone	habr√© ido	15
+560	I will have spoken	habr√© hablado	15
+561	I will speak	hablar√©	15
+562	I would eat	comer√≠a	15
+563	I would go	ir√≠a 1st	15
+564	I would have gone	habr√≠a ido 1st	15
+565	I would have spoken	habr√≠a hablado	15
+566	I would speak	hablar√≠a 1st	15
+567	speak!	¬°habla!	15
 568	they ate	comieron	15
 569	they eat	comen	15
 570	they had	tuvieron	15
-571	they had eaten	habÌan comido	15
-572	they had gone	habÌan ido	15
-573	they had spoken	habÌan hablado	15
+571	they had eaten	hab√≠an comido	15
+572	they had gone	hab√≠an ido	15
+573	they had spoken	hab√≠an hablado	15
 574	they have	tienen	15
 575	they have eaten	han comido	15
 576	they have gone	han ido	15
@@ -555,27 +555,27 @@ English	Spanish
 579	they went	fueron	15
 580	they were (estar)	estuvieron	15
 581	they were (ser)	fueron	15
-582	they were eating	comÌan	15
+582	they were eating	com√≠an	15
 583	they were going	iban	15
 584	they were speaking	hablaban	15
-585	they will be (estar)	estar·n	15
-586	they will be (ser)	ser·n	15
-587	they will eat	comer·n	15
-588	they will go	ir·n	15
-589	they will have	tendr·n	15
-590	they will have gone	habr·n ido	15
-591	they will have spoken	habr·n hablado	15
-592	they will speak	hablar·n	15
-593	they would eat	comerÌan	15
-594	they would go	irÌan	15
-595	they would have gone	habrÌan ido	15
-596	they would have spoken	habrÌan hablado	15
-597	they would speak	hablarÌan	15
+585	they will be (estar)	estar√°n	15
+586	they will be (ser)	ser√°n	15
+587	they will eat	comer√°n	15
+588	they will go	ir√°n	15
+589	they will have	tendr√°n	15
+590	they will have gone	habr√°n ido	15
+591	they will have spoken	habr√°n hablado	15
+592	they will speak	hablar√°n	15
+593	they would eat	comer√≠an	15
+594	they would go	ir√≠an	15
+595	they would have gone	habr√≠an ido	15
+596	they would have spoken	habr√≠an hablado	15
+597	they would speak	hablar√≠an	15
 598	we ate	comimos	15
 599	we had	tuvimos	15
-600	we had eaten	habÌamos comido	15
-601	we had gone	habÌamos ido	15
-602	we had spoken	habÌamos hablado	15
+600	we had eaten	hab√≠amos comido	15
+601	we had gone	hab√≠amos ido	15
+602	we had spoken	hab√≠amos hablado	15
 603	we have	tenemos	15
 604	we have eaten	hemos comido	15
 605	we have gone	hemos ido	15
@@ -584,9 +584,9 @@ English	Spanish
 608	we went	fuimos	15
 609	we were (estar)	estuvimos	15
 610	we were (ser)	fuimos	15
-611	we were eating	comÌamos	15
-612	we were going	Ìbamos	15
-613	we were speaking	habl·bamos	15
+611	we were eating	com√≠amos	15
+612	we were going	√≠bamos	15
+613	we were speaking	habl√°bamos	15
 614	we will be (estar)	estaremos	15
 615	we will be (ser)	seremos	15
 616	we will eat	comeremos	15
@@ -595,72 +595,72 @@ English	Spanish
 619	we will have gone	habremos ido	15
 620	we will have spoken	habremos hablado	15
 621	we will speak	hablaremos	15
-622	we would eat	comerÌamos	15
-623	we would go	irÌamos	15
-624	we would have gone	habrÌamos ido	15
-625	we would have spoken	habrÌamos hablado	15
-626	we would speak	hablarÌamos	15
+622	we would eat	comer√≠amos	15
+623	we would go	ir√≠amos	15
+624	we would have gone	habr√≠amos ido	15
+625	we would have spoken	habr√≠amos hablado	15
+626	we would speak	hablar√≠amos	15
 627	you ate	comiste	15
 628	you ate pl.	comisteis	15
 629	you had	tuviste	15
-630	you had eaten	habÌas comido	15
-631	you had eaten pl.	habÌais comido	15
-632	you had gone	habÌas ido	15
-633	you had gone pl.	habÌais ido	15
+630	you had eaten	hab√≠as comido	15
+631	you had eaten pl.	hab√≠ais comido	15
+632	you had gone	hab√≠as ido	15
+633	you had gone pl.	hab√≠ais ido	15
 634	you had pl.	tuvisteis	15
-635	you had spoken	habÌas hablado	15
-636	you had spoken pl.	habÌais hablado	15
+635	you had spoken	hab√≠as hablado	15
+636	you had spoken pl.	hab√≠ais hablado	15
 637	you have	tienes	15
 638	you have eaten	has comido	15
-639	you have eaten pl.	habÈis comido	15
+639	you have eaten pl.	hab√©is comido	15
 640	you have gone	has ido	15
-641	you have gone pl.	habÈis ido	15
-642	you have pl.	tenÈis	15
+641	you have gone pl.	hab√©is ido	15
+642	you have pl.	ten√©is	15
 643	you have spoken	has hablado	15
-644	you have spoken pl.	habÈis hablado	15
+644	you have spoken pl.	hab√©is hablado	15
 645	you pl. are (ser)	sois	15
 646	you pl. were (estar)	estuvisteis	15
 647	you pl. were (ser)	fuisteis	15
-648	you pl. will be (estar)	estarÈis	15
-649	you pl. will be (ser)	serÈis	15
-650	you speak!	°hablad!	15
+648	you pl. will be (estar)	estar√©is	15
+649	you pl. will be (ser)	ser√©is	15
+650	you speak!	¬°hablad!	15
 651	you spoke	hablaste	15
 652	you spoke pl.	hablasteis	15
 653	you went	fuiste	15
 654	you went pl.	fuisteis	15
 655	you were (estar)	estuviste	15
 656	you were (ser)	fuiste	15
-657	you were eating	comÌas	15
-658	you were eating pl.	comÌais	15
+657	you were eating	com√≠as	15
+658	you were eating pl.	com√≠ais	15
 659	you were going	ibas	15
 660	you were going pl.	ibais	15
 661	you were speaking	hablabas	15
 662	you were speaking pl.	hablabais	15
-663	you will be (estar)	estar·s	15
-664	you will be (ser)	ser·s	15
-665	you will eat	comer·s	15
-666	you will eat pl.	comerÈis	15
-667	you will go	ir·s	15
-668	you will go pl.	irÈis	15
-669	you will have	tendr·s	15
-670	you will have eaten	habr·s comido	15
-671	you will have gone	habr·s ido	15
-672	you will have gone pl.	habrÈis ido	15
-673	you will have pl.	tendrÈis	15
-674	you will have spoken	habr·s hablado	15
-675	you will have spoken pl.	habrÈis hablado	15
-676	you will speak	hablar·s	15
-677	you will speak pl.	hablarÈis	15
-678	you would eat	comerÌas	15
-679	you would eat pl.	comerÌais	15
-680	you would go	irÌas	15
-681	you would go pl.	irÌais	15
-682	you would have gone	habrÌas ido	15
-683	you would have gone pl.	habrÌais ido	15
-684	you would have spoken	habrÌas hablado	15
-685	you would have spoken pl.	habrÌais hablado	15
-686	you would speak	hablarÌas	15
-687	you would speak pl.	hablarÌais	15
+663	you will be (estar)	estar√°s	15
+664	you will be (ser)	ser√°s	15
+665	you will eat	comer√°s	15
+666	you will eat pl.	comer√©is	15
+667	you will go	ir√°s	15
+668	you will go pl.	ir√©is	15
+669	you will have	tendr√°s	15
+670	you will have eaten	habr√°s comido	15
+671	you will have gone	habr√°s ido	15
+672	you will have gone pl.	habr√©is ido	15
+673	you will have pl.	tendr√©is	15
+674	you will have spoken	habr√°s hablado	15
+675	you will have spoken pl.	habr√©is hablado	15
+676	you will speak	hablar√°s	15
+677	you will speak pl.	hablar√©is	15
+678	you would eat	comer√≠as	15
+679	you would eat pl.	comer√≠ais	15
+680	you would go	ir√≠as	15
+681	you would go pl.	ir√≠ais	15
+682	you would have gone	habr√≠as ido	15
+683	you would have gone pl.	habr√≠ais ido	15
+684	you would have spoken	habr√≠as hablado	15
+685	you would have spoken pl.	habr√≠ais hablado	15
+686	you would speak	hablar√≠as	15
+687	you would speak pl.	hablar√≠ais	15
 688	above, overhead	encima	16
 689	alive; lively	vivo	16
 690	atmosphere, environment	el ambiente	16
@@ -671,7 +671,7 @@ English	Spanish
 695	hardly; as soon as	apenas	16
 696	perhaps, by chance	acaso	16
 697	placed, put	puesto	16
-698	politics; policy	la polÌtica	16
+698	politics; policy	la pol√≠tica	16
 699	province	la provincia	16
 700	rememberance, memory	el recuerdo	16
 701	shadow; shelter; image	la sombra	16
@@ -692,12 +692,12 @@ English	Spanish
 716	capable	capaz	17
 717	discourse, reasoning	el discurso	17
 718	faith	la fe	17
-719	hero	el hÈroe	17
-720	joy	la alegrÌa	17
+719	hero	el h√©roe	17
+720	joy	la alegr√≠a	17
 721	light; swift	ligero	17
-722	marquis	el marquÈs	17
+722	marquis	el marqu√©s	17
 723	mass, volume; crowd	la masa	17
-724	population	la poblaciÛn	17
+724	population	la poblaci√≥n	17
 725	short time	el rato	17
 726	species, kind	la especie	17
 727	theme, subject	la tema	17
@@ -707,13 +707,13 @@ English	Spanish
 731	to enjoy, possess	gozar	17
 732	to flee, avoid	huir	17
 733	to impede, prevent	impedir	17
-734	to mark, point out	seÒalar	17
+734	to mark, point out	se√±alar	17
 735	to move, persuade	mover	17
 736	to require, demand	exigir	17
 737	to save, exclude	salvar	17
 738	to sustain, hold	sostener	17
 739	weapon	la arma	17
-740	balcony	el balcÛn	17
+740	balcony	el balc√≥n	17
 741	coast, cost	la costa	17
 742	convent	el convento	17
 743	current, course	la corriente	17
@@ -724,12 +724,12 @@ English	Spanish
 748	fireplace; home	el hogar	17
 749	future	el porvenir	17
 750	joined, united	junto	17
-751	kind, class; gender	el gÈnero	17
-752	majority	la mayorÌa	17
+751	kind, class; gender	el g√©nero	17
+752	majority	la mayor√≠a	17
 753	penalty, grief	la pena	17
 754	precious, valuable	precioso	17
-755	prince	el prÌncipe	17
-756	reverse, misfortune	el travÈs	17
+755	prince	el pr√≠ncipe	17
+756	reverse, misfortune	el trav√©s	17
 757	scene; stage	la escena	17
 758	square; picture, scene	el cuadro	17
 759	to avoid, shun	evitar	17
@@ -766,7 +766,7 @@ English	Spanish
 790	mystery, secret	el misterio	18
 791	plant, ground floor	la planta	18
 792	portrait, photograph	el retrato	18
-793	root, origin	la raÌz	18
+793	root, origin	la ra√≠z	18
 794	scholar	el sabio	18
 795	similar	semejante	18
 796	sum, summary	la suma	18
@@ -792,7 +792,7 @@ English	Spanish
 816	half, middle	la mitad	19
 817	land, field	el terreno	19
 818	lip	el labio	19
-819	outcome; success	el Èxito	19
+819	outcome; success	el √©xito	19
 820	position, duty	el cargo	19
 821	scarce	escaso	19
 822	series	la serie	19
@@ -828,7 +828,7 @@ English	Spanish
 852	skin; leather	la piel	19
 853	soft; smooth	suave	19
 854	to cross	atravesar	19
-855	to deceive	engaÒar	19
+855	to deceive	enga√±ar	19
 856	to fix, repair	componer	19
 857	to heed	atender	19
 858	to hide, conceal	ocultar	19
@@ -836,7 +836,7 @@ English	Spanish
 860	to show, appear	asomar	19
 861	to spread out; to tend	tender	19
 862	tower	la torre	19
-863	way; road; track	la vÌa	19
+863	way; road; track	la v√≠a	19
 864	above, upstairs; hurrah!	arriba	19
 865	bishop	el obispo	19
 866	chest; breast	el pecho	19
@@ -862,7 +862,7 @@ English	Spanish
 886	to verify, check, prove	comprobar	19
 887	after, in search of	tras	19
 888	another's	ajeno	19
-889	back, behind	atr·s	19
+889	back, behind	atr√°s	19
 890	board, plank	la tabla	19
 891	border, edge	el borde	19
 892	charm	el encanto	19
@@ -873,7 +873,7 @@ English	Spanish
 897	face, expression	el gesto	19
 898	faithful	fiel	19
 899	iron; brand; instrument	el hierro	19
-900	jail	la c·rcel	19
+900	jail	la c√°rcel	19
 901	landscape	el paisaje	19
 902	length	el largo	19
 903	mind, intellect	la mente	19
@@ -893,7 +893,7 @@ English	Spanish
 917	He sleeps in a bed.	Duerme en una cama.	23
 918	I am studying again.	Vuelvo a estudiar.	23
 919	I close the door.	Cierro la puerta.	23
-920	I hear him.	Entiendo Èl.	23
+920	I hear him.	Entiendo √©l.	23
 921	I play the radio.	Juego la radio.	23
 922	I sleep at night.	Duermo de noche.	23
 923	It is necessary to close the door.	Es necesario cerrar la puerta.	23
@@ -904,37 +904,37 @@ English	Spanish
 928	We close our books.	Cerramos nuestros libros.	23
 929	We play at home.	Jugamos en casa.	23
 930	We sleep in our beds.	Dormimos en nuestras camas.	23
-931	We start the lesson again.	Volvemos a empezar la lecciÛn.	23
+931	We start the lesson again.	Volvemos a empezar la lecci√≥n.	23
 932	We understand the teacher.	Entendemos el maestro.	23
-933	You all close the notebooks.	Cerr·is los cuadernos.	23
-934	You all play well.	Jug·is bien.	23
-935	You all sleep at night.	DormÌs de noche.	23
-936	You all try again.	VolvÈis a tratar.	23
+933	You all close the notebooks.	Cerr√°is los cuadernos.	23
+934	You all play well.	Jug√°is bien.	23
+935	You all sleep at night.	Dorm√≠s de noche.	23
+936	You all try again.	Volv√©is a tratar.	23
 937	You close the book.	Cierras el libro.	23
 938	You hear the radio.	Entiendes la radio.	23
 939	You write the letter again.	Vuelves a escribir la carta.	23
-940	Grammar is explained in class.	La gram·tica se explica en la clase.	24
-941	he explains the lesson to the student	explica la lecciÛn al alumno	24
-942	how do you pronounce the words?	øcÛmo se pronuncian las palabras?	24
+940	Grammar is explained in class.	La gram√°tica se explica en la clase.	24
+941	he explains the lesson to the student	explica la lecci√≥n al alumno	24
+942	how do you pronounce the words?	¬øc√≥mo se pronuncian las palabras?	24
 943	I learn the vocabulary.	Aprendo el vocabulario.	24
-944	Is he studying?	øEstudia?	24
-945	It is easy to understand the rules.	Es f·cil comprender las reglas.	24
-946	It is necessary to learn Spanish.	Es necesario aprender el espaÒol.	24
+944	Is he studying?	¬øEstudia?	24
+945	It is easy to understand the rules.	Es f√°cil comprender las reglas.	24
+946	It is necessary to learn Spanish.	Es necesario aprender el espa√±ol.	24
 947	The families I describe are rich.	Las familias que describo son ricas.	24
-948	The people who live here are very happy.	La gente que vive aquÌ es muy alegre.	24
+948	The people who live here are very happy.	La gente que vive aqu√≠ es muy alegre.	24
 949	There are many words in a book.	Hay muchas palabras en un libro.	24
-950	There are students who do not study every lesson.	Hay alumnos que no estudian cada lecciÛn.	24
-951	they learn grammar	aprenden la gram·tica	24
-952	we learn Spanish	aprendemos el espaÒol	24
-953	We understand all that he explains.	Comprendemos todo lo que Èl explica.	24
-954	What are you studying, Mr. Blanco?	øQuÈ estudia Vd., SeÒor Blanco?	24
+950	There are students who do not study every lesson.	Hay alumnos que no estudian cada lecci√≥n.	24
+951	they learn grammar	aprenden la gram√°tica	24
+952	we learn Spanish	aprendemos el espa√±ol	24
+953	We understand all that he explains.	Comprendemos todo lo que √©l explica.	24
+954	What are you studying, Mr. Blanco?	¬øQu√© estudia Vd., Se√±or Blanco?	24
 955	What you write is very interesting.	Lo que Vd. escribe es muy interesante.	24
-956	Where do they speak Spanish?	øDÛnde se habla espaÒol?	24
-957	you are lazy pl.	est·is perezosos	24
-958	you learn the rule pl.	aprendÈis la regla	24
+956	Where do they speak Spanish?	¬øD√≥nde se habla espa√±ol?	24
+957	you are lazy pl.	est√°is perezosos	24
+958	you learn the rule pl.	aprend√©is la regla	24
 959	you learn the sentence	aprendes la frase	24
 960	The Brave Ones	Los Bravos	25
-961	The Cool Ones	Los ChÈveres	25
+961	The Cool Ones	Los Ch√©veres	25
 962	around	alrededor de	26
 963	as soon as	desde que	26
 964	block	la cuadra	26
@@ -942,12 +942,12 @@ English	Spanish
 966	bridge	el puente	26
 967	explosion	el estallido	26
 968	face	la cara	26
-969	further	m·s all·	26
+969	further	m√°s all√°	26
 970	grave	la fosa	26
 971	ham	el tocino	26
 972	leg	la pierna	26
 973	mare	la yegua	26
-974	marten, like a weasel	la garduÒa	26
+974	marten, like a weasel	la gardu√±a	26
 975	neck	la nuca	26
 976	on one's knees	de rodillas	26
 977	raindrop	la gota	26
@@ -970,12 +970,12 @@ English	Spanish
 994	deal, trade	el trato	27
 995	defeat, rout	la derrota	27
 996	devices	los dispositivos	27
-997	disposition, temper	la Ìndole	27
+997	disposition, temper	la √≠ndole	27
 998	fine	la multa	27
 999	goal, objective	la meta	27
 1000	in search of, behind	tras	27
 1001	interviewer	el interlocutor	27
-1002	investment	el inversiÛn	27
+1002	investment	el inversi√≥n	27
 1003	likewise, also	asimismo	27
 1004	mark; brand	la marca	27
 1005	oath	el juramento	27
@@ -1004,7 +1004,7 @@ English	Spanish
 1028	to foresee	prever	27
 1029	to loot, plunder	saquear	27
 1030	to make to stand out	destacar	27
-1031	to oblige, pawn	empeÒar	27
+1031	to oblige, pawn	empe√±ar	27
 1032	to pass over, cross over	traspasar	27
 1033	to pour, spread, spill	derramar	27
 1034	to rule, govern	regir	27
@@ -1018,32 +1018,32 @@ English	Spanish
 1042	voting booth	la casilla	27
 1043	within, inside	adentro	27
 1044	a so and so	el fulano	28
-1045	bedsheet	la s·bana	28
+1045	bedsheet	la s√°bana	28
 1046	breathless	jadeante	28
 1047	broom	la escoba	28
 1048	bruise	el cardenal	28
 1049	butterfly	la mariposa	28
 1050	claw, paw, hook	la garra	28
 1051	crack, fissure	la hendidura	28
-1052	eyelid	el p·rpado	28
+1052	eyelid	el p√°rpado	28
 1053	frightening, wonderful	espantoso	28
 1054	gift, ability	el don	28
 1055	glimpse	la ojeada	28
 1056	hair	el cabello	28
-1057	handkerchief	el paÒuelo	28
+1057	handkerchief	el pa√±uelo	28
 1058	hollow	hueco	28
 1059	itching, tingling	el hormigueo	28
 1060	lad, young man	el cheval	28
 1061	lamb	el cordero	28
 1062	magician	el brujo	28
-1063	marble	el m·rmol	28
-1064	marble	marmÛreo	28
+1063	marble	el m√°rmol	28
+1064	marble	marm√≥reo	28
 1065	nickname	el apodo	28
 1066	pine	el pino	28
-1067	quilt	el edredÛn	28
+1067	quilt	el edred√≥n	28
 1068	roasted	asado	28
-1069	sadistic	s·dico	28
-1070	size	el tamaÒo	28
+1069	sadistic	s√°dico	28
+1070	size	el tama√±o	28
 1071	summit	la cumbre	28
 1072	to assent, agree	asentir	28
 1073	to cast a shadow; to amaze	asombrar	28
@@ -1072,7 +1072,7 @@ English	Spanish
 1096	to stop up, obstruct	atascar	28
 1097	to surrender	rendir	28
 1098	to thrust in	encajar	28
-1099	transaction, procedure	el tr·mite	28
+1099	transaction, procedure	el tr√°mite	28
 1100	turkey	el pavo	28
 1101	wrinkle	la arruga	28
 1102	to go for a walk	dar una vuelta	1
@@ -1091,28 +1091,28 @@ English	Spanish
 1124	thirteen	trece	1
 1125	fourteen	catorce	1
 1126	fifteen	quince	1
-1127	sixteen	diecisÈis	1
+1127	sixteen	diecis√©is	1
 1128	seventeen	diecisiete	1
 1129	eighteen	dieciocho	1
 1130	nineteen	diecinueve	1
 1131	twenty	veinte	1
 1132	zero	cero	1
-1133	number	el n˙mero	1
+1133	number	el n√∫mero	1
 1134	Monday	lunes	1
 1135	Tuesday	martes	1
-1136	Wednesday	miÈrcoles	1
+1136	Wednesday	mi√©rcoles	1
 1137	Thursday	jueves	1
 1138	Friday	viernes	1
-1139	Saturday	s·bado	1
+1139	Saturday	s√°bado	1
 1140	Sunday	domingo	1
-1141	day	el dÌa	1
+1141	day	el d√≠a	1
 1142	week	la semana	1
 1143	twenty one	veintiuno	2
-1144	twenty two	veintidÛs	2
-1145	twenty three	veintitrÈs	2
+1144	twenty two	veintid√≥s	2
+1145	twenty three	veintitr√©s	2
 1146	twenty four	veinticuatro	2
 1147	twenty five	veinticinco	2
-1148	twenty six	veintisÈis	2
+1148	twenty six	veintis√©is	2
 1149	twenty seven	veintisiete	2
 1150	twenty eight	veintiocho	2
 1151	twenty nine	veintinueve	2
@@ -1147,7 +1147,7 @@ English	Spanish
 1180	black	negro	1
 1181	brown	pardo	1
 1182	pink	rosado	1
-1183	purple	purp˙reo; morado	1
+1183	purple	purp√∫reo; morado	1
 1185	orange	anaranjado	1
 1186	to ask	preguntar	1
 1187	to go	ir	1
@@ -1158,24 +1158,24 @@ English	Spanish
 1192	this is	este es	1
 1193	I am (estar)	estoy	1
 1194	I am (ser)	soy	1
-1195	what is	quÈ es	1
+1195	what is	qu√© es	1
 1196	to have	tener	1
-1197	What is your name? (informal)	øCÛmo te llamas?	1
-1198	What is your name? (formal)	øCÛme se llama usted?	1
-1199	How are you? (informal)	øCÛmo est·s?	1
-1200	How is it going?	øQuÈ tal?	1
+1197	What is your name? (informal)	¬øC√≥mo te llamas?	1
+1198	What is your name? (formal)	¬øC√≥me se llama usted?	1
+1199	How are you? (informal)	¬øC√≥mo est√°s?	1
+1200	How is it going?	¬øQu√© tal?	1
 1201	Slower, please.	Lentamente, por favor.	1
-1202	what?	øquÈ?	1
+1202	what?	¬øqu√©?	1
 1203	hour	la hora	1
-1204	yes	sÌ	1
+1204	yes	s√≠	1
 1205	I	yo	1
 1206	no	no	1
-1207	good-bye!	°adiÛs!	1
+1207	good-bye!	¬°adi√≥s!	1
 1208	and	y	1
-1209	year	el aÒo	1
+1209	year	el a√±o	1
 1210	minute	el minuto	1
 1211	color	el color	1
 1212	night	la noche	1
 1213	yesterday	ayer	1
 1214	today	hoy	1
-1215	tomorrow	maÒana	1
+1215	tomorrow	ma√±ana	1

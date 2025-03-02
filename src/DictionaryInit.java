@@ -74,11 +74,11 @@ public class DictionaryInit {
 
     if (WL.getLanguage(1).equals("German"))
     {
-    	kb1 = new Label("Press Alt-Left Shift for the German keyboard, then y for z, z for y, ; for ö, ' for ä, [ for ü, - for ß, _ for ?, < for ;");
+    	kb1 = new Label("Press Alt-Left Shift for the German keyboard, then y for z, z for y, ; for Ã¶, ' for Ã¤, [ for Ã¼, - for ÃŸ, _ for ?, < for ;");
     }
     else if (WL.getLanguage(1).equals("Spanish"))
     {
-    	kb1 = new Label("Press Alt-Left Shift for the Spanish keyboard, then ; for ñ, = for ¡, _ for ?, + for ¿, ' and a letter for é, í, ú, ó, á");
+    	kb1 = new Label("Press Alt-Left Shift for the Spanish keyboard, then ; for Ã±, = for Â¡, _ for ?, + for Â¿, ' and a letter for Ã©, Ã­, Ãº, Ã³, Ã¡");
     }
     else 
     {

@@ -3,17 +3,17 @@ English	German
 2	two	zwei	1
 3	three	drei	1
 4	four	vier	1
-5	five	fünf	1
+5	five	fÃ¼nf	1
 6	six	sechs	1
 7	seven	sieben	1
 8	eight	acht	1
 9	nine	neun	1
 10	ten	zehn	1
 11	eleven	elf	1
-12	twelve	zwölf	1
+12	twelve	zwÃ¶lf	1
 13	thirteen	dreizehn	1
 14	fourteen	vierzehn	1
-15	fifteen	fünfzehn	1
+15	fifteen	fÃ¼nfzehn	1
 16	sixteen	sechszehn	1
 17	seventeen	siebzehn	1
 18	eighteen	achtzehn	1
@@ -32,7 +32,7 @@ English	German
 32	week	die Woche	2
 81	January	der Januar	2
 82	February	der Februar	2
-83	March	der März	2
+83	March	der MÃ¤rz	2
 84	April	der April	2
 85	May	der Mai	2
 86	June	der Juni	2
@@ -53,14 +53,14 @@ English	German
 671	yesterday	gestern	2
 672	today	heute	2
 673	tomorrow	morgen	2
-1263	January (Austria)	der Jänner	2
+1263	January (Austria)	der JÃ¤nner	2
 1538	per week	pro Woche	2
 1539	weekend	das Wochenende	2
 94	red	rot	3
 95	blue	blau	3
 96	yellow	gelb	3
-97	green	grün	3
-98	white	weiß	3
+97	green	grÃ¼n	3
+98	white	weiÃŸ	3
 99	gray	grau	3
 100	black	schwarz	3
 101	brown	braun	3
@@ -73,7 +73,7 @@ English	German
 128	this is	das ist	4
 129	I am	ich bin	4
 130	what is	was ist	4
-142	What are you called?	Wie heißt du?	4
+142	What are you called?	Wie heiÃŸt du?	4
 143	How are you?	Wie geht es dir?	4
 144	Where do you come from?	Woher kommst du?	4
 145	Where can I find ___?	Wo finde ich ___?	4
@@ -91,8 +91,8 @@ English	German
 201	in English	auf Englisch	4
 202	in German	auf Deutsch	4
 219	yes	ja	4
-286	I don't know.	Ich weiß nicht.	4
-293	I am called	ich heiße	4
+286	I don't know.	Ich weiÃŸ nicht.	4
+293	I am called	ich heiÃŸe	4
 294	I come from	ich komme aus	4
 300	take care; so long	Mach's gut	4
 301	my name is	mein Name ist	4
@@ -104,24 +104,24 @@ English	German
 328	Good-bye!	Auf Wiedersehen!	4
 331	please; you're welcome	bitte	4
 333	thank you	danke	4
-352	hello	hallo; grüß dich	4
+352	hello	hallo; grÃ¼ÃŸ dich	4
 353	good night	gute Nacht	4
 354	good evening	guten Abend	4
 355	good morning	guten Morgen	4
 356	good day	guten Tag	4
 359	bad(ly)	schlecht	4
 360	very well	sehr gut	4
-362	so long; bye	tschüs	4
+362	so long; bye	tschÃ¼s	4
 686	What is that?	Was ist das?	4
 687	That is ___.	Das ist ___.	4
 688	Where is ___?	Wo ist ___?	4
 689	When is ___?	Wann ist ___?	4
 692	I have ___.	Ich habe ___.	4
-693	I would like ___.	Ich möchte ___.	4
+693	I would like ___.	Ich mÃ¶chte ___.	4
 694	I'm looking for ___.	Ich suche ___.	4
 695	I need ___.	Ich brauche ___.	4
 700	Do you speak English? (formal)	Sprechen Sie Englisch?	4
-702	I speak a little German.	Ich spreche ein bißchen Deutsch.	4
+702	I speak a little German.	Ich spreche ein biÃŸchen Deutsch.	4
 737	bathroom; toilet	die Toilette	4
 1278	All the best!	Alles Gute!	4
 1293	I'm sorry.	Es tut mir leid.	4
@@ -155,7 +155,7 @@ English	German
 164	I will	ich werde	6
 165	I should	ich soll	6
 168	I can	ich kann	6
-169	I would like	ich möchte	6
+169	I would like	ich mÃ¶chte	6
 170	I want to	ich will	6
 243	he is	er ist	6
 246	I	ich	6
@@ -174,19 +174,19 @@ English	German
 602	they are	sie sind	6
 603	you are (formal)	Sie sind	6
 636	you go	du gehst	6
-1264	I know (a fact)	ich weiß	6
-1282	she knows (a fact)	sie weiß	6
+1264	I know (a fact)	ich weiÃŸ	6
+1282	she knows (a fact)	sie weiÃŸ	6
 1296	you give	du gibst	6
-1389	you know (a fact)	du weißt	6
+1389	you know (a fact)	du weiÃŸt	6
 1390	he gives	er gibt	6
-3073	I must	ich muss; ich muß	6
+3073	I must	ich muss; ich muÃŸ	6
 107	to work	arbeiten	7
 108	to visit	besuchen	7
 109	to stay; to remain	bleiben	7
 111	to find	finden	7
 112	to ask	fragen	7
 113	to go	gehen	7
-114	to be called	heißen	7
+114	to be called	heiÃŸen	7
 115	to cook	kochen	7
 116	to come	kommen	7
 118	to do; to make	machen	7
@@ -201,8 +201,8 @@ English	German
 127	to reside; to live	wohnen	7
 131	to have	haben	7
 135	to know (a fact)	wissen	7
-136	to be able	können	7
-137	to have to; must	müssen	7
+136	to be able	kÃ¶nnen	7
+137	to have to; must	mÃ¼ssen	7
 140	to eat	essen	7
 181	to learn; to study	lernen	7
 182	to read	lesen	7
@@ -236,7 +236,7 @@ English	German
 630	you dance (plural)	ihr tanzt	8
 631	they dance	sie tanzen	8
 632	you dance (formal)	Sie tanzen	8
-634	she is called	sie heißt	8
+634	she is called	sie heiÃŸt	8
 635	you travel (plural)	ihr reist	8
 637	we go	wir gehen	8
 638	I go	ich gehe	8
@@ -257,9 +257,9 @@ English	German
 245	carrots	die Karotten	10
 272	juice	der Saft	10
 460	wine	der Wein	10
-497	vegetable	das Gemüse	10
+497	vegetable	das GemÃ¼se	10
 527	egg	das Ei	10
-529	candy	die Süßigkeit; das Bonbon	10
+529	candy	die SÃ¼ÃŸigkeit; das Bonbon	10
 530	pound	das Pfund	10
 531	kilogram	das Kilo	10
 534	beer	das Bier	10
@@ -280,12 +280,12 @@ English	German
 1598	potato	die Kartoffel	10
 1600	tomato	die Tomate	10
 1603	loaf of bread	das Brot	10
-1605	bread roll	das Brötchen	10
+1605	bread roll	das BrÃ¶tchen	10
 1607	cookie	der Keks	10
 1609	cake	der Kuchen	10
 1614	beef	das Rindfleisch	10
 1615	pork	das Schweinefleisch	10
-1616	chicken	das Hähnchen	10
+1616	chicken	das HÃ¤hnchen	10
 1617	ham	der Schinken	10
 1619	cutlet	das Schnitzel	10
 1621	steak	das Steak	10
@@ -296,9 +296,9 @@ English	German
 1636	tea	der Tee	10
 1641	butter	die Butter	10
 1645	yogurt	der Joghurt	10
-1646	cheese	der Käse	10
+1646	cheese	der KÃ¤se	10
 1647	milk	die Milch	10
-1648	granola; cereal	das Müsli	10
+1648	granola; cereal	das MÃ¼sli	10
 1649	pepper	der Pfeffer	10
 1650	salt	das Salz	10
 1651	sugar	der Zucker	10
@@ -311,40 +311,40 @@ English	German
 1912	mustard	der Senf	10
 1915	soup	die Suppe	10
 1920	onion	die Zwiebel	10
-2566	sandwich	das belegte Brötchen	10
+2566	sandwich	das belegte BrÃ¶tchen	10
 2590	bean	die Bohne	10
 405	restaurant	das Restaurant	12
 478	lunch	das Mittagessen	12
 498	bottle	die Flasche	12
-501	kitchen; cuisine; cooking	die Küche	12
+501	kitchen; cuisine; cooking	die KÃ¼che	12
 522	supermarket	der Supermarkt	12
-573	drink; beverage	das Getränk	12
-854	piece	das Stück	12
+573	drink; beverage	das GetrÃ¤nk	12
+854	piece	das StÃ¼ck	12
 1093	to be hungry	Hunger haben	12
 1094	to be thirsty	Durst haben	12
 1531	cup	die Tasse	12
 1730	evening meal	das Abendessen	12
-1735	breakfast	das Frühstück	12
+1735	breakfast	das FrÃ¼hstÃ¼ck	12
 1925	fork	die Gabel	12
-1935	spoon	der Löffel	12
+1935	spoon	der LÃ¶ffel	12
 1937	knife	das Messer	12
 1951	plate	der Teller	12
 2436	hungry	hungrig	12
 2483	thirsty	durstig	12
-2533	sink	die Spüle	12
-2978	refrigerator	der Kühlschrank	12
+2533	sink	die SpÃ¼le	12
+2978	refrigerator	der KÃ¼hlschrank	12
 2979	stove	der Ofen	12
-2980	dishwasher	der Geschirrspüler	12
+2980	dishwasher	der GeschirrspÃ¼ler	12
 2981	freezer	der Gefrierschrank	12
 3034	microwave	der Mikrowellenherd	12
 3035	to microwave	im Mikrowellenherd erhitzen	12
 3126	soap	die Seife	12
 3176	meal	die Mahlzeit	12
-1570	you would like	du möchtest	14
-1571	he would like	er möchte	14
-1572	we would like	wir möchten	14
-1573	you (plural) would like	ihr möchtet	14
-1574	they would like	sie möchten	14
+1570	you would like	du mÃ¶chtest	14
+1571	he would like	er mÃ¶chte	14
+1572	we would like	wir mÃ¶chten	14
+1573	you (plural) would like	ihr mÃ¶chtet	14
+1574	they would like	sie mÃ¶chten	14
 2162	to do	tun	14
 2684	I do	ich tue	14
 2685	you do	du tust	14
@@ -356,12 +356,12 @@ English	German
 459	morning; before noon	der Vormittag	16
 469	time	die Zeit	16
 1281	at midnight	um Mitternacht	16
-1303	It is around five o'clock.	Es ist gegen fünf Uhr.	16
+1303	It is around five o'clock.	Es ist gegen fÃ¼nf Uhr.	16
 1312	at (a time)	um	16
 1427	noon	der Mittag	16
 1431	this morning	heute Morgen	16
 1432	this afternoon	heute Nachmittag	16
-1433	tomorrow morning	morgen früh	16
+1433	tomorrow morning	morgen frÃ¼h	16
 1434	tomorrow evening	morgen Abend	16
 1435	in the morning; mornings	morgens	16
 1436	before noon	vormittags	16
@@ -375,20 +375,20 @@ English	German
 1502	seconds	die Sekunden	16
 1504	hours	die Stunden	16
 1505	At what time?	Um wie viel Uhr?	16
-1506	What time is it?	Wie spät ist es?	16
+1506	What time is it?	Wie spÃ¤t ist es?	16
 1507	What time is it? (viel)	Wie viel Uhr ist es?	16
 1508	It's one o'clock.	Es ist eins.	16
 1509	half	halb	16
 1510	half past one	halb zwei	16
-1512	five after two	fünf nach zwei	16
+1512	five after two	fÃ¼nf nach zwei	16
 1514	at two	um zwei	16
 1515	quarter	Viertel	16
 1516	It is a quarter after two.	Es ist Viertel nach zwei.	16
 1517	It is a quarter to two.	Es ist Viertel vor zwei.	16
-1519	five to two	fünf vor zwei	16
+1519	five to two	fÃ¼nf vor zwei	16
 1797	since; for (+ time)	seit	16
-1990	until five o'clock	bis fünf Uhr	16
-1991	around five o'clock	gegen fünf Uhr	16
+1990	until five o'clock	bis fÃ¼nf Uhr	16
+1991	around five o'clock	gegen fÃ¼nf Uhr	16
 1992	in two days	in zwei Tagen	16
 1993	after Tuesday	nach Dienstag	16
 1994	for two years	seit zwei Jahren	16
@@ -397,7 +397,7 @@ English	German
 1997	between two and three o'clock	zwischen zwei und drei Uhr	16
 2021	three days ago	vor drei Tagen	16
 2023	in one hour	in einer Stunde	16
-2024	between 5 and 7 o'clock	zwischen fünf und sieben Uhr	16
+2024	between 5 and 7 o'clock	zwischen fÃ¼nf und sieben Uhr	16
 2972	until	bis	16
 34	200	zweihundert	18
 35	1000	tausend	18
@@ -407,31 +407,31 @@ English	German
 39	22	zweiundzwanzig	18
 40	23	dreiundzwanzig	18
 41	24	vierundzwanzig	18
-42	25	fünfundzwanzig	18
+42	25	fÃ¼nfundzwanzig	18
 43	26	sechsundzwanzig	18
 44	27	siebenundzwanzig	18
 45	28	achtundzwanzig	18
 46	29	neunundzwanzig	18
-47	30	dreißig	18
-48	31	einunddreißig	18
+47	30	dreiÃŸig	18
+48	31	einunddreiÃŸig	18
 49	40	vierzig	18
 50	42	zweiundvierzig	18
-51	50	fünfzig	18
-52	58	achtundfünfzig	18
+51	50	fÃ¼nfzig	18
+52	58	achtundfÃ¼nfzig	18
 53	60	sechzig	18
 54	70	siebzig	18
-55	75	fünfundsiebzig	18
+55	75	fÃ¼nfundsiebzig	18
 56	80	achtzig	18
 57	84	vierundachtzig	18
 58	90	neunzig	18
 59	99	neunundneunzig	18
 60	100	hundert	18
-231	girl	das Mädchen	20
+231	girl	das MÃ¤dchen	20
 232	boy	der Junge; der Bub	20
 233	woman; wife	die Frau	20
 234	man; husband	der Mann	20
 262	friend (m)	der Freund	20
-336	young woman	das Fräulein	20
+336	young woman	das FrÃ¤ulein	20
 338	gentleman	der Herr	20
 340	gentlemen	die Herren	20
 445	people	die Leute	20
@@ -447,8 +447,8 @@ English	German
 2538	baby	das Baby	20
 2886	acquaintance; friend	der Bekannte	20
 3029	fellow; dude	der Kerl	20
-3168	queen	die Königin	20
-3170	king	der König	20
+3168	queen	die KÃ¶nigin	20
+3170	king	der KÃ¶nig	20
 3207	children	die Kinder	20
 3224	someone	jemand	20
 3271	adult; grown-up	der Erwachsene	20
@@ -461,30 +461,30 @@ English	German
 428	relative	der Verwandte	22
 441	child	das Kind	22
 442	parents	die Eltern	22
-443	grandfather	der Großvater	22
+443	grandfather	der GroÃŸvater	22
 444	uncle	der Onkel	22
 446	son	der Sohn	22
 450	aunt	die Tante	22
 452	daughter	die Tochter	22
 457	siblings	die Geschwister	22
-458	grandparents	die Großeltern	22
+458	grandparents	die GroÃŸeltern	22
 485	family	die Familie	22
 553	wedding	die Hochzeit	22
 1229	family gathering	das Familienfest	22
 1260	female cousin	die Kusine	22
 1271	granddaughter	die Enkelin	22
-1290	sister-in-law	die Schwägerin	22
+1290	sister-in-law	die SchwÃ¤gerin	22
 1301	grandson	der Enkel	22
 1307	nephew	der Neffe	22
 1310	When is your birthday?	Wann hast du Geburtstag?	22
 1315	niece	die Nichte	22
-1326	grandmother	die Großmutter	22
+1326	grandmother	die GroÃŸmutter	22
 1331	brother-in-law	der Schwager	22
 1336	grandpa	der Opa	22
 1345	grandma	die Oma	22
 1378	male cousin	der Vetter	22
 2600	bride	die Braut	22
-2601	bridegroom	der Bräutigam	22
+2601	bridegroom	der BrÃ¤utigam	22
 2602	bridesmaid	die Brautjungfer	22
 194	book	das Buch	24
 218	word	das Wort	24
@@ -497,12 +497,12 @@ English	German
 1228	camera	der Fotoapparat	24
 1731	eyeglasses	die Brille	24
 1747	purse	die Tasche	24
-2977	key	der Schlüssel	24
+2977	key	der SchlÃ¼ssel	24
 3012	air	die Luft	24
 3096	tape; sticky tape	das Klebeband	24
 3217	hand	die Hand	24
 3233	fire	das Feuer	24
-3315	street	die Straße	24
+3315	street	die StraÃŸe	24
 156	only	nur	26
 157	when	wann; als	26
 159	who	wer	26
@@ -514,24 +514,24 @@ English	German
 273	city	die Stadt	26
 366	fast	schnell	26
 373	short	kurz	26
-375	pretty	hübsch	26
+375	pretty	hÃ¼bsch	26
 387	slow	langsam	26
 399	old	alt	26
 400	new	neu	26
-401	ugly	häßlich	26
+401	ugly	hÃ¤ÃŸlich	26
 508	problem	das Problem	26
 539	thing	das Ding; die Sache	26
 554	end	das Ende	26
 559	newspaper	die Zeitung	26
-703	big	groß	26
+703	big	groÃŸ	26
 704	small	klein	26
 705	a lot; much	viel	26
-708	hot	heiß	26
+708	hot	heiÃŸ	26
 709	cold	kalt	26
 710	warm	warm	26
 711	good; well	gut	26
 771	all; every	alle	26
-779	nice(ly); beautiful(ly)	schön	26
+779	nice(ly); beautiful(ly)	schÃ¶n	26
 819	how many?	wie viele?	26
 831	long	lang	26
 833	many	viele	26
@@ -547,9 +547,9 @@ English	German
 1246	important	wichtig	26
 1322	there is; there are	es gibt	26
 1323	through	durch	26
-1337	for	für	26
-1544	early	früh	26
-1552	late	spät	26
+1337	for	fÃ¼r	26
+1544	early	frÃ¼h	26
+1552	late	spÃ¤t	26
 1795	with; by means of	mit	26
 1984	in; to (a place)	in	26
 2210	if	wenn	26
@@ -558,7 +558,7 @@ English	German
 3033	young	jung	26
 3193	away	weg	26
 3195	complete; all	ganz	26
-3196	back; behind; in back of	zurück	26
+3196	back; behind; in back of	zurÃ¼ck	26
 3197	said	gesagt	26
 3262	absolutely	wirklich	26
 3338	less	weniger	26
@@ -584,12 +584,12 @@ English	German
 296	Is everything clear?	Ist alles klar?	30
 302	You bet!	Na klar!	30
 311	How are you? (formal)	Wie geht es Ihnen?	30
-313	What are you called? (formal)	Wie heißen Sie?	30
+313	What are you called? (formal)	Wie heiÃŸen Sie?	30
 317	What is your name? (formal)	Wie ist Ihr Name?	30
 319	What is your telephone number?	Wie ist deine Telefonnummer?	30
 326	Where are you from? (formal)	Woher kommen Sie?	30
 329	excellent	ausgezeichnet	30
-332	pretty please; you're very welcome	bitte schön; bitte sehr	30
+332	pretty please; you're very welcome	bitte schÃ¶n; bitte sehr	30
 334	thank you very much	danke sehr	30
 335	fine, thanks	danke, gut	30
 350	pleased to meet you	freut mich	30
@@ -597,7 +597,7 @@ English	German
 357	(warm) welcome	herzlich Willkommen	30
 358	not particularly well	nicht besonders gut	30
 361	OK; so-so	so lala	30
-364	greeting	die Begrüßung	30
+364	greeting	die BegrÃ¼ÃŸung	30
 650	Help!	Hilfe!	30
 651	Stop! (formal)	Halten Sie!	30
 652	Watch out!	Vorsicht!	30
@@ -605,27 +605,27 @@ English	German
 654	Call a doctor!	Rufen Sie einen Arzt!	30
 655	Call an ambulance!	Rufen Sie einen Krankenwagen!	30
 656	Call the police!	Rufen Sie die Polizei!	30
-690	Can you ___? (formal)	Können Sie ___?	30
+690	Can you ___? (formal)	KÃ¶nnen Sie ___?	30
 691	Do you have ___? (formal)	Haben Sie ___?	30
 698	Just a moment.	Moment!	30
 701	Do you understand English? (formal)	Verstehen Sie Englisch?	30
 728	Go ___. (formal)	Gehen Sie ___!	30
 952	How do you find ___?	Wie findest du ___?	30
-988	But of course!	Aber natürlich!	30
+988	But of course!	Aber natÃ¼rlich!	30
 990	me too	ich auch	30
-993	That's fun.	Das macht mir Spaß.	30
+993	That's fun.	Das macht mir SpaÃŸ.	30
 1000	I was born on ___.	Ich bin am ___ geboren.	30
-1008	Good luck!	Viel Glück!	30
-1009	Have fun!	Viel Spaß!	30
+1008	Good luck!	Viel GlÃ¼ck!	30
+1009	Have fun!	Viel SpaÃŸ!	30
 1108	What is the matter?	Was ist denn los?	30
-1242	Happy birthday!	Herzlichen Glückwunsch zum Geburtstag!	30
+1242	Happy birthday!	Herzlichen GlÃ¼ckwunsch zum Geburtstag!	30
 1373	Do you have my phone number?	Hast du meine Telefonnummer?	30
 1575	Come soon! (formal)	Kommen Sie bald!	30
 1576	Be friendly! (formal)	Seien Sie freundlich!	30
 1577	Be friendly!	Sei freundlich!	30
 1578	Be friendly! (plural)	Seid freundlich!	30
 1999	Many thanks!	Vielen Dank!	30
-2478	thank you kindly	danke schön	30
+2478	thank you kindly	danke schÃ¶n	30
 2650	look here	schaut her	30
 2696	Give it to me.	Gib es mir!	30
 2697	Give me the letter.	Gib mir den Brief!	30
@@ -635,9 +635,9 @@ English	German
 3205	Well done!	Gut gemacht!	30
 3209	That's right.	Das stimmt.	30
 141	to become	werden	32
-180	to listen; to hear	hören	32
+180	to listen; to hear	hÃ¶ren	32
 391	to drive; to ride	fahren	32
-754	to press; to push	drücken	32
+754	to press; to push	drÃ¼cken	32
 1095	to buy	kaufen	32
 1096	to drink	trinken	32
 1098	to like a person or thing	gern haben	32
@@ -655,12 +655,12 @@ English	German
 1483	to shop	einkaufen	32
 1484	to go shopping	einkaufen gehen	32
 1487	to watch television	fernsehen	32
-1493	to be permitted to; may	dürfen	32
-1495	to like	mögen	32
+1493	to be permitted to; may	dÃ¼rfen	32
+1495	to like	mÃ¶gen	32
 1497	to be supposed to; should	sollen	32
 1498	to want to; to plan to	wollen	32
 1524	to meet	treffen	32
-1547	would rather	möchte lieber	32
+1547	would rather	mÃ¶chte lieber	32
 1761	to thank	danken	32
 1764	to be pleasing	gefallen	32
 1769	to help	helfen	32
@@ -683,7 +683,7 @@ English	German
 3183	to rent	mieten	32
 3212	to understand	verstehen	32
 195	chair	der Stuhl	34
-200	door	die Tür	34
+200	door	die TÃ¼r	34
 213	table	der Tisch	34
 275	room	das Zimmer	34
 906	wall	die Wand	34
@@ -707,7 +707,7 @@ English	German
 2905	stairway	der Treppenaufgang	34
 2906	steps	die Treppe	34
 2907	porch	die Veranda; die Vorhalle	34
-2908	doorbell	die Türklingel	34
+2908	doorbell	die TÃ¼rklingel	34
 2909	hallway	der Gang	34
 502	household	der Haushalt	36
 503	housework	die Hausarbeit	36
@@ -735,7 +735,7 @@ English	German
 1180	wastebasket	der Papierkorb	36
 1181	VCR	der Videorecorder	36
 1188	coffee table	der Couchtisch	36
-1217	bookcase	das Bücherregal	36
+1217	bookcase	das BÃ¼cherregal	36
 2543	bathtub	die Badewanne	36
 2570	broom	der Besen	36
 3076	mirror	der Spiegel	36
@@ -745,19 +745,19 @@ English	German
 199	correct	richtig	38
 220	difficult	schwer; schwierig	38
 222	easy	leicht	38
-223	fun	der Spaß	38
+223	fun	der SpaÃŸ	38
 224	nice	nett	38
-227	happy	froh; glücklich	38
+227	happy	froh; glÃ¼cklich	38
 228	sad	traurig	38
 229	bright	hell	38
 235	under; below; beneath	unter	38
-236	over; above	über	38
+236	over; above	Ã¼ber	38
 238	different	verschieden	38
 370	tall; high(ly)	hoch	38
 500	wish	der Wunsch	38
 536	music	die Musik	38
 706	a small amount; not much	wenig	38
-707	a little	ein bißchen; ein bisschen	38
+707	a little	ein biÃŸchen; ein bisschen	38
 714	enough	genug	38
 715	not enough	nicht genug	38
 725	far	weit	38
@@ -775,13 +775,13 @@ English	German
 824	before; in front of	vor	38
 832	low	niedrig	38
 836	narrow	schmal	38
-843	of course; natural(ly)	natürlich	38
+843	of course; natural(ly)	natÃ¼rlich	38
 847	on top	oben	38
 857	round	rund	38
 876	then	dann	38
 881	to; at on	an	38
 899	after; toward	nach	38
-904	usual; usually	gewöhnlich	38
+904	usual; usually	gewÃ¶hnlich	38
 911	wide	breit	38
 991	definitely	bestimmt	38
 1001	always	immer	38
@@ -789,7 +789,7 @@ English	German
 1135	nothing	nichts	38
 1283	without	ohne	38
 1393	against; around a time	gegen	38
-1787	necessary	nötig; notwendig	38
+1787	necessary	nÃ¶tig; notwendig	38
 1791	each; every	jeder	38
 1792	which	welcher	38
 1799	to; too; on; at; for	zu	38
@@ -804,10 +804,10 @@ English	German
 2231	nobody	niemand	38
 2237	almost	fast	38
 2257	never	nie; niemals	38
-2277	outside	draußen	38
+2277	outside	drauÃŸen	38
 2281	fear	die Angst	38
 2456	near	nahe	38
-2458	next	nächst	38
+2458	next	nÃ¤chst	38
 2464	other	ander	38
 2467	poor	arm	38
 2474	soon	bald	38
@@ -834,10 +834,10 @@ English	German
 927	He dances well.	Er tanzt gut.	40
 1340	he becomes	er wird	40
 1371	you become	du wirst	40
-1765	it pleases	es gefällt	40
-1766	How do you like ___? (formal)	Wie gefällt Ihnen ___?	40
+1765	it pleases	es gefÃ¤llt	40
+1766	How do you like ___? (formal)	Wie gefÃ¤llt Ihnen ___?	40
 1770	you help	du hilfst	40
-1779	he wears	er trägt	40
+1779	he wears	er trÃ¤gt	40
 1960	Let's ...	Lass uns doch ...	40
 1976	I hope	hoffentlich	40
 2001	I was	ich war	40
@@ -845,7 +845,7 @@ English	German
 2010	he had	er hatte	40
 2031	he was	er war	40
 2084	they have gone	sie sind gegangen	40
-2213	he would	er würde	40
+2213	he would	er wÃ¼rde	40
 2690	I collect	ich sammle	40
 2693	you see	du siehst	40
 2698	I will show you something.	Ich zeige dir etwas.	40
@@ -864,14 +864,14 @@ English	German
 3256	I should swim today.	Ich soll heute schwimmen.	40
 3257	Can you run?	Kannst du laufen?	40
 3259	I have too much to do!	Ich habe zu viel zu tun!	40
-3260	I feel hot.	Mir ist heiß.	40
-3261	I am very attractive!	Ich bin heiß.	40
+3260	I feel hot.	Mir ist heiÃŸ.	40
+3261	I am very attractive!	Ich bin heiÃŸ.	40
 3309	it seems that ...	es scheint, dass ...	40
 3334	she hates	sie hasse	40
 1417	dog	der Hund	42
 2511	ape; monkey	der Affe	42
 2515	ant	die Ameise	42
-2552	bear	der Bär	42
+2552	bear	der BÃ¤r	42
 2575	bee	die Biene	42
 2576	beehive	der Bienenstock	42
 3144	cat	die Katze	42
@@ -888,7 +888,7 @@ English	German
 3155	rabbit	das Kaninchen	42
 3156	deer	das Reh	42
 3157	snake	die Schlange	42
-3158	lion	der Löwe	42
+3158	lion	der LÃ¶we	42
 3159	tiger	der Tiger	42
 3160	elephant	der Elefant	42
 3161	donkey	der Esel	42
@@ -899,7 +899,7 @@ English	German
 2266	cloud	die Wolke	44
 2267	sky	der Himmel	44
 2584	lightning	der Blitz	44
-2836	springtime	das Frühjahr; der Frühling	44
+2836	springtime	das FrÃ¼hjahr; der FrÃ¼hling	44
 2837	autumn; fall	der Herbst	44
 2838	summer	der Sommer	44
 2839	winter	der Winter	44
@@ -921,8 +921,8 @@ English	German
 2855	to rain	regnen	44
 2856	to snow	schneien	44
 2857	It is snowing.	Es schneit.	44
-2859	overcast; cloudy	bewölkt	44
-2861	cool	kühl	44
+2859	overcast; cloudy	bewÃ¶lkt	44
+2861	cool	kÃ¼hl	44
 2862	foggy	neblig	44
 2863	rainy	regnerisch	44
 2865	sunny	sonnig	44
@@ -940,15 +940,15 @@ English	German
 1314	second (order)	zweite	46
 1329	first	erste; zuerst	46
 1353	third	dritte	46
-1399	namely; that is to say	nämlich	46
-1816	finally	zuletzt; schließlich; endlich	46
+1399	namely; that is to say	nÃ¤mlich	46
+1816	finally	zuletzt; schlieÃŸlich; endlich	46
 2205	that (relative clause)	dass	46
 2284	otherwise; normally	sonst	46
 2652	of them; from which	davon	46
 2671	nevertheless	trotzdem	46
 2674	probably	wahrscheinlich	46
 2754	on that; to that; at that	daran	46
-2877	at all; actually	überhaupt	46
+2877	at all; actually	Ã¼berhaupt	46
 2946	in; into	hinein	46
 2966	approximately; perhaps	etwa	46
 2970	there; thereabouts	dort	46
@@ -961,7 +961,7 @@ English	German
 3103	not yet	noch nicht	46
 3107	somehow	irgendwie	46
 3108	best	beste	46
-3109	the day after tomorrow	übermorgen	46
+3109	the day after tomorrow	Ã¼bermorgen	46
 3110	peacefully	friedlich	46
 3113	though; although	obwohl	46
 3114	in case	Falls	46
@@ -976,7 +976,7 @@ English	German
 3127	hastily	hastig	46
 3128	thus; so	also	46
 3130	flat	platt	46
-3131	open	öffne	46
+3131	open	Ã¶ffne	46
 3133	all around	rundherum	46
 3134	apart	auseinander	46
 3136	oneself	sich selbst	46
@@ -997,20 +997,20 @@ English	German
 3186	after that	nachdem	46
 3189	by	per	46
 3206	dead	tot	46
-3213	crazy; mad	verrückt	46
+3213	crazy; mad	verrÃ¼ckt	46
 3214	rest; calm; peace	die Ruhe	46
 3215	last	letzte	46
 3219	death	der Tod	46
 3226	treasure; sweetheart	der Schatz	46
 3227	simply; just; level; plane	eben	46
-3234	only; merely; just	bloß	46
+3234	only; merely; just	bloÃŸ	46
 3267	He is handsome.	Er ist fesch.	46
 3268	He looks good.	Er sieht gut aus.	46
-3269	She is pretty.	Sie ist schön.	46
+3269	She is pretty.	Sie ist schÃ¶n.	46
 3272	unique	einzigartig	46
 3300	strange; odd	seltsam	46
 3308	part	der Teil	46
-3311	everywhere	überall	46
+3311	everywhere	Ã¼berall	46
 3321	future	die Zukunft	46
 192	answer	die Antwort	48
 193	blackboard	die Tafel	48
@@ -1024,19 +1024,19 @@ English	German
 208	pencil	der Bleistift	48
 209	question	die Frage	48
 210	sentence	der Satz	48
-211	student (f)	die Schülerin	48
+211	student (f)	die SchÃ¼lerin	48
 214	teacher (f)	die Lehrerin	48
 217	to the blackboard	an die Tafel	48
 377	schoolbus	der Schulebus	48
 406	teacher (m)	der Lehrer	48
 413	school	die Schule	48
-437	student (m)	der Student; der Schüler	48
+437	student (m)	der Student; der SchÃ¼ler	48
 475	cassete; tape	die Kassette	48
-477	university	die Universität	48
+477	university	die UniversitÃ¤t	48
 488	film; movie	der Film	48
-518	dictionary	das Wörterbuch	48
+518	dictionary	das WÃ¶rterbuch	48
 549	scissors	die Schere	48
-557	test	die Prüfung	48
+557	test	die PrÃ¼fung	48
 1745	backpack	der Rucksack	48
 2503	alphabet	das Abc	48
 2619	crayon	der Buntstift	48
@@ -1053,24 +1053,24 @@ English	German
 882	to answer	antworten	50
 884	to begin; to start	beginnen; anfangen	50
 886	to end	enden	50
-887	to explain	erklären	50
-889	to hang	hängen	50
+887	to explain	erklÃ¤ren	50
+889	to hang	hÃ¤ngen	50
 891	to lie; to be located	liegen	50
 893	to show	zeigen	50
 895	to stand	stehen	50
 950	to ride a motorcycle	Motorrad fahren	50
-962	to do crossword puzzles	Kreuzworträtsel machen	50
+962	to do crossword puzzles	KreuzwortrÃ¤tsel machen	50
 968	to play computer games	Computerspiele spielen	50
 1166	to have time	Zeit haben	50
 1177	to be correct	Recht haben	50
 1207	to feel like doing something	Lust haben	50
 1255	to celebrate	feiern	50
 1332	to marry	heiraten	50
-1341	to wish	wünschen	50
+1341	to wish	wÃ¼nschen	50
 1344	to plan	planen	50
 1394	to congratulate	gratulieren	50
 1475	to pick up (from a place)	abholen	50
-1477	to stop (doing something)	aufhören (mit)	50
+1477	to stop (doing something)	aufhÃ¶ren (mit)	50
 1479	to get up; to stand up	aufstehen	50
 1480	to wake up	aufwachen	50
 1481	to go out	ausgehen	50
@@ -1081,14 +1081,14 @@ English	German
 1489	to take along	mitnehmen	50
 1490	to come by	vorbeikommen	50
 1491	to plan (to do)	vorhaben	50
-1492	to return; to come back	zurückkommen	50
+1492	to return; to come back	zurÃ¼ckkommen	50
 1521	to go for a walk	spazieren gehen	50
 1522	I'm going for a walk.	Ich gehe spazieren.	50
-1542	would like to do most	möchte am liebsten	50
+1542	would like to do most	mÃ¶chte am liebsten	50
 1760	to try on	anprobieren	50
 1762	to recommend	empfehlen	50
 1763	he recommends	er empfiehlt	50
-1767	to belong to	gehören	50
+1767	to belong to	gehÃ¶ren	50
 1768	to believe	glauben	50
 1771	to lend; to borrow	leihen	50
 1772	to fit; to match	passen	50
@@ -1103,7 +1103,7 @@ English	German
 1967	to stand up; to place; to put in a standing position	stellen	50
 2041	to offer	anbieten	50
 2045	to bake	backen	50
-2051	to bite	beißen	50
+2051	to bite	beiÃŸen	50
 2053	to ask; to beg	bitten	50
 2057	to bring	bringen	50
 2067	to decide	entscheiden	50
@@ -1114,13 +1114,13 @@ English	German
 2122	to name	nennen	50
 2124	to advise	raten	50
 2126	to ride	reiten	50
-2132	to close	schließen	50
+2132	to close	schlieÃŸen	50
 2154	to die	sterben	50
 2170	to lose	verlieren	50
 2174	to wash	waschen	50
 2206	to cover	decken	50
 2219	to claim	behaupten	50
-2265	to open	öffnen; aufschlugen	50
+2265	to open	Ã¶ffnen; aufschlugen	50
 2269	to get; to catch	kriegen	50
 2272	to get; to fetch	holen	50
 2275	to be glad	sich freuen	50
@@ -1135,44 +1135,44 @@ English	German
 2542	to bathe	baden	50
 2557	to build	bauen	50
 2649	to gather; to assemble	versammeln	50
-2677	to change	ändern	50
+2677	to change	Ã¤ndern	50
 2678	to catch	fangen	50
 2679	to load	laden	50
 2683	to throw	werfen	50
-2691	you advise	du rätst	50
+2691	you advise	du rÃ¤tst	50
 2868	to last	dauern	50
 2949	to obtain; to procure	besorgen	50
 2955	to turn; to revolve	drehen	50
 2957	to notice; to observe	bemerken	50
-3017	to shake	schütteln	50
-3088	to lie; to say something not true	lügen	50
+3017	to shake	schÃ¼tteln	50
+3088	to lie; to say something not true	lÃ¼gen	50
 3105	to sip	nippen	50
 3106	to swallow	schlucken	50
-3111	to allow	gönnen	50
+3111	to allow	gÃ¶nnen	50
 3112	to spend time	verbringen	50
 3129	to pick up	aufheben	50
 3169	to concentrate on	sich auf konzentrieren zu	50
-3172	to smile	lächeln	50
+3172	to smile	lÃ¤cheln	50
 3173	to laugh	lachen	50
 3184	to rent out	vermieten	50
 3190	to clean	putzen; reinigen	50
 3192	to introduce	vorstellen	50
-3218	to kill	töten	50
+3218	to kill	tÃ¶ten	50
 3222	to be lost; to become lost	verloren	50
 3251	to collect something	kassieren	50
 3254	to remember	sich erinnern	50
 3263	to hurry	sich beeilen	50
 3265	to spend (money)	ausgeben	50
 3266	to donate	spenden	50
-3270	to practice	üben	50
+3270	to practice	Ã¼ben	50
 3273	to save; to rescue	retten	50
 3275	to stumble	stolpern	50
-3299	to translate	übersetzen	50
+3299	to translate	Ã¼bersetzen	50
 3301	to burn	brennen	50
 3318	to achieve; to create; to accomplish	schaffen	50
 3323	to disappear	verschwinden	50
 507	hobby	das Hobby	52
-562	small package	das Päckchen	52
+562	small package	das PÃ¤ckchen	52
 1081	poster	das Poster	52
 1138	rarely	selten	52
 1172	comfortable	bequem	52
@@ -1191,46 +1191,46 @@ English	German
 1804	(to/for) whom?	wem?	52
 1814	therefore	deshalb; darum	52
 1970	occupied; taken	besetzt	52
-1977	daily	täglich	52
+1977	daily	tÃ¤glich	52
 1980	somewhat; rather	ziemlich	52
 2207	simply	einfach	52
 2218	even	sogar	52
 2225	such	solchem	52
 2232	done; at all	gar	52
-2238	for it; instead	dafür	52
-2240	thin	dünn	52
+2238	for it; instead	dafÃ¼r	52
+2240	thin	dÃ¼nn	52
 2241	double	doppelt	52
 2243	though; certainly	allerdings	52
-2244	useful	nützlich	52
+2244	useful	nÃ¼tzlich	52
 2254	to and fro	hin und her	52
-2255	there and back	hin und zurück	52
+2255	there and back	hin und zurÃ¼ck	52
 2258	reason; grounds	der Grund	52
 2259	distant	fern	52
-2274	not at all	überhaupt nicht	52
-2278	stupid	blöd	52
-2285	dangerous	gefährlich	52
-2286	across; over	herüber	52
+2274	not at all	Ã¼berhaupt nicht	52
+2278	stupid	blÃ¶d	52
+2285	dangerous	gefÃ¤hrlich	52
+2286	across; over	herÃ¼ber	52
 2291	asleep	schlafend	52
 2305	for hours	stundenlang	52
-2308	suddenly	plötzlich	52
-2310	delicious	köstlich; lecker	52
-2403	about; approximately	ungefähr	52
+2308	suddenly	plÃ¶tzlich	52
+2310	delicious	kÃ¶stlich; lecker	52
+2403	about; approximately	ungefÃ¤hr	52
 2454	myself	ich selber	52
 2463	once	einmal; einst	52
-2596	bad; evil	böse	52
+2596	bad; evil	bÃ¶se	52
 2653	with it	dazu	52
 2655	hard; tough	hart	52
 2658	somewhere; anywhere	irgendwo	52
 2659	ever; each	je	52
 2661	in any case	jedenfalls	52
 2662	however	jedoch	52
-2665	nearer	näher	52
+2665	nearer	nÃ¤her	52
 2666	now; well (filler)	nun	52
 2668	apparently; apparent	offenbar	52
 2670	as soon as	sowie	52
-2672	by the way	übrigens	52
-2673	during	während	52
-2709	possible	möglich; allfällig	52
+2672	by the way	Ã¼brigens	52
+2673	during	wÃ¤hrend	52
+2709	possible	mÃ¶glich; allfÃ¤llig	52
 2710	generally	allgemeinen	52
 2712	acquainted	bekannt	52
 2728	use	die Nutzung	52
@@ -1240,11 +1240,11 @@ English	German
 2828	instant; moment; wink	der Augenblick	52
 2881	current	aktuelle	52
 2885	attainable	erreichbar	52
-2887	surprised; amazed	überrascht	52
+2887	surprised; amazed	Ã¼berrascht	52
 2902	embarrassed	peinlich; betreten	52
 2903	real; actual	echte	52
 2918	on the way	unterwegs	52
-2933	horrible; dreadful	fürchterlich	52
+2933	horrible; dreadful	fÃ¼rchterlich	52
 2953	indeed	zwar	52
 2956	owner	der Besitzer	52
 2961	just as good	genauso gut	52
@@ -1262,8 +1262,8 @@ English	German
 3069	ready	bereit	52
 3074	there	dorthin	52
 3075	whether	ob	52
-3077	over; across	hinüber	52
-3078	over it; above it	darüber	52
+3077	over; across	hinÃ¼ber	52
+3078	over it; above it	darÃ¼ber	52
 3079	by; over; finished; gone	vorbei	52
 3137	dreadful	grause	52
 3220	story; history	die Geschichte	52
@@ -1275,7 +1275,7 @@ English	German
 3258	so far; hitherto	bisher	52
 3264	honest	ehrlich	52
 3316	error; fault	der Fehler	52
-3319	fully; completely	völlig	52
+3319	fully; completely	vÃ¶llig	52
 3324	buddy; fellow	der Kumpel	52
 3325	fight; battle; struggle	der Kampf	52
 3326	careful; carefully	vorsichtig	52
@@ -1284,20 +1284,20 @@ English	German
 2271	he screams	er schreit	54
 2651	in no time	im Nu	54
 2858	pleasant	angenehm	54
-2878	to recount; to tell	erzählen	54
+2878	to recount; to tell	erzÃ¤hlen	54
 3065	destination; goal; finish line	das Ziel	54
 3120	always	stets	54
 3235	fate; fortune; luck; destiny	das Schicksal	54
 3236	then; at that time; in those days	damals	54
 3237	the same old story	die alte Leier	54
 3238	then; at that time	seinerzeit	54
-3239	attack; raid; ambush	der Überfall	54
-3240	robber	der Räuber	54
+3239	attack; raid; ambush	der Ãœberfall	54
+3240	robber	der RÃ¤uber	54
 3241	reward; award	die Belohnung	54
-3243	impossible	unmöglich; ausgeschlossen	54
+3243	impossible	unmÃ¶glich; ausgeschlossen	54
 3248	chance; coincidence; accident	der Zufall	54
 3249	before; previously	vorher	54
-3276	That is too good to be true.	Das ist zu schön, um wahr zu sein.	54
+3276	That is too good to be true.	Das ist zu schÃ¶n, um wahr zu sein.	54
 3305	victim; prey	der Opfer	54
 3306	member	das Mitglied	54
 3310	weapon	die Waffe	54
@@ -1322,22 +1322,22 @@ English	German
 3031	they liked	sie mochten	55
 511	sweater	der Pullover	56
 512	blouse	die Bluse	56
-514	size	die Größe	56
+514	size	die GrÃ¶ÃŸe	56
 533	jacket	die Jacke	56
 755	button	der Knopf	56
 1291	necktie	die Krawatte; der Schlips	56
 1292	bracelet	das Armband	56
 1325	wristwatch	die Armbanduhr	56
-1683	article of clothing	das Kleidungsstück	56
+1683	article of clothing	das KleidungsstÃ¼ck	56
 1685	suit	der Anzug	56
 1687	swimming suit	der Badeanzug	56
-1690	belt	der Gürtel	56
+1690	belt	der GÃ¼rtel	56
 1692	button-down shirt	das Hemd	56
 1694	casual shirt	das Sporthemd	56
 1697	hat	der Hut	56
 1702	dress	das Kleid	56
 1706	coat	der Mantel	56
-1708	cap	die Mütze	56
+1708	cap	die MÃ¼tze	56
 1712	skirt	der Rock	56
 1714	sport coat	das Sakko	56
 1716	scarf	der Schal	56
@@ -1352,16 +1352,16 @@ English	German
 1784	striped	gestreift	56
 1785	plaid	kariert	56
 1786	fashionable	modisch	56
-1808	Do you like this shirt?	Gefällt Ihnen dieses Hemd?	56
-1809	I like it.	Es gefällt mir.	56
-1810	Size 42 will fit her for sure.	Größe 42 passt ihr bestimmt.	56
+1808	Do you like this shirt?	GefÃ¤llt Ihnen dieses Hemd?	56
+1809	I like it.	Es gefÃ¤llt mir.	56
+1810	Size 42 will fit her for sure.	GrÃ¶ÃŸe 42 passt ihr bestimmt.	56
 1811	This shirt looks good on you.	Das Hemd steht dir gut.	56
 3199	pair	der Paar	56
 3274	handkerchief	das Taschentuch	56
 371	van	der Lieferwagen	58
-374	street light	die Straßenlaterne	58
+374	street light	die StraÃŸenlaterne	58
 376	traffic light	die Ampel	58
-378	fire engine	das Löschfahrzeug	58
+378	fire engine	das LÃ¶schfahrzeug	58
 382	maple tree	der Ahorn	58
 383	pine tree	der Kiefer	58
 396	grass	das Gras	58
@@ -1376,29 +1376,29 @@ English	German
 2581	leaf	das Blatt	58
 2832	river	der Fluss	58
 2835	forest	der Wald	58
-3122	sidewalk	der Bürgersteig	58
+3122	sidewalk	der BÃ¼rgersteig	58
 3313	earth; soil	die Erde	58
-3314	hill	der Hügel	58
+3314	hill	der HÃ¼gel	58
 1085	rent	die Miete	59
 1087	roommate	der Mitbewohner	59
-1158	furnished	möbliert	59
+1158	furnished	mÃ¶bliert	59
 1183	apartment	die Wohnung	59
 1225	shared housing	die Wohngemeinschaft	59
-2958	noise	der Lärm	59
+2958	noise	der LÃ¤rm	59
 3302	tent	das Zelt	59
-237	near ___	in der Nähe von ___	60
-314	What is the name of the town?	Wie heißt die Stadt?	60
-315	What is the name of the street?	Wie heißt die Straße?	60
+237	near ___	in der NÃ¤he von ___	60
+314	What is the name of the town?	Wie heiÃŸt die Stadt?	60
+315	What is the name of the street?	Wie heiÃŸt die StraÃŸe?	60
 320	What is the address?	Wie ist die Adresse?	60
 321	What is the street address?	Wie ist die Hausnummer?	60
-384	bridge	die Brücke	60
+384	bridge	die BrÃ¼cke	60
 385	sign	das Zeichen	60
 386	traffic sign	das Verkehrszeichen	60
 395	building	das Bauen	60
 414	hotel	das Hotel	60
 417	movie theater	das Kino	60
-418	store	das Geschäft	60
-479	office	das Büro	60
+418	store	das GeschÃ¤ft	60
+479	office	das BÃ¼ro	60
 491	subway	die U-bahn	60
 492	ticket; map	die Karte	60
 495	theater	das Theater	60
@@ -1413,22 +1413,22 @@ English	German
 717	right; to the right	rechts	60
 718	straight	geradeaus	60
 719	keep going straight	immer geradeaus	60
-720	to the north	nördlich	60
-721	to the south	südlich	60
-722	to the east	östlich	60
+720	to the north	nÃ¶rdlich	60
+721	to the south	sÃ¼dlich	60
+722	to the east	Ã¶stlich	60
 723	to the west	westlich	60
 731	closed	geschlossen	60
 736	from ___ to	von ___ bis	60
 750	traffic	der Verkehr	60
 757	bus ticket	der Fahrschein	60
-758	one-way street	die Einbahnstraße	60
+758	one-way street	die EinbahnstraÃŸe	60
 759	car exit	die Ausfahrt	60
 760	exit	der Ausgang	60
 761	to keep free	freihalten	60
 762	train station	der Bahnhof	60
 776	at an end	zu Ende	60
 825	in front of us	vor uns	60
-850	over there	da drüben	60
+850	over there	da drÃ¼ben	60
 863	side	die Seite	60
 874	that there	das da	60
 1066	centrally located	zentral gelegen	60
@@ -1449,7 +1449,7 @@ English	German
 263	train	der Zug	61
 269	American (m)	der Amerikaner	61
 278	Belgium	Belgien	61
-288	Denmark	Dänemark	61
+288	Denmark	DÃ¤nemark	61
 289	France	Frankreich	61
 297	Italy	Italien	61
 305	Poland	Polen	61
@@ -1459,19 +1459,19 @@ English	German
 347	Netherlands	die Niederlande	61
 348	Switzerland	die Schweiz	61
 349	United States	die Vereinigten Staaten	61
-365	Austria	Österreich	61
+365	Austria	Ã–sterreich	61
 525	trip	die Reise	61
 526	vacation	der Urlaub	61
 738	to America	nach Amerika	61
 739	airplane	das Flugzeug	61
-740	baggage	das Gepäck	61
-741	baggage claim	die Gepäckausgabe	61
+740	baggage	das GepÃ¤ck	61
+741	baggage claim	die GepÃ¤ckausgabe	61
 743	customs	der Zoll	61
 744	customs officer	der Zollbeamter	61
 745	airport	der Flughafen	61
 746	airline ticket	die Fahrkarte	61
 747	passport	der Reisepass; der Pass	61
-748	freight train	der Güterzug	61
+748	freight train	der GÃ¼terzug	61
 749	departure times	die Abfahrtszeiten	61
 752	to get off	aussteigen	61
 753	in time	rechtzeitig	61
@@ -1485,17 +1485,17 @@ English	German
 2636	world map	die Weltkarte	61
 3250	border	die Grenze	61
 3320	ship; boat	das Schiff	61
-515	quality	die Qualität	62
+515	quality	die QualitÃ¤t	62
 696	How much does that cost?	Wieviel kostet das?	62
 697	I'll take it.	Ich nehme es.	62
-730	open	geöffnet	62
+730	open	geÃ¶ffnet	62
 1073	female customer	die Kundin	62
 1124	expensive(ly)	teuer	62
 1168	inexpensive	preiswert	62
 1197	inexpensive	billig	62
 1198	male customer	der Kunde	62
-1222	salesman	der Verkäufer	62
-1664	bakery	die Bäckerei	62
+1222	salesman	der VerkÃ¤ufer	62
+1664	bakery	die BÃ¤ckerei	62
 1675	market; marketplace	der Markt	62
 1677	butcher shop	die Metzgerei	62
 1800	all together, that comes to	das macht zusammen	62
@@ -1506,27 +1506,27 @@ English	German
 811	from the top	von oben	63
 900	toward the bottom	nach unten	63
 1236	related to	verwandt mit	63
-1545	cozy; cozily	gemütlich	63
+1545	cozy; cozily	gemÃ¼tlich	63
 1551	suspenseful; exciting	spannend	63
 1975	separate(ly)	getrennt	63
 2216	quite a few	etlichen	63
 2221	useless	Nichtsnutz	63
 2224	mysterious	geheimnisvolle	63
-2233	odd	merkwürdig	63
+2233	odd	merkwÃ¼rdig	63
 2249	nowhere; not anywhere	nirgends; nirgendwo	63
-2250	magnificent	prächtig	63
+2250	magnificent	prÃ¤chtig	63
 2329	like a shot	wie der Blitz	63
 2656	meanwhile	inzwischen	63
-2663	powerful	mächtig	63
+2663	powerful	mÃ¤chtig	63
 2664	after we talked	nachdem wir sprachen	63
-2742	basically; as a matter of principle	grundsätzlich	63
+2742	basically; as a matter of principle	grundsÃ¤tzlich	63
 2745	no ___ whatsoever	keinerlei	63
 2764	underlying	unterliegend	63
 2770	prompt(ly)	umgehend	63
-2825	public	öffentlich	63
+2825	public	Ã¶ffentlich	63
 2920	amount; abundance; set	die Menge	63
 2952	bold; courageous	mutig	63
-2976	actual; really	tatsächlich	63
+2976	actual; really	tatsÃ¤chlich	63
 2991	eternal	ewig	63
 2997	likewise; ditto; also	ebenfalls	63
 3000	anew; afresh	erneut	63
@@ -1535,10 +1535,10 @@ English	German
 3016	definite	fest	63
 3041	various	verschiedenen	63
 3043	so much the better	desto besser	63
-3048	constantly; permanently	ständig	63
-3049	gradual; gradually	allmählich	63
-3058	busy	beschäftigt	63
-3080	out of; apart from	außer	63
+3048	constantly; permanently	stÃ¤ndig	63
+3049	gradual; gradually	allmÃ¤hlich	63
+3058	busy	beschÃ¤ftigt	63
+3080	out of; apart from	auÃŸer	63
 3116	astonished	erstaunt	63
 3327	mindfully; carefully	achtsam	63
 3333	excitement; commotion	die Aufregung	63
@@ -1551,7 +1551,7 @@ English	German
 2000	food to go; take-out	zum Mitnehmen	64
 3246	tip	das Trinkgeld	64
 427	Christmas	das Weihnachten	66
-1003	next year	nächstes Jahr	66
+1003	next year	nÃ¤chstes Jahr	66
 1206	times	die Zeiten	66
 1234	What is tomorrow's date?	Welches Datum ist morgen?	66
 1248	May first	der erste Mai	66
@@ -1571,7 +1571,7 @@ English	German
 1441	Mondays; on Monday(s)	montags	66
 1442	Tuesdays; on Tuesday(s)	dienstags	66
 3187	Easter Sunday	der Ostersonntag	66
-496	play	das Stück; das Schauspiel	67
+496	play	das StÃ¼ck; das Schauspiel	67
 1443	ballet	das Ballett	67
 1444	ballets	die Ballette	67
 1445	disco	die Disko	67
@@ -1581,8 +1581,8 @@ English	German
 1450	films	die Filme	67
 1452	movie theaters	die Kinos	67
 1453	to go to the movies	ins Kino gehen	67
-1454	comedy	die Komödie	67
-1455	comedies	die Komödien	67
+1454	comedy	die KomÃ¶die	67
+1455	comedies	die KomÃ¶dien	67
 1456	concert	das Konzert	67
 1457	concerts	die Konzerte	67
 1458	to go to a concert	ins Konzert gehen	67
@@ -1593,16 +1593,16 @@ English	German
 1464	to go to the opera	in die Oper gehen	67
 1466	theaters	die Theater	67
 1467	to go to the theater	ins Theater gehen	67
-1468	stage drama	das Theaterstück	67
-1469	stage dramas	die Theaterstücke	67
-1470	tragedy	die Tragödie	67
-1471	tragedies	die Tragödien	67
+1468	stage drama	das TheaterstÃ¼ck	67
+1469	stage dramas	die TheaterstÃ¼cke	67
+1470	tragedy	die TragÃ¶die	67
+1471	tragedies	die TragÃ¶dien	67
 1473	entertainment	unterhaltung	67
 775	arm	der Arm	68
-784	body	der Körper	68
+784	body	der KÃ¶rper	68
 788	chin	das Kinn	68
 805	finger	der Finger	68
-807	foot	der Fuß	68
+807	foot	der FuÃŸ	68
 815	hair	das Haar	68
 816	hand	die Hand	68
 830	lip	die Lippe	68
@@ -1642,7 +1642,7 @@ English	German
 919	eccentric	exzentrisch	71
 920	fantastic	fantastisch	71
 921	lazy	faul	71
-922	hardworking; diligent	fleißig	71
+922	hardworking; diligent	fleiÃŸig	71
 924	unfriendly	unfreundlich	71
 928	interesting	interessant	71
 929	complicated	kompliziert	71
@@ -1658,35 +1658,35 @@ English	German
 943	loyal	treu	71
 1044	interest	das Interesse	71
 2229	proud	stolz	71
-2872	jealous	eifersüchtig auf	71
-2985	polite	höflich	71
+2872	jealous	eifersÃ¼chtig auf	71
+2985	polite	hÃ¶flich	71
 3001	eager; ambitious	begierig	71
 3032	curious	neugierig	71
 1231	Do you need your car today?	Brauchst du deinen Wagen heute?; Brauchst du dein Auto heute?	72
 1232	The birthday party begins at six.	Die Geburtstagsfeier beginnt um sechs.	72
 1239	Of course I need it.	Na klar brauche ich ihn.	72
-1274	He needs a gift for his daughter.	Er braucht ein Geschenk für seine Tochter.	72
-1280	He drives around the marketplace.	Er fährt dreimal um den Marktplatz herum.	72
+1274	He needs a gift for his daughter.	Er braucht ein Geschenk fÃ¼r seine Tochter.	72
+1280	He drives around the marketplace.	Er fÃ¤hrt dreimal um den Marktplatz herum.	72
 1286	I think I have it.	Ich glaube, ich habe sie.	72
 1298	We are doing something against hunger.	Wir tun etwas gegen den Hunger.	72
-1304	Mr. Krause drives through town.	Herr Krause fährt durch die Stadt.	72
+1304	Mr. Krause drives through town.	Herr Krause fÃ¤hrt durch die Stadt.	72
 1319	He goes shopping without his wife.	Er geht ohne seine Frau einkaufen.	72
 1550	You may not park here.	Hier darf man nicht parken.	72
 1554	I will pick you up at 6 o'clock.	Ich hole dich um 6 Uhr ab.	72
-1555	When does the lecture begin?	Wann fängt die Vorlesung an?	72
+1555	When does the lecture begin?	Wann fÃ¤ngt die Vorlesung an?	72
 1556	I will call you in the morning.	Ich rufe dich morgen an.	72
-1557	The rain isn't stopping.	Der Regen hört nicht auf.	72
-1558	He straightens up his room.	Er räumt sein Zimmer auf.	72
+1557	The rain isn't stopping.	Der Regen hÃ¶rt nicht auf.	72
+1558	He straightens up his room.	Er rÃ¤umt sein Zimmer auf.	72
 1559	He gets up at 9 o'clock.	Er steht um 9 Uhr auf.	72
-1560	When do you usually wake up?	Wann wachst du gewöhnlich auf?	72
+1560	When do you usually wake up?	Wann wachst du gewÃ¶hnlich auf?	72
 1561	Mr. Lerche always shops in the morning.	Herr Lerche kauft immer morgens ein.	72
 1562	I invite you to dinner.	Ich lade dich zum Essen ein.	72
-1563	I usually do not go to sleep before midnight.	Ich schlafe gewöhnlich nicht vor Mitternacht ein.	72
+1563	I usually do not go to sleep before midnight.	Ich schlafe gewÃ¶hnlich nicht vor Mitternacht ein.	72
 1564	Are you coming along?	Kommst du mit?	72
 1565	Are you taking an umbrella along?	Nimmst du einen Regenschirm mit?	72
 1566	We will come by on Sunday.	Wir kommen Sonntag vorbei.	72
 1567	What are you planning to do today?	Was hast du heute vor?	72
-1568	When are you coming back?	Wann kommst du zurück?	72
+1568	When are you coming back?	Wann kommst du zurÃ¼ck?	72
 1971	This place is taken.	Hier ist besetzt.	72
 2025	Where does it say that?	Wo steht das?	72
 2026	We sit down.	Wir setzen uns.	72
@@ -1704,14 +1704,14 @@ English	German
 2568	mountain	der Berg	73
 367	You drive too slow. (formal)	Sie fahren zu langsames.	74
 368	I like driving.	Ich mag fahren.	74
-380	highway	die Landstraße	74
+380	highway	die LandstraÃŸe	74
 389	gas station	die Tankstelle	74
 390	tire	der Reifen	74
 392	headlight	das Scheinwerferlicht	74
 393	horn	die Hupe	74
 403	pickup truck	der Tonabnehmer	74
 410	road sign	das Verkehrsschild	74
-1392	for the car	fürs Auto	74
+1392	for the car	fÃ¼rs Auto	74
 3245	gasoline	das Benzin	74
 322	What is the zip code?	Wie ist die Postleitzahl?	75
 381	mailbox	der Briefkasten	75
@@ -1719,44 +1719,44 @@ English	German
 468	letter	der Brief	75
 528	invitation	die Einladung	75
 552	return address	der Absender	75
-339	young ladies	die Fräulein	76
+339	young ladies	die FrÃ¤ulein	76
 342	teachers (m)	die Lehrer	76
 343	teachers (f)	die Lehrerinnen	76
 344	women	die Frauen	76
-1016	books	die Bücher	76
+1016	books	die BÃ¼cher	76
 1020	birthdays	die Geburtstage	76
 1021	birthplaces	die Geburtsorte	76
 1022	hobbies	die Hobbys	76
 1023	interests	die Interessen	76
 1024	years	die Jahre	76
 1025	journalists (m)	die Journalisten	76
-1026	men	die Männer	76
+1026	men	die MÃ¤nner	76
 1027	cafeterias	die Mensas	76
 1028	names	die Namens	76
 1029	internships	die Praktika	76
 1030	semesters	die Semester	76
 1031	students (m)	die Studenten	76
-1032	universities	die Universitäten	76
+1032	universities	die UniversitÃ¤ten	76
 1033	newspapers	die Zeitungen	76
 1060	TV sets	die Fernseher	76
 1069	computers	die Computer	76
-1074	houses	die Häuser	76
+1074	houses	die HÃ¤user	76
 1080	photographs	die Fotos	76
 1110	alarm clocks	die Wecker	76
 1111	apartments	die Wohnungen	76
 1113	armchairs	die Sessel	76
 1115	beds	die Betten	76
-1116	bookcases	die Bücherregale	76
+1116	bookcases	die BÃ¼cherregale	76
 1117	cell phones	die Handys	76
 1119	days	die Tage	76
 1122	dressers	die Kommoden	76
 1123	euros	die Euros	76
-1126	gardens; yards	die Gärten	76
+1126	gardens; yards	die GÃ¤rten	76
 1129	houseplants	die Zimmerpflanzen	76
-1130	kitchens	die Küchen	76
+1130	kitchens	die KÃ¼chen	76
 1131	lamps	die Lampen	76
 1133	male customers	die Kunden	76
-1134	motorcycles	die Motorräder	76
+1134	motorcycles	die MotorrÃ¤der	76
 1136	posters	die Poster	76
 1137	problems	die Probleme	76
 1139	rooms	die Zimmer	76
@@ -1764,150 +1764,150 @@ English	German
 1143	sofas	die Sofas	76
 1152	windows	die Fenster	76
 1156	cars	die Autos	76
-1157	doors	die Türen	76
+1157	doors	die TÃ¼ren	76
 1164	rugs; carpets	die Teppiche	76
-1170	baths; bathrooms	die Bäder	76
+1170	baths; bathrooms	die BÃ¤der	76
 1171	clocks	die Uhren	76
-1173	department stores	die Kaufhäuser	76
+1173	department stores	die KaufhÃ¤user	76
 1176	radios	die Radios	76
-1185	chairs	die Stühle	76
-1187	clothes closets	die Kleiderschränke	76
-1189	computer connections	die Computeranschlüsse	76
+1185	chairs	die StÃ¼hle	76
+1187	clothes closets	die KleiderschrÃ¤nke	76
+1189	computer connections	die ComputeranschlÃ¼sse	76
 1193	female customers	die Kundinnen	76
 1195	garages	die Garagen	76
 1203	stereos	die Stereoanlagen	76
 1204	tables	die Tische	76
-1210	walls	die Wände	76
+1210	walls	die WÃ¤nde	76
 1220	papers	die Papiere	76
 1223	balconies	die Balkons	76
 1224	terraces; patios	die Terrassen	76
 1226	telephones	die Telefone	76
 1247	male cousins	die Vettern	76
 1251	nephews	die Neffen	76
-1254	daughters	die Töchter	76
+1254	daughters	die TÃ¶chter	76
 1259	nieces	die Nichten	76
-1262	sisters-in-law	die Schwägerinnen	76
+1262	sisters-in-law	die SchwÃ¤gerinnen	76
 1268	grandpas	die Opas	76
 1276	grandsons	die Enkel	76
 1279	traditions	die Traditionen	76
 1288	dogs	die Hunde	76
-1294	brothers-in-law	die Schwäger	76
+1294	brothers-in-law	die SchwÃ¤ger	76
 1305	presents	die Geschenke	76
 1308	sisters	die Schwestern	76
 1317	family gatherings	die Familienfeste	76
 1318	weddings	die Hochzeiten	76
 1320	granddaughters	die Enkelinnen	76
-1335	brothers	die Brüder	76
+1335	brothers	die BrÃ¼der	76
 1338	families	die Familien	76
 1347	parties	die Partys	76
-1348	sons	die Söhne	76
-1367	fathers	die Väter	76
+1348	sons	die SÃ¶hne	76
+1367	fathers	die VÃ¤ter	76
 1372	female cousins	die Kusinen	76
 1388	aunts	die Tanten	76
-1408	grandmothers	die Großmütter	76
-1409	grandfathers	die Großväter	76
+1408	grandmothers	die GroÃŸmÃ¼tter	76
+1409	grandfathers	die GroÃŸvÃ¤ter	76
 1411	calendars	die Kalender	76
-1413	mothers	die Mütter	76
+1413	mothers	die MÃ¼tter	76
 1415	grandmas	die Omas	76
 1416	uncles	die Onkel	76
-1526	train stations	die Bahnhöfe	76
+1526	train stations	die BahnhÃ¶fe	76
 1528	libraries	die Bibliotheken	76
 1532	cups	die Tassen	76
 1537	weeks	die Wochen	76
 1540	weekends	die Wochenenden	76
-1661	stores	die Geschäfte; die Läden	76
-1665	bakeries	die Bäckereien	76
-1676	markets; marketplaces	die Märkte	76
+1661	stores	die GeschÃ¤fte; die LÃ¤den	76
+1665	bakeries	die BÃ¤ckereien	76
+1676	markets; marketplaces	die MÃ¤rkte	76
 1678	butcher shops	die Metzgereien	76
 1734	colors	die Farben	76
 1739	cash registers; cashiers	die Kassen	76
 1741	suitcases	die Koffer	76
 1743	medicines	die Medikamente	76
-1746	backpacks	die Rucksäcke	76
+1746	backpacks	die RucksÃ¤cke	76
 1748	purses	die Taschen	76
 1863	cafes	die Cafes	76
-1924	beer gardens	die Biergärten	76
+1924	beer gardens	die BiergÃ¤rten	76
 1926	forks	die Gabeln	76
 1938	knives	die Messer	76
-1943	places; seats	die Plätze	76
+1943	places; seats	die PlÃ¤tze	76
 1945	bills	die Rechnungen	76
 1952	plates	die Teller	76
 1265	twentieth	zwanzigste	77
 1273	seventh	siebte; siebente	77
 1327	eleventh	elfte	77
 1342	tenth	zehnte	77
-1351	fifth	fünfte	77
+1351	fifth	fÃ¼nfte	77
 1352	thirteenth	dreizehnte	77
 1398	ninth	neunte	77
 1400	sixth	sechste	77
 1404	fourth	vierte	77
-1406	twelfth	zwölfte	77
+1406	twelfth	zwÃ¶lfte	77
 1418	eighth	achte	77
-1582	apples	die Äpfel	78
+1582	apples	die Ã„pfel	78
 1584	bananas	die Bananen	78
 1586	strawberries	die Erbeeren	78
 1589	grapes	die Weintrauben	78
-1590	types of vegetables	gemüsesorten	78
+1590	types of vegetables	gemÃ¼sesorten	78
 1595	cucumbers	die Gurken	78
 1599	potatoes	die Kartoffeln	78
 1601	tomatoes	die Tomaten	78
 1602	baked goods	backwaren	78
 1604	loaves of bread	die Brote	78
-1606	rolls	die Brötchen	78
+1606	rolls	die BrÃ¶tchen	78
 1608	cookies	die Kekse	78
 1610	cakes	die Kuchen	78
 1611	meats	fleischwaren	78
 1618	hams	die Schinken	78
 1620	cutlets	die Schnitzel	78
 1622	steaks	die Steaks	78
-1624	turkeys	die Truthähne	78
-1626	sausages	die Würste	78
-1627	beverages	die Getränke	78
+1624	turkeys	die TruthÃ¤hne	78
+1626	sausages	die WÃ¼rste	78
+1627	beverages	die GetrÃ¤nke	78
 1630	beers	die Biere	78
 1632	colas	die Colas	78
-1634	juices	die Säfte	78
+1634	juices	die SÃ¤fte	78
 1640	dairy products	die Milchprodukte	78
 1643	eggs	die Eier	78
-1684	articles of clothing	die Kleidungsstücke	79
-1686	suits	die Anzüge	79
+1684	articles of clothing	die KleidungsstÃ¼cke	79
+1686	suits	die AnzÃ¼ge	79
 1689	blouses	die Blusen	79
-1691	belts	die Gürtel	79
+1691	belts	die GÃ¼rtel	79
 1693	button-down shirts	die Hemden	79
 1695	pants	die Hose	79
 1696	pairs of pants	die Hosen	79
-1698	hats	die Hüte	79
+1698	hats	die HÃ¼te	79
 1700	jackets	die Jacken	79
 1701	(pair of) jeans	die Jeans	79
 1703	dresses	die Kleider	79
 1705	neckties	die Krawatten; die Schlipse	79
-1707	coats	die Mäntel	79
-1709	caps	die Mützen	79
+1707	coats	die MÃ¤ntel	79
+1709	caps	die MÃ¼tzen	79
 1711	pullover sweaters or shirts	die Pullover	79
-1713	skirts	die Röcke	79
+1713	skirts	die RÃ¶cke	79
 1715	sport coats	die Sakkos	79
 1717	scarves	die Schals	79
 1719	shoes	die Schuhe	79
 1723	socks	die Socken	79
 1725	boots	die Stiefel	79
-1727	stockings	die Strümpfe	79
+1727	stockings	die StrÃ¼mpfe	79
 1729	T-shirts	die T-Shirts	79
 1732	pairs of eyeglasses	die Brillen	79
-1737	sizes	die Größen	79
-2208	unbearable	unerträglich	80
-2711	exclusive	ausschließlich	80
-2743	concerning	betreffend; bezüglich; hinsichtlich	80
+1737	sizes	die GrÃ¶ÃŸen	79
+2208	unbearable	unertrÃ¤glich	80
+2711	exclusive	ausschlieÃŸlich	80
+2743	concerning	betreffend; bezÃ¼glich; hinsichtlich	80
 2744	respective	jeweiligen	80
 2746	overall; across the board	pauschal	80
 2900	hereupon; thereupon	daraufhin	80
 2954	forth	hervor	80
 3024	appalled; aghast	entsetzt	80
-3040	certain; positive	überzeugt	80
-3191	about what	worüber	80
+3040	certain; positive	Ã¼berzeugt	80
+3191	about what	worÃ¼ber	80
 1244	you (accusative)	dich	81
 1289	(to) him; it	ihn	81
 1297	you (informal plural accusative)	euch	81
 1302	I see your (informal plural) friend.	Ich sehe euren Freund.	81
-1309	for my desk	für meinen Schreibtisch	81
+1309	for my desk	fÃ¼r meinen Schreibtisch	81
 1362	I see my friend.	Ich sehe meinen Freund.	81
 1363	Yes, I know him.	Ja, ich kenne ihn.	81
 1364	Do you know my friend?	Kennst du meinen Freund?	81
@@ -1920,7 +1920,7 @@ English	German
 1825	to/for her	ihr	81
 1827	to/for you (plural)	euch	81
 1828	to/for them	ihnen	81
-2774	to eat 3	essen, aß, gegessen	83
+2774	to eat 3	essen, aÃŸ, gegessen	83
 2775	to give 3	geben, gab, gegeben	83
 2776	to read 3	lesen, las, gelesen	83
 2777	to see 3	sehen, sah, gesehen	83
@@ -1932,12 +1932,12 @@ English	German
 2783	to meet 3	treffen, traf, getroffen	83
 2784	to throw 3	werfen, warf, geworfen	83
 2785	to stay 3	bleiben, blieb, ist geblieben	83
-2786	to be called 3	heißen, hieß, geheißen	83
+2786	to be called 3	heiÃŸen, hieÃŸ, geheiÃŸen	83
 2787	to write 3	schreiben, schrieb, geschrieben	83
 2788	to climb 3	steigen, stieg, ist gestiegen	83
 2789	to fly 3	fliegen, flog, ist geflogen	83
 2790	to shove; to push 3	schieben, schob, geschoben	83
-2791	to close 3	schließen, schloß, geschlossen	83
+2791	to close 3	schlieÃŸen, schloÃŸ, geschlossen	83
 2792	to find 3	finden, fand, gefunden	83
 2793	to sing 3	singen, sang, gesungen	83
 2794	to drink 3	trinken, trank, getrunken	83
@@ -1948,7 +1948,7 @@ English	German
 2799	to wash 3	waschen, wusch, gewaschen	83
 2800	to fall 3	fallen, fiel, ist gefallen	83
 2801	to hold; to think 3	halten, hielt, gehalten	83
-2802	to leave 3	lassen, ließ, gelassen	83
+2802	to leave 3	lassen, lieÃŸ, gelassen	83
 2803	to advise 3	raten, riet, geraten	83
 2804	to sleep 3	schlafen, schlief, geschlafen	83
 2805	to run 3	laufen, lief, ist gelaufen	83
@@ -1962,15 +1962,15 @@ English	German
 2813	to go 3	gehen, ging, ist gegangen	83
 2814	to come 3	kommen, kam, ist gekommen	83
 2815	to call 3	rufen, rief, gerufen	83
-2816	to sit 3	sitzen, saß, gesessen	83
+2816	to sit 3	sitzen, saÃŸ, gesessen	83
 2817	to stand 3	stehen, stand, gestanden	83
-1474	verbs with separable prefixes	verben mit trennbaren Präfixen	84
-1478	to clean up; to straighten up	aufräumen	84
-1520	to eat breakfast	frühstücken	84
+1474	verbs with separable prefixes	verben mit trennbaren PrÃ¤fixen	84
+1478	to clean up; to straighten up	aufrÃ¤umen	84
+1520	to eat breakfast	frÃ¼hstÃ¼cken	84
 1523	to paint (a wall or house)	streichen	84
 1955	to order	bestellen	84
 2049	to comprehend	begreifen	84
-2085	to enjoy	genießen	84
+2085	to enjoy	genieÃŸen	84
 2128	to seem; to shine	scheinen	84
 2152	to rise; to climb	steigen	84
 2164	to change; to transfer	umsteigen	84
@@ -1978,15 +1978,15 @@ English	German
 2172	to grow	wachsen	84
 2282	to howl	heulen	84
 2283	to scold	schimpfen	84
-2287	to roar	brüllen	84
+2287	to roar	brÃ¼llen	84
 2309	to stretch out	recken	84
-2311	to sniff	schnuppern; schnüffeln	84
+2311	to sniff	schnuppern; schnÃ¼ffeln	84
 2318	to resist	widerstehen	84
 2320	to sneak	schleichen	84
 2324	to pull; to tug	zerren	84
-2326	to tear; to break	reißen	84
+2326	to tear; to break	reiÃŸen	84
 2328	to flee	fliehen	84
-2489	to touch	berühren	84
+2489	to touch	berÃ¼hren	84
 2530	to sweep	auffegen	84
 2554	to make; to build	basteln	84
 2680	to chat	plaudern	84
@@ -1999,7 +1999,7 @@ English	German
 2871	to glance	blicken	84
 2873	to guess; to suspect	ahnen	84
 2874	to have a baby	ein Baby kriegen	84
-2882	to lock	abschließen	84
+2882	to lock	abschlieÃŸen	84
 2897	to attract attention; to stand out	auffallen	84
 2898	to appear; to seem	erschien	84
 2911	to arrive; to achieve	erreichen	84
@@ -2008,18 +2008,18 @@ English	German
 2926	to smell	riechen	84
 2929	to dispose	bewegen	84
 2940	to gasp; to pant	keuchen	84
-2945	to rush; to plummet; to topple	stürzen	84
+2945	to rush; to plummet; to topple	stÃ¼rzen	84
 2987	to pay attention	achten auf	84
 2992	to take; to accept; to carry	aufnehmen	84
 2998	to dash; to rush	rasen	84
 2999	to manage; to govern	steuern	84
 3004	to break	brechen	84
 3006	to clamp	klammern	84
-3008	to take across; to transfer	übernehmen	84
+3008	to take across; to transfer	Ã¼bernehmen	84
 3009	to watch	zusehen	84
 3013	to repair; to renovate	erneuern	84
 3014	to avoid; to evade	ausweichen	84
-3018	to shake off	abschütteln	84
+3018	to shake off	abschÃ¼tteln	84
 3019	to reverse; to turn over	wenden	84
 3020	to cheer	jubeln	84
 3023	to lift	heben	84
@@ -2057,7 +2057,7 @@ English	German
 2091	he has had	er hat gehabt	86
 2093	she has stopped	sie hat gehalten	86
 2095	it has hung	es hat gehangen	86
-2097	we have been called	wir haben geheißen	86
+2097	we have been called	wir haben geheiÃŸen	86
 2099	you have helped (plural)	ihr habt geholfen	86
 2101	they have known; they have been acquainted	sie haben gekannt	86
 2103	I have come	ich bin gekommen	86
@@ -2101,7 +2101,7 @@ English	German
 2179	she has known	sie hat gewusst	86
 2181	it has wanted	es hat gewollt	86
 2183	we have moved; we have pulled	wir haben gezogen	86
-2209	it would be	es wäre	86
+2209	it would be	es wÃ¤re	86
 2245	she was able	sie konnte	86
 2256	they knew	sie wussten	86
 2270	he lay	er lag	86
@@ -2119,8 +2119,8 @@ English	German
 2341	you invited (plural)	ihr ludet ein	86
 2342	they recommended	sie empfahlen	86
 2343	I decided	ich entschied	86
-2344	I ate	ich aß	86
-2345	you ate	du aßest	86
+2344	I ate	ich aÃŸ	86
+2345	you ate	du aÃŸest	86
 2346	he drove	er fuhr	86
 2347	she fell	sie fiel	86
 2348	we found	wir fanden	86
@@ -2134,11 +2134,11 @@ English	German
 2356	she had	sie hatte	86
 2357	we held; we stopped	wir hielten	86
 2358	you hung (plural)	ihr hingt	86
-2359	they were called	sie hießen	86
+2359	they were called	sie hieÃŸen	86
 2360	I helped	ich half	86
 2361	you knew; you were acquainted	du kanntest	86
 2362	he came	er kam	86
-2364	it let; it allowed	es ließ	86
+2364	it let; it allowed	es lieÃŸ	86
 2365	we ran	wir liefen	86
 2366	you lent; you borrowed (plural)	ihr lieht	86
 2367	they read (past tense)	sie lasen	86
@@ -2156,7 +2156,7 @@ English	German
 2379	she swam	sie schwamm	86
 2380	it saw	es sah	86
 2381	we sang	wir sangen	86
-2382	he sat	er saß	86
+2382	he sat	er saÃŸ	86
 2384	they spoke	sie sprachen	86
 2385	I stood	ich stand	86
 2386	you rose; you climbed	du stiegst	86
@@ -2166,8 +2166,8 @@ English	German
 2390	we drank	wir tranken	86
 2391	I did	ich tat	86
 2392	you changed; you transfered (plural)	ihr stiegt um	86
-2393	they forgot	sie vergaßen	86
-2394	I forgot	ich vergaß	86
+2393	they forgot	sie vergaÃŸen	86
+2394	I forgot	ich vergaÃŸ	86
 2395	I compared	ich verglich	86
 2396	you lost	du verlorst	86
 2397	he grew	er wuchs	86
@@ -2178,15 +2178,15 @@ English	German
 2402	she moved; she pulled	sie zog	86
 2823	he ended	endete	86
 3083	he asked	er fragte	86
-3084	they sat	sie saßen	86
+3084	they sat	sie saÃŸen	86
 3085	she got	sie bekam	86
 3086	I said	ich sagte	86
 3087	he gave	er gab	86
 279	Please go to the board. (formal)	Bitte, gehen Sie an die Tafel!	87
-280	Please listen. (formal)	Bitte, hören Sie zu!	87
+280	Please listen. (formal)	Bitte, hÃ¶ren Sie zu!	87
 281	Please read. (formal)	Bitte, lesen Sie!	87
-282	Please open your books to page 8. (formal)	Bitte, machen Sie die Bücher auf Seite acht auf!	87
-283	Please close your books. (formal)	Bitte, machen Sie die Bücher zu!	87
+282	Please open your books to page 8. (formal)	Bitte, machen Sie die BÃ¼cher auf Seite acht auf!	87
+283	Please close your books. (formal)	Bitte, machen Sie die BÃ¼cher zu!	87
 284	Please take out a sheet of paper. (formal)	Bitte, nehmen Sie ein Blatt Papier!	87
 285	Please be seated.	Bitte, setzen Sie sich!	87
 474	large class	die Vorlesung	87
@@ -2198,12 +2198,12 @@ English	German
 1055	semester	das Semester	87
 1191	dormitory	das Studentenwohnheim	87
 1534	lecture	der Vortrag	87
-1535	lectures	die Vorträge	87
-1876	courses	die Gänge	87
+1535	lectures	die VortrÃ¤ge	87
+1876	courses	die GÃ¤nge	87
 2639	master's degree	der Magister	87
-2640	Master of Arts	der Magister der philosophischen Fakultät	87
-2641	Master of Science	der Magister der wissenschaftlichen Fakultät	87
-2725	teaching	die Lehrtätigkeit	87
+2640	Master of Arts	der Magister der philosophischen FakultÃ¤t	87
+2641	Master of Science	der Magister der wissenschaftlichen FakultÃ¤t	87
+2725	teaching	die LehrtÃ¤tigkeit	87
 2726	course	die Lehrveranstaltung	87
 2730	organisational unit	die Organisationseinheit	87
 2737	knowledge transfer	die Wissensvermittlung	87
@@ -2226,7 +2226,7 @@ English	German
 2893	toboggan	der Rodelschlitten	89
 2894	to sled	Schlitten fahren; schlittern	89
 2895	ski	der Ski; der Schi	89
-2729	(the) public	die Öffentlichkeit	90
+2729	(the) public	die Ã–ffentlichkeit	90
 2943	election; choice	die Wahl	90
 2973	government	die Regierung	90
 3002	speech	die Rede	90
@@ -2241,7 +2241,7 @@ English	German
 3284	vice chancellor	der Vizekanzler	90
 3285	chancellor	der Kanzler	90
 3286	tax	die Steuer	90
-3287	takeover; adoption	die Übernahme	90
+3287	takeover; adoption	die Ãœbernahme	90
 3288	the last few days	die vergangenen Tage	90
 3289	postponed	aufgeschoben	90
 3290	tax revenue	die Steuereinnahmen	90
@@ -2249,7 +2249,7 @@ English	German
 3292	enforceable	durchzusetzen	90
 3293	general accounting office	der Rechnungshof	90
 3295	draft report	der Rohbericht	90
-3296	action; measure; step; procedure	die Maßnahme	90
+3296	action; measure; step; procedure	die MaÃŸnahme	90
 3297	economic growth	das Wirtschaftswachstum	90
 1612	cold cuts	der Aufschnitt	92
 1638	mineral water	das Mineralwasser; der Sprudel	92
@@ -2257,13 +2257,13 @@ English	German
 1668	pastry shop	die Konditorei	92
 1669	pastry shops	die Konditoreien	92
 1672	natural foods store	der Bioladen	92
-1673	natural foods stores	die Bioläden	92
-1674	beverage store	der Getränkladen	92
+1673	natural foods stores	die BiolÃ¤den	92
+1674	beverage store	der GetrÃ¤nkladen	92
 1679	fruit stand	der Obststand	92
-1680	vegetable stand	der Gemüsestand	92
-1681	fruit stands	die Obststände	92
-1864	full-service restaurant	die Gaststätte	92
-1865	full-service restaurants	die Gaststätten	92
+1680	vegetable stand	der GemÃ¼sestand	92
+1681	fruit stands	die ObststÃ¤nde	92
+1864	full-service restaurant	die GaststÃ¤tte	92
+1865	full-service restaurants	die GaststÃ¤tten	92
 1866	fast-food stand	der Imbiss	92
 1867	fast-food stands	die Imbisse	92
 1868	pub; bar	die Kneipe	92
@@ -2272,7 +2272,7 @@ English	German
 1871	restaurants; pubs; bars	die Lokale	92
 1873	restaurants	die Restaurants	92
 1874	pub	das Wirtshaus	92
-1875	pubs	die Wirthäuser	92
+1875	pubs	die WirthÃ¤user	92
 1877	appetizer	die Vorspeise	92
 1878	appetizers	die Vorspeisen	92
 1879	main dish	das Hauptgericht	92
@@ -2290,9 +2290,9 @@ English	German
 1896	pretzels	die Brezeln	92
 1897	dish of ice cream	der Eisbecher	92
 1898	dishes of ice cream	die Eisbecher	92
-1899	chicken breast	die Hühnerbrust	92
-1900	cheese cake	der Käsekuchen	92
-1901	liver pate	der Leberkäs	92
+1899	chicken breast	die HÃ¼hnerbrust	92
+1900	cheese cake	der KÃ¤sekuchen	92
+1901	liver pate	der LeberkÃ¤s	92
 1902	olive	die Olive	92
 1903	olives	die Oliven	92
 1904	bell pepper	die Paprika	92
@@ -2304,8 +2304,8 @@ English	German
 1913	fried egg (sunny-side up)	das Spiegelei	92
 1914	fried eggs	die Spiegeleier	92
 1916	soups	die Suppen	92
-1917	white sausage	die Weißwurst	92
-1918	white sausages	die Weißwürste	92
+1917	white sausage	die WeiÃŸwurst	92
+1918	white sausages	die WeiÃŸwÃ¼rste	92
 1919	breaded veal cutlet	das Wiener Schnitzel	92
 1921	onions	die Zwiebeln	92
 1927	dish of prepared food	das Gericht	92
@@ -2315,7 +2315,7 @@ English	German
 1931	waiters	die Kellner	92
 1932	waitress	die Kellnerin	92
 1933	waitresses	die Kellnerinnen	92
-1936	spoons	die Löffel	92
+1936	spoons	die LÃ¶ffel	92
 1940	pan	die Pfanne	92
 1941	pans	die Pfannen	92
 1947	napkin	die Serviette	92
@@ -2334,16 +2334,16 @@ English	German
 1666	drugstore	die Drogerie	93
 1667	drugstores	die Drogerien	93
 2506	tow truck	der Abschleppwagen	93
-2521	trailer	der Anhänger	93
-2537	car wash	die Autowäsche	93
+2521	trailer	der AnhÃ¤nger	93
+2537	car wash	die AutowÃ¤sche	93
 2544	front-end loader	der Bagger	93
 2567	gas pump	die Benzinpumpe	93
-2621	pavement	der Bürgersteig	93
+2621	pavement	der BÃ¼rgersteig	93
 2633	steam-roller	die Dampfwalze	93
 505	guitar	die Gitarre	94
 537	song	das Lied	94
 547	photo album	das Fotoalbum	94
-1238	Christmas trees	die Weihnachtsbäume	94
+1238	Christmas trees	die WeihnachtsbÃ¤ume	94
 1240	Christmas tree	der Weihnachtsbaum	94
 1652	toiletries	die Toilettenartikel	94
 1653	make-up	das Make-up	94
@@ -2364,10 +2364,10 @@ English	German
 2586	flower bed	das Blumenbeet	94
 2599	shower	die Brause	94
 2603	firewood	das Brennholz	94
-2615	tin; box	die Büchse	94
-2617	ironing board	das Bügelbrett	94
-2618	iron	das Bügeleisen	94
-2622	brush	die Bürste	94
+2615	tin; box	die BÃ¼chse	94
+2617	ironing board	das BÃ¼gelbrett	94
+2618	iron	das BÃ¼geleisen	94
+2622	brush	die BÃ¼rste	94
 2624	bush	der Busch	94
 2630	roof	das Dach	94
 2631	gutter	die Dachrinne	94
@@ -2381,8 +2381,8 @@ English	German
 2226	nonsense	der Unsinn	95
 2235	manufacturer	der Hersteller	95
 2239	moustache	der Schnurrbart	95
-2261	contact	die Berührung	95
-2280	snout	die Schnauze; der Rüssel	95
+2261	contact	die BerÃ¼hrung	95
+2280	snout	die Schnauze; der RÃ¼ssel	95
 2303	wave	die Welle	95
 2323	step	der Schritt	95
 2327	pack	das Rudel	95
@@ -2404,13 +2404,13 @@ English	German
 2720	border; frame	der Rahmen	95
 2735	manner	die Weise	95
 2736	instructions	die Weisungen	95
-2769	changes; modifications	die Änderungen	95
+2769	changes; modifications	die Ã„nderungen	95
 2824	poetry	die Dichtung	95
 2870	glance	der Blick	95
 2959	hope	die Hoffnung	95
 2960	devil	der Teufel	95
-2990	lie	die Lüge	95
-2994	possibilities	die Möglichkeiten	95
+2990	lie	die LÃ¼ge	95
+2994	possibilities	die MÃ¶glichkeiten	95
 2996	enthusiasm	die Begeisterung	95
 3007	cheating; deception	der Betrug	95
 3010	joke	der Scherz	95
@@ -2418,8 +2418,8 @@ English	German
 3015	tug; jerk	der Ruck	95
 3025	magic wand	der Zauberstab	95
 3030	agenda; notions	die Ansichten	95
-3037	sound; noise	das Geräusch	95
-3039	feeling; emotion	das Gefühl	95
+3037	sound; noise	das GerÃ¤usch	95
+3039	feeling; emotion	das GefÃ¼hl	95
 3062	enemy	der Feind	95
 3063	accident	der Unfall	95
 3064	advantage; benefit	der Vorteil	95
@@ -2428,15 +2428,15 @@ English	German
 2738	to contain; to include	enthalten	96
 2739	to effect; to generate	erbringen	96
 2747	to assure; to guarantee	sicherstellen	96
-2748	to relinquish; to surrender	überlassen	96
-2749	to transfer; to remit	überweisen	96
+2748	to relinquish; to surrender	Ã¼berlassen	96
+2749	to transfer; to remit	Ã¼berweisen	96
 2750	to bandy	verbereiten	96
 2757	to allow to inform	mitzuteilen	96
-2768	to take into consideration	berücksichtigen	96
+2768	to take into consideration	berÃ¼cksichtigen	96
 2771	to accrue	erwachsen	96
 2773	to replace	ersetzen	96
 2875	four years with the same teacher	vier Jahre mit dem selben Lehrer	96
-2876	he is interested in German	er interresiert sich für Deutsch	96
+2876	he is interested in German	er interresiert sich fÃ¼r Deutsch	96
 2880	neither	weder; keiner von beiden	96
 2883	locked	abgeschlossen	96
 2896	awkward; uncomfortable	unbehaglich	96
@@ -2471,9 +2471,9 @@ English	German
 3045	conception; vision; imagination	die Vorstellung	96
 3046	to surmise	einbilden	96
 3050	torture	die Folter	96
-3051	What about ___?	Wie wär's ___?	96
+3051	What about ___?	Wie wÃ¤r's ___?	96
 3053	host	der Wirt	96
-3054	to operate	betätigen	96
+3054	to operate	betÃ¤tigen	96
 3055	duty	die Pflicht	96
 3056	to oblige	verpflichten	96
 3057	to take off; to amputate	abnehmen	96
@@ -2491,17 +2491,17 @@ English	German
 2719	director; conductor	der Leiter	97
 2721	agreement; contract	der Vertrag	97
 2722	compensation	die Abgeltung	97
-2723	accomplishment; development	die Durchführung	97
+2723	accomplishment; development	die DurchfÃ¼hrung	97
 2724	arrangement	die Gestaltung	97
 2727	accomplishment; activity	die Leistung	97
-2731	action; activity	die Tätigkeit	97
+2731	action; activity	die TÃ¤tigkeit	97
 2732	adherence; attendance; participation	die Teilnahme	97
 2733	sales tax	die Umsatzsteuer	97
 2734	substitute; agency	die Vertretung	97
-2740	due; owed to	gebührt	97
+2740	due; owed to	gebÃ¼hrt	97
 2751	agreed-upon ___	vereinbarten ___	97
-2752	accessible; available	zugänglich	97
-2753	responsible ___	zuständigen ___	97
+2752	accessible; available	zugÃ¤nglich	97
+2753	responsible ___	zustÃ¤ndigen ___	97
 2756	service invention	die Diensterfindung	97
 2758	acknowledgement; knowledge	die Kenntnis	97
 2759	bound; committed; obligated	verpflichtet	97
@@ -2509,13 +2509,13 @@ English	German
 2762	matter at hand; current topic	vorliegende	97
 2763	provisions; terms	die Bestimmungen	97
 2766	agreement; understanding	die Vereinbarung	97
-2767	income tax return	die Einkommenssteuererklärung	97
+2767	income tax return	die EinkommenssteuererklÃ¤rung	97
 2772	request; invitation; demand	die Aufforderung	97
 2819	continued existence	der Bestand	97
 2884	appointment	der Termin	97
 2915	directions; instructions	die Anweisungen	97
 2967	company; organization	das Unternehmen	97
-1817	To whom is the salesman showing three rings?	Wem zeigt der Verkäufer drei Ringe?	98
+1817	To whom is the salesman showing three rings?	Wem zeigt der VerkÃ¤ufer drei Ringe?	98
 1818	He is showing them to Mr. Ebert.	Er zeigt sie Herrn Ebert.	98
 1819	For whom is Mr. Ebert buying a ring?	Wem kauft Herr Ebert einen Ring?	98
 1820	He is buying it for his wife.	Er kauft ihn seiner Frau.	98
@@ -2523,45 +2523,45 @@ English	German
 1830	I am giving it to my brother.	Ich gebe es meinem Bruder.	98
 1831	When are you giving it to him?	Wann gibst du es ihm?	98
 1832	Who has a birthday tomorrow?	Wer hat morgen Geburtstag?	98
-1833	Whom are you inviting?	Wen lädst du ein?	98
+1833	Whom are you inviting?	Wen lÃ¤dst du ein?	98
 1834	To whom are you giving the calendar?	Wem schenkst du den Kalender?	98
-1835	I thank you for the card.	Ich danke dir für die Karte.	98
-1836	How do you (formal) like this shirt?	Wie gefällt Ihnen dieses Hemd?	98
-1837	The Mercedes belongs to my brother.	Der Mercedes gehört meinem Bruder.	98
-1838	The salesperson is helping the customer.	Der Verkäufer hilft dem Kunden.	98
+1835	I thank you for the card.	Ich danke dir fÃ¼r die Karte.	98
+1836	How do you (formal) like this shirt?	Wie gefÃ¤llt Ihnen dieses Hemd?	98
+1837	The Mercedes belongs to my brother.	Der Mercedes gehÃ¶rt meinem Bruder.	98
+1838	The salesperson is helping the customer.	Der VerkÃ¤ufer hilft dem Kunden.	98
 1839	The dress looks good on you.	Das Kleid steht dir gut.	98
-1842	The bakery is near the market.	Die Bäckerei ist beim Marktplatz.	98
+1842	The bakery is near the market.	Die BÃ¤ckerei ist beim Marktplatz.	98
 1843	There are stylish blouses at Gisie's.	Schicke Blusen gibt es bei Gisie.	98
 1844	Manfred works at VW.	Manfred arbeitet bei VW.	98
-1845	Sybille lives with her grandmother.	Sybille wohnt bei ihrer Großmutter.	98
+1845	Sybille lives with her grandmother.	Sybille wohnt bei ihrer GroÃŸmutter.	98
 1846	Mr. Schweiger goes shopping with his wife.	Herr Schweiger geht mit seiner Frau einkaufen.	98
 1847	We go by bus.	Wir fahren mit dem Bus.	98
-1848	The bus goes to Frankfurt.	Der Bus fährt nach Frankfurt.	98
+1848	The bus goes to Frankfurt.	Der Bus fÃ¤hrt nach Frankfurt.	98
 1849	After eating we are going shopping.	Nach dem Essen gehen wir einkaufen.	98
-1850	Since yesterday we have had good weather.	Seit gestern haben wir schönes Wetter.	98
+1850	Since yesterday we have had good weather.	Seit gestern haben wir schÃ¶nes Wetter.	98
 1851	For a month she has bought only wholegrain bread.	Seit einem Monat kauft sie nur noch Bio-Brot.	98
-1852	The bread is fresh from the baker.	Das Brot is frisch vom Bäcker.	98
+1852	The bread is fresh from the baker.	Das Brot is frisch vom BÃ¤cker.	98
 1853	Frank comes straight from the market.	Frank kommt gerade vom Markt.	98
 1854	This book is by Peter Handke.	Dieses Buch ist von Peter Handke.	98
 1855	We are going to the supermarket today.	Wir gehen heute zum Supermarkt.	98
 1856	He is at home again now.	Er ist jetzt wieder zu Hause.	98
-1857	For breakfast there is granola.	Zum Frühstück gibt es Müsli.	98
+1857	For breakfast there is granola.	Zum FrÃ¼hstÃ¼ck gibt es MÃ¼sli.	98
 1858	Where are you going?	Wohin gehst du?	98
-1859	Where are you driving?	Wo fährst du hin?	98
+1859	Where are you driving?	Wo fÃ¤hrst du hin?	98
 1860	Where do the oranges come from?	Woher kommen die Orangen?	98
 1861	Where do you get the good sausages?	Wo hast du die gute Wurst her?	98
 2022	before the play	vor dem Theater	98
 2695	Do you see him now?	Siehst du ihn jetzt?	98
 2700	I always drive fast.	Ich fahre immer schnell.	98
-2701	I drive to Munich very often.	Ich fahre sehr oft nach München.	98
+2701	I drive to Munich very often.	Ich fahre sehr oft nach MÃ¼nchen.	98
 2702	I drive home fast.	Ich fahre schnell nach Hause.	98
-2703	I always like driving to Münich.	Ich fahre immer gern nach München.	98
+2703	I always like driving to MÃ¼nich.	Ich fahre immer gern nach MÃ¼nchen.	98
 2765	What is it all about?	Worum handelt es sich?	98
 431	technician	der Techniker	99
 434	profession; occupation	der Beruf	99
-447	artist	der Künstler	99
+447	artist	der KÃ¼nstler	99
 448	chemist	der Chemiker	99
-449	congress; meeting	der Kongreß	99
+449	congress; meeting	der KongreÃŸ	99
 464	colleague	der Kollege	99
 470	musician	der Musiker	99
 473	meeting	die Besprechung	99
@@ -2575,21 +2575,21 @@ English	German
 2519	fisherman	der Angler	99
 2522	painter	der Anstreicher	99
 2528	astronaut	der Astronaut	99
-2540	baker	der Bäcker	99
+2540	baker	der BÃ¤cker	99
 2558	farmer	der Bauer	99
 2627	clown	der Clown	99
 2629	cowboy	der Cowboy	99
 388	chimney	der Schornstein	134
 2510	eagle	der Adler	142
 2574	beaver	der Biber	142
-2616	buffalo	der Büffel	142
+2616	buffalo	der BÃ¼ffel	142
 2632	badger	der Dachs	142
 3162	dolphin	der Delfin	142
 3163	whale	der Wal	142
-2263	dull; cloudy	trüben	144
+2263	dull; cloudy	trÃ¼ben	144
 2306	snow cover	die Schneedecke	144
 2860	fair; bright	heiter	144
-2864	muggy; humid	schwül	144
+2864	muggy; humid	schwÃ¼l	144
 2891	sleet	der Graupel	144
 2993	frost	der Reif	144
 3340	eternity	die Ewigkeit	88
