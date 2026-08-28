@@ -8,7 +8,7 @@ public class Practice {
 
     JFrame frame = new JFrame("Magistra");
     Container pane = frame.getContentPane();
-    
+
     int L = 0;  // default is to start with the base language
     int n = 0;  // first pair to practice
 
@@ -30,7 +30,7 @@ public class Practice {
     }
 
     pane.setLayout(new GridLayout(6,2));
-    
+
     int fontSize = 16;
     int fieldWidth = fontSize*24;
     int fieldHeight = fontSize*2;
@@ -52,7 +52,7 @@ public class Practice {
     JButton skip       = new JButton("Skip once");
     JButton forever    = new JButton("Skip forever");
     JButton switchDir  = new JButton("Switch direction");
-    JButton exit       = new JButton("Save and exit");
+    JButton exit       = new JButton("Save and main menu");
     JLabel kb1;
     JLabel kb2;
 
@@ -73,7 +73,7 @@ public class Practice {
     	kb1 = new JLabel("Press Alt-Left Shift for the Spanish keyboard, then");
     	kb2 = new JLabel("; for ñ, = for ¡, _ for ?, + for ¿, ? for _, ' and a letter for é, í, ú, ó, á");
     }
-    else 
+    else
     {
     	kb1 = new JLabel("");
     	kb2 = new JLabel("");
@@ -112,6 +112,6 @@ public class Practice {
     frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     frame.pack();
     frame.setVisible(true);
-    
+
     }
 }

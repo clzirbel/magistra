@@ -16,7 +16,7 @@ class PracticeListener implements ActionListener {
     boolean CurrentPreview = false;
     int NumTries = 0;
     String pc = "";                    // portion correct, when wrong
-    
+
     PracticeListener ( WordList WL, int n, int L, WordPair WP, JLabel baseLang, JLabel baseWord, JLabel foreignLang, JTextField input, JLabel status, JLabel help, JFrame frame) {
 		this.WL = WL;
 	    this.n = n;
@@ -42,11 +42,11 @@ class PracticeListener implements ActionListener {
 	    L = 1 - L;
 		ReadyForNextPair = true;
 	}
-	else if (e.getActionCommand().equals("Save and exit")) {
+	else if (e.getActionCommand().equals("Save and main menu")) {
 	    WL.writeUserData();
 	    frame.setVisible(false);
-	    System.exit(0);
-	    //new Launcher();
+	    // System.exit(0);
+	    new Launcher();
 	}
 	else if (e.getActionCommand().equals("Skip once")) {
 		ReadyForNextPair = true;
@@ -57,7 +57,7 @@ class PracticeListener implements ActionListener {
     }
 	else {
 		 JTextField inputString = (JTextField)e.getSource();
-		 if (CurrentPreview) 
+		 if (CurrentPreview)
 		 {
 			 ReadyForNextPair = true;                                // being previewed now, don't mark as correct
 		 }
@@ -79,8 +79,8 @@ class PracticeListener implements ActionListener {
 			 if (NumTries <= 1) {
 	    		 WL.changeNumKnown(UserData.evaluatePairData(WP.getUserData()+"-")-UserData.evaluatePairData(WP.getUserData()));
 	             WP.modifyPairData("-");
-			 }	 
-			 NumTries = 1;                                       // 
+			 }
+			 NumTries = 1;                                       //
 			 pc = WP.getWord(1-L);                               // show correct answer
 	         input.setText("");
 	         help.setText(pc);
@@ -105,7 +105,7 @@ class PracticeListener implements ActionListener {
 	     else if (NumTries == 1) {
     		 WP.modifyPairData("=");
 	     }
-	     	     
+
          input.setText(result[0]);
          help.setText(pc);
          ReadyForNextPair = false;
