@@ -8,7 +8,7 @@ public class WordPair extends Object {
    private int Group;
    private String UserData = new String("");
    private int NumTries = 0;
-   private float priority = 0;
+   private double priority = 0;
    private char FirstResult = '?';
    private boolean removed = false;
 
@@ -34,7 +34,7 @@ public class WordPair extends Object {
    public boolean getRemoved() {return removed;}
    public String getUserData() { return UserData; };
    public void modifyPairData(String ns) { UserData = UserData + ns; };
-   public boolean compareStrings(int L, String A) { 
+   public boolean compareStrings(int L, String A) {
        boolean Correct = false;
        StringTokenizer st;
        Correct = (Word[L].compareTo(A) == 0);
@@ -45,18 +45,18 @@ public class WordPair extends Object {
        }
        return Correct;
    }
-   public String portionCorrect(int L, String A) { 
+   public String portionCorrect(int L, String A) {
        String p = " --> " + A;
        int numcorrect = 0;                      // number of correct characters, counting from beginning
        StringTokenizer st;
        st = new StringTokenizer(Word[L],";");
        String AA = A + "----------------------------";
-       
+
        while(st.hasMoreTokens()) {
     	   String B = st.nextToken().trim();
     	   String BB = B + "============================";
     	   int nc = 0;
-    	   while (AA.charAt(nc) == BB.charAt(nc)) 
+    	   while (AA.charAt(nc) == BB.charAt(nc))
     		   nc++;
     	   nc = Math.min(nc, A.length());
     	   nc = Math.min(nc, B.length());
@@ -76,8 +76,8 @@ public class WordPair extends Object {
     }
    public void registerTry() { NumTries++; };
    public int getNumTries() {return NumTries; };
-   public float getPriority() { return priority; };
-   public void setPriority(float p) { priority = p; };
+   public double getPriority() { return priority; };
+   public void setPriority(double p) { priority = p; };
    public void setFirstResult(char f) { FirstResult = f; };
    public char getFirstResult() { return FirstResult; };
 }
