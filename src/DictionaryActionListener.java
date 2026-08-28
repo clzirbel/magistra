@@ -13,7 +13,7 @@ class DictionaryActionListener implements ActionListener {
     private boolean clearfields = false;
     private int beingedited;
     private JFrame frame;
-    
+
     DictionaryActionListener ( WordList WL, TextField baseWord, TextField foreignWord, TextField group, TextArea baseDisplay, TextArea foreignDisplay, TextField editentry, TextField changegroup, TextField remove, int[] foundarray, int beingedited, JFrame frame)  {
 	this.WL = WL;
 	this.baseWord = baseWord;
@@ -30,11 +30,11 @@ class DictionaryActionListener implements ActionListener {
     }
 
     public void actionPerformed (ActionEvent e) {
-	if (e.getActionCommand().equals("Save and Exit")) {
+	if (e.getActionCommand().equals("Save and main menu")) {
 		WL.writeWordList();
 	    frame.setVisible(false);
-	    System.exit(0);
-	    //new Launcher();
+	    // System.exit(0);
+	    new Launcher();
 	}
     else if (e.getSource().equals(baseWord) | e.getSource().equals(group)) {
     	if (beingedited > -1) {          // editing a word pair
@@ -55,7 +55,7 @@ class DictionaryActionListener implements ActionListener {
 	}
     else if (e.getActionCommand().equals("Clear")) {
     	clearfields = true;
-	}            
+	}
     else if (e.getSource().equals(editentry)) {
 	    int w = Integer.parseInt(editentry.getText());
 	    if (w > 0 & w < foundarray.length+1) {

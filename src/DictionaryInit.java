@@ -7,11 +7,11 @@ import javax.swing.UnsupportedLookAndFeelException;
 
 public class DictionaryInit {
     public DictionaryInit (WordList WL) {
-	
+
     JFrame frame = new JFrame("Magistra editor");
 
     frame.setLayout(new FlowLayout());
-    
+
     String laf = UIManager.getSystemLookAndFeelClassName();
     try
     {
@@ -45,7 +45,7 @@ public class DictionaryInit {
     TextField changegroup   = new TextField("");
     Label removelabel       = new Label("Remove this entry -->");
     TextField remove        = new TextField("");
-    Button exit             = new Button("Save and Exit");
+    Button exit             = new Button("Save and main menu");
     Button clear            = new Button("Clear");
     Label kb1;
 
@@ -69,7 +69,7 @@ public class DictionaryInit {
 
     int maxnumfound = 20;
     int[] foundarray = new int[maxnumfound];
-    
+
     int beingedited = -1;    // -1 means that the word pair is new
 
     if (WL.getLanguage(1).equals("German"))
@@ -80,7 +80,7 @@ public class DictionaryInit {
     {
     	kb1 = new Label("Press Alt-Left Shift for the Spanish keyboard, then ; for ñ, = for ¡, _ for ?, + for ¿, ' and a letter for é, í, ú, ó, á");
     }
-    else 
+    else
     {
     	kb1 = new Label("");
     }
@@ -133,7 +133,7 @@ public class DictionaryInit {
     row9.add(kb1);
 
     Container allRows = Box.createVerticalBox();
-    
+
     allRows.add(row1);
     allRows.add(row2);
     allRows.add(row3);
