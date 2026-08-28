@@ -1,21 +1,4 @@
-Starter.java and Launcher.java are the right places to start.
-
-On the Mac, the special characters cause trouble and so need to be removed.
-
-To compile:
-
-javac Magistra.java
-
-To create a .jar file with all classes in it:
-
-jar -cf magistra.jar *.class
-
-To run the Launcher class:
-
-jar -cp magistra.jar Launcher
-
-
-
+Compile and run, copy and paste these lines in /github/
 cd src
 javac *.java
 jar -cvfm magistra.jar manifest.txt *.class
@@ -25,4 +8,25 @@ move src\magistra.jar .
 java -jar magistra.jar
 
 
+
+Starter.java and Launcher.java are the right places to start.
+
+On the Mac, the special characters cause trouble and so need to be removed.
+
+To compile one file:
+javac Magistra.java
+
+To create a .jar file with all classes in it:
+jar -cf magistra.jar *.class
+
+To run the Launcher class:
+jar -cp magistra.jar Launcher
+
+
+
 diff C:/Users/zirbel/Dropbox/Magistra/pair_lists/Spanish.txt C:/Users/zirbel/Documents/GitHub/magistra/pair_lists/Spanish.txt
+
+
+On 2025-03-02, converted .java and .txt files from Windows 1252 encoding to UTF-8 encoding
+Python code convert_encoding.py
+
