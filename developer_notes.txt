@@ -1,3 +1,8 @@
+For the python version:
+Run the python version in the folder where you want to store your pair lists and progress files, which may not be a github folder.
+python311 ../GitHub/magistra/python/magistra.py
+
+For the java version:
 Compile and run, copy and paste these lines in /github/
 cd src
 javac *.java
@@ -6,8 +11,6 @@ cd ..
 del magistra.jar
 move src\magistra.jar .
 java -jar magistra.jar
-
-
 
 Starter.java and Launcher.java are the right places to start.
 
@@ -23,9 +26,11 @@ To run the Launcher class:
 jar -cp magistra.jar Launcher
 
 
+Managing pair lists on windows:
+
+A good way to edit a pair list manually is to open it in VS code, copy to a blank Excel sheet, then copy back.  That seems to work best with the UTF-8 encoding.
 
 diff C:/Users/zirbel/Dropbox/Magistra/pair_lists/Spanish.txt C:/Users/zirbel/Documents/GitHub/magistra/pair_lists/Spanish.txt
-
 
 On 2025-03-02, converted .java and .txt files from Windows 1252 encoding to UTF-8 encoding
 Python code convert_encoding.py
