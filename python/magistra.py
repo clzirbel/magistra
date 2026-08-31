@@ -9,8 +9,7 @@ from editor import EditorWindow, WordList
 
 
 DATA_DIR = "pair_lists"
-CONFIG_PATH = os.path.join(os.path.dirname(__file__), "magistra_config.json")
-
+CONFIG_PATH = "magistra_config.json"
 
 class MagistraApp(tk.Tk):
     def __init__(self):
@@ -201,13 +200,13 @@ class MagistraApp(tk.Tk):
             print("[magistra] loading WordList", path, flush=True)
             wl = WordList(path)
             # load user data (and per-user settings) if present
-            userdata_path = os.path.join(os.path.dirname(__file__), f"{name}-{language}.txt")
+            userdata_path = f"{name}-{language}.txt"
             try:
                 wl.incorporate_user_data_from_file(userdata_path)
             except Exception:
                 pass
-            print("[magistra] incorporating user data", flush=True)
-            print("[magistra] selecting all pairs", flush=True)
+            print("[magistra] incorporating user data from %s" % userdata_path, flush=True)
+            # print("[magistra] selecting all pairs", flush=True)
             wl.set_selected_all()
             print("[magistra] ordering pairs", flush=True)
             wl.set_order(start_group,percent)
