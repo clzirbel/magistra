@@ -422,17 +422,17 @@ class EditorWindow(tk.Toplevel):
 
         ttk.Label(frm, text=self.wl.get_language(0), font=self.text_font).grid(row=2, column=1, sticky=tk.W)
         self.base_var = tk.StringVar()
-        base_entry = ttk.Entry(frm, textvariable=self.base_var, font=self.text_font, width=60)
-        base_entry.grid(row=2, column=2, sticky=tk.EW)
-        self.base_var.trace_add('write', self._on_filter_changed)
-        base_entry.bind('<Return>', self._on_enter_update)
+        self.base_entry = ttk.Entry(frm, textvariable=self.base_var, font=self.text_font, width=60)
+        self.base_entry.grid(row=2, column=2, sticky=tk.EW)
+        self.base_var.trace_add('write', self._on_base_or_foreign_changed)
+        self.base_entry.bind('<Return>', self._on_enter_update)
 
         ttk.Label(frm, text=self.wl.get_language(1), font=self.text_font).grid(row=3, column=1, sticky=tk.W)
         self.foreign_var = tk.StringVar()
-        foreign_entry = ttk.Entry(frm, textvariable=self.foreign_var, font=self.text_font, width=60)
-        foreign_entry.grid(row=3, column=2, sticky=tk.EW)
-        self.foreign_var.trace_add('write', self._on_filter_changed)
-        foreign_entry.bind('<Return>', self._on_enter_update)
+        self.foreign_entry = ttk.Entry(frm, textvariable=self.foreign_var, font=self.text_font, width=60)
+        self.foreign_entry.grid(row=3, column=2, sticky=tk.EW)
+        self.foreign_var.trace_add('write', self._on_base_or_foreign_changed)
+        self.foreign_entry.bind('<Return>', self._on_enter_update)
 
         ttk.Label(frm, text='Group(s)', font=self.text_font).grid(row=4, column=1, sticky=tk.W)
         self.groups_var = tk.StringVar()
@@ -452,6 +452,11 @@ class EditorWindow(tk.Toplevel):
         # ensure we save geometry when user closes via window manager
         try:
             self.protocol('WM_DELETE_WINDOW', self._on_close)
+        except Exception:
+            pass
+        # keyboard shortcuts: Esc (and common macOS analogue) clears editor fields
+        try:
+            self.bind('<Escape>', self._on_escape_clear)
         except Exception:
             pass
 
@@ -635,6 +640,21 @@ class EditorWindow(tk.Toplevel):
             return
         self._activate_pair_selection(idx, pair_id)
 
+    def _on_base_or_foreign_changed(self, *args):
+        # When both text fields are filled and Group(s) is empty, reuse the most
+        # recently saved Group(s) value to speed up adding many pairs.
+        if not self._suspend_filter_update:
+            base_text = (self.base_var.get() or '').strip()
+            foreign_text = (self.foreign_var.get() or '').strip()
+            groups_text = (self.groups_var.get() or '').strip()
+            if base_text and foreign_text and (not groups_text) and self.last_group_value:
+                self._suspend_filter_update = True
+                try:
+                    self.groups_var.set(self.last_group_value)
+                finally:
+                    self._suspend_filter_update = False
+        self._on_filter_changed()
+
     def _on_filter_changed(self, *args):
         if self._suspend_filter_update:
             return
@@ -674,6 +694,16 @@ class EditorWindow(tk.Toplevel):
             if base_text and foreign_text and groups_text:
                 self._add_update(force_new=True)
                 self.enter_add_next = False
+            return 'break'
+
+        # if search/filter currently shows no pairs, Enter can create a new pair
+        if len(self.displayed_indices) == 0:
+            if base_text and foreign_text and groups_text:
+                self._add_update(force_new=True)
+        return 'break'
+
+    def _on_escape_clear(self, event=None):
+        self._clear_fields()
         return 'break'
 
     def _add_update(self, force_new=False):
@@ -739,6 +769,10 @@ class EditorWindow(tk.Toplevel):
             self._suspend_filter_update = False
         self.saved_filter_values = {'base': '', 'foreign': '', 'groups': ''}
         self._load_list(keep_pair_id=False)
+        try:
+            self.base_entry.focus_set()
+        except Exception:
+            pass
 
     def _new_pair(self):
         self._capture_filter_values_before_pair_selection()
