@@ -369,7 +369,7 @@ English	Spanish
 1347	sister	la hermana	8
 1350	friend	el amigo	8
 1354	excellent	excelente	8
-1355	gentleman	el señor	8
+1355	gentleman	el caballero; el señor	8
 1360	pretty	lindo; bonito	8
 1362	old	viejo	8
 1363	new	nuevo	8
@@ -1090,15 +1090,62 @@ English	Spanish
 437	dog	el perro	25
 439	duck	el pato	25
 440	giraffe	la jirafa	25
-441	goat	la chiva	25
+441	goat	la cabra	25
 449	lion	el león	25
-466	zebra	la zebra	25
-911	wing	la ala	25
+466	zebra	la cebra	25
+911	wing	el ala f.	25
 973	mare	la yegua	25
-974	marten, like a weasel	la garduña	25
+974	marten	la garduña	25
 1061	lamb	el cordero	25
 1100	turkey	el pavo	25
 1975	animal	el animal	25
+2010	bat	el murciélago	25
+2011	ant	la hormiga	25
+2012	bear	el oso	25
+2013	bee	la abeja	25
+2014	bird	el pájaro	25
+2015	butterfly	la mariposa	25
+2016	chicken	la gallina	25
+2017	deer	el ciervo	25
+2018	donkey	el burro	25
+2019	elephant	el elefante	25
+2020	fish	el pez	25
+2021	fox	el zorro	25
+2022	frog	la rana	25
+2023	horse	el caballo	25
+2024	kangaroo	el canguro	25
+2025	mouse	el ratón	25
+2026	monkey	el mono	25
+2027	mosquito	el mosquito	25
+2028	pig	el cerdo	25
+2029	rabbit	el conejo	25
+2030	rat	la rata	25
+2031	sheep	la oveja	25
+2032	snake	la serpiente	25
+2033	spider	la araña	25
+2034	squirrel	la ardilla	25
+2035	tiger	el tigre	25
+2036	wolf	el lobo	25
+2037	chicken/rooster	el gallo	25
+2038	owl	el búho	25
+2039	eagle	el águila	25
+2040	hawk	el halcón	25
+2041	parrot	el loro	25
+2042	penguin	el pingüino	25
+2043	rhinoceros	el rinoceronte	25
+2044	hippopotamus	el hipopótamo	25
+2045	gorilla	el gorila	25
+2046	leopard	el leopardo	25
+2047	cheetah	el guepardo	25
+2048	camel	el camello	25
+2049	crocodile	el cocodrilo	25
+2050	alligator	el caimán	25
+2051	turtle	la tortuga	25
+2052	lizard	el lagarto	25
+2053	bat	el murciélago	25
+2054	whale	la ballena	25
+2055	dolphin	el delfín	25
+2056	shark	el tiburón	25
 427	to doubt	dudar	26
 428	to interest	interesar	26
 429	to take out	sacar	26
@@ -1769,3 +1816,76 @@ English	Spanish
 1755	consultation	la consulta	40
 1756	court	el tribunal; la corte	40
 1757	courtroom	la sala de tribunal	40
+2057	magic	la magia	52
+2058	witchcraft	la brujería	52
+2059	wizardry; sorcery	la hechicería	52
+2060	spell	el hechizo; el conjuro	52
+2061	to enchant; to cast a spell on	hechizar	52
+2062	enchantment; charm	el encantamiento	52
+2063	to enchant	encantar	52
+2064	curse	la maldición	52
+2065	to curse	maldecir	52
+2066	potion	la poción	52
+2067	cauldron	el caldero	52
+2068	magic wand	la varita mágica	52
+2069	wizard; male magician	el mago; el brujo	52
+2070	witch	la bruja	52
+2071	sorcerer	el hechicero	52
+2072	sorceress	la hechicera	52
+2073	to conjure; to cast a spell	conjurar	52
+2074	divination	la adivinación	52
+2075	transformation	la transformación	52
+2076	to transform	transformar	52
+2077	school	el colegio	52
+2078	castle	el castillo	52
+2079	tower	la torre	52
+2080	dungeon	la mazmorra	52
+2081	basement	el sótano	52
+2082	corridor; hallway	el pasillo	52
+2083	staircase	la escalera	52
+2084	classroom	el aula	52
+2085	dormitory	el dormitorio	52
+2086	dining hall	el comedor	52
+2087	office; study	el despacho	52
+2088	headmaster m.	el director	52
+2089	student; pupil	el alumno	52
+2090	subject; class	la asignatura	52
+2091	lesson	la lección	52
+2092	homework	los deberes	52
+2093	exam	el examen	52
+2094	textbook	el libro de texto	52
+2095	creature	la criatura	52
+2096	monster	el monstruo	52
+2097	ghost	el fantasma	52
+2098	goblin	el duende	52
+2099	house-elf	el elfo doméstico	52
+2100	snake	la serpiente	52
+2101	spider	la araña	52
+2102	giant spider	la araña gigante	52
+2103	owl	el búho	52
+2104	barn owl	la lechuza	52
+2105	rat	la rata	52
+2106	mandrake	la mandrágora	52
+2107	plant	la planta	52
+2108	root	la raíz	52
+2109	to cast a spell	lanzar un hechizo	52
+2110	to do magic	hacer magia	52
+2111	to use magic	usar magia	52
+2112	to disappear	desaparecer	52
+2113	to appear	aparecer	52
+2114	to turn; to convert	convertir	52
+2115	to protect	proteger	52
+2116	to attack	atacar	52
+2117	to escape	escapar	52
+2118	to chase	perseguir	52
+2119	to hide	esconderse	52
+2120	to happen	suceder; pasar	52
+2121	to remember	recordar	52
+2123	to warn	advertir	52
+2124	to warn; to let someone know	avisar	52
+2125	to trust	confiar en	52
+2126	to be afraid	tener miedo	52
+2127	to frighten	asustar	52
+2128	to get scared	asustarse	52
+2129	thick	grueso	52
+2130	to forget	olvidar	11
