@@ -426,6 +426,8 @@ class EditorWindow(tk.Toplevel):
         self.base_entry.grid(row=2, column=2, sticky=tk.EW)
         self.base_var.trace_add('write', self._on_base_or_foreign_changed)
         self.base_entry.bind('<Return>', self._on_enter_update)
+        self.base_entry.bind('<Control-Return>', self._on_ctrl_enter_add_clear)
+        self.base_entry.bind('<Command-Return>', self._on_ctrl_enter_add_clear)
 
         ttk.Label(frm, text=self.wl.get_language(1), font=self.text_font).grid(row=3, column=1, sticky=tk.W)
         self.foreign_var = tk.StringVar()
@@ -433,6 +435,8 @@ class EditorWindow(tk.Toplevel):
         self.foreign_entry.grid(row=3, column=2, sticky=tk.EW)
         self.foreign_var.trace_add('write', self._on_base_or_foreign_changed)
         self.foreign_entry.bind('<Return>', self._on_enter_update)
+        self.foreign_entry.bind('<Control-Return>', self._on_ctrl_enter_add_clear)
+        self.foreign_entry.bind('<Command-Return>', self._on_ctrl_enter_add_clear)
 
         ttk.Label(frm, text='Group(s)', font=self.text_font).grid(row=4, column=1, sticky=tk.W)
         self.groups_var = tk.StringVar()
@@ -440,6 +444,8 @@ class EditorWindow(tk.Toplevel):
         groups_entry.grid(row=4, column=2, sticky=tk.EW)
         self.groups_var.trace_add('write', self._on_filter_changed)
         groups_entry.bind('<Return>', self._on_enter_update)
+        groups_entry.bind('<Control-Return>', self._on_ctrl_enter_add_clear)
+        groups_entry.bind('<Command-Return>', self._on_ctrl_enter_add_clear)
 
         ttk.Button(frm, text='Add/Update', command=self._add_update).grid(row=5, column=2, sticky=tk.W)
         ttk.Button(frm, text='Remove', command=self._remove).grid(row=5, column=2, sticky=tk.E)
@@ -703,6 +709,22 @@ class EditorWindow(tk.Toplevel):
         return 'break'
 
     def _on_escape_clear(self, event=None):
+        self._clear_fields()
+        return 'break'
+
+    def _on_ctrl_enter_add_clear(self, event=None):
+        # Quick-add for new pair entry: add with next index, then clear and refocus.
+        # Do not use this path while an existing Pair ID is selected for editing.
+        if self.pair_id_populated and self.current_selected_idx is not None:
+            return 'break'
+
+        base_text = (self.base_var.get() or '').strip()
+        foreign_text = (self.foreign_var.get() or '').strip()
+        groups_text = (self.groups_var.get() or '').strip()
+        if not (base_text and foreign_text and groups_text):
+            return 'break'
+
+        self._add_update(force_new=True)
         self._clear_fields()
         return 'break'
 
