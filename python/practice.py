@@ -49,42 +49,31 @@ def _evaluate_known(pair_data,mode):
         else:
             return 0
 
-def get_best_match(raw, L, text):
+def get_best_match(candidates, answer):
     """
     Return (best_candidate, prefix_len, exact_match).
     Chooses the candidate with the longest case-insensitive matching prefix
     with the user's `text`. Exact matches (case-sensitive or -insensitive)
     are reported as exact_match=True with prefix_len equal to full length.
     """
-    candidates = [s.strip() for s in raw.split(';')]
-    a = (text or '').strip()
+    a = (answer or '').strip()
     if not candidates:
-        return ('', 0, False)
-    # check exact matches first
+        return ('', 0)
+    # check for exact matches first
     for c in candidates:
         if a == c:
-            return (c, len(c), True)
-    al = a.lower()
-    for c in candidates:
-        if c.lower() == al:
-            return (c, len(c), True)
-    # find candidate with longest prefix match (case-insensitive)
+            return (c, len(c))
+    # find candidate with longest prefix match
     best = candidates[0]
     best_len = 0
     for c in candidates:
         i = 0
-        cl = c.lower()
-        while i < len(al) and i < len(cl) and al[i] == cl[i]:
+        while i < len(a) and i < len(c) and a[i] == c[i]:
             i += 1
         if i > best_len:
-            best_len = i
             best = c
-    return (best, best_len, False)
-
-def portion_correct(raw, L, text):
-    best, n, exact = get_best_match(raw, L, text)
-    # return prefix (correct part) and remainder separated by arrow for debugging
-    return best[:n] + ' -> ' + text[n:]
+            best_len = i
+    return (best, best_len)
 
 class PracticeDialog(tk.Toplevel):
     def __init__(self, master, wordlist, font_size=None, initial_geometry=None, mode=None):
@@ -269,6 +258,12 @@ class PracticeDialog(tk.Toplevel):
         wp = self.wl.get_selected_pair(self.index)
         self.current_wp = wp
 
+        # reset feedback color for each new pair
+        try:
+            self.result_prefix.config(foreground='black')
+        except Exception:
+            pass
+
         # show base word when direction==0, otherwise show foreign
         if self.direction == 0:
             self.word_lbl.config(text=wp.base)
@@ -450,43 +445,6 @@ class PracticeDialog(tk.Toplevel):
                         wp.modify_pair_data('+')
                         wp.set_first_result('+')
 
-            # diagnostic printing
-            # try:
-            #     print(wp.idx, (wp.user_data or ''), basic_ok, exact_ok, flush=True)
-            # except Exception:
-            #     pass
-
-            # user history for the pair just finished does not need to be updated; next pair will be shown
-            # clear result and update history display
-            # self._set_result_text("")
-            # self.awaiting_second_try = False
-            # user_history = (wp.user_data or "")
-            # if len(user_history) > 1 and wp.first_result != '?' and user_history.endswith(wp.first_result):
-            #     cleaned_history = user_history[:-1][-40:]
-            # else:
-            #     cleaned_history = user_history[-40:]
-            #     try:
-            #         if getattr(self, 'mode', None) == 'Exact':
-            #             disp = cleaned_history.replace('#', '+').replace('_', '-').replace('=', '-')
-            #         else:
-            #             disp = cleaned_history.replace('#', '+').replace('&', '+').replace('_', '-').replace('=', '-')
-            #         self.history_val.config(text=disp)
-            #     except Exception:
-            #         pass
-
-            # known count will be updated when the next word pair is presented, no need to do it here
-            # re-compute and update known count
-            # try:
-            #     self._update_known_display()
-            # except Exception:
-            #     try:
-            #         self._update_known_display()
-            #     except Exception:
-            #         try:
-            #             self.known_val.config(text=str(self.wl.get_num_known()))
-            #         except Exception:
-            #             pass
-
             # save the user history after each correct answer even though it's overkill
             try:
                 self.wl.write_user_data()
@@ -538,47 +496,25 @@ class PracticeDialog(tk.Toplevel):
 
         # incorrect answer: compute best match and show feedback
         # choose candidate with longest normalized prefix match
+        # find best exact match
+        best_candidate, i = get_best_match(candidates, answer)
+        print('exact match',best_candidate,i)
+        correct_prefix = best_candidate[:i]
+        incorrect_part = answer[i:]
 
-        # For Basic mode, compute original-character prefix length matching under normalization
+        # in Basic mode, also compute best simplified match
         if mode == 'Basic':
-            def orig_norm_prefix_len(orig, user):
-                maxk = min(len(orig), len(user))
-                k = 0
-                for j in range(maxk):
-                    if _normalize_text(orig[:j+1]) == _normalize_text(user[:j+1]):
-                        k = j+1
-                    else:
-                        break
-                return k
+            norm_candidates = [_normalize_text(c) for c in candidates]
+            best_basic_candidate, basic_i = get_best_match(norm_candidates, norm_answer)
+            print('basic match',best_basic_candidate,basic_i)
+            if basic_i > i:
+                # basic match is longer than exact match
+                correct_prefix = best_basic_candidate[:basic_i]
+                incorrect_part = norm_answer[basic_i:]
 
-            norm_candidates = [(c, _normalize_text(c)) for c in candidates]
-            best_c = candidates[0]
-            best_norm = norm_candidates[0][1]
-            best_len = 0
-            for orig, nc in norm_candidates:
-                # compute normalized common prefix length
-                i = 0
-                while i < len(nc) and i < len(norm_answer) and nc[i] == norm_answer[i]:
-                    i += 1
-                if i > best_len:
-                    best_len = i
-                    best_c = orig
-                    best_norm = nc
-
-            k = orig_norm_prefix_len(best_c, answer)
-            correct_prefix = best_c[:k]
-            if len(answer) > 0 and len(_normalize_text(answer)) < len(_normalize_text(best_c)) and _normalize_text(best_c).startswith(_normalize_text(answer)):
-                incorrect_part = '---'
-            else:
-                incorrect_part = answer[k:]
-        else:
-            # Use the original get_best_match for Exact-like feedback
-            best_candidate, i, exact = get_best_match(target, 1 - self.direction, answer)
-            correct_prefix = best_candidate[:i]
-            incorrect_part = answer[i:]
-            if len(answer) > 0 and len(answer) < len(best_candidate) and best_candidate.lower().startswith(answer.lower()):
-                correct_prefix = answer
-                incorrect_part = '---'
+        # if they started right but need more characters, indicate that
+        if len(answer) > 0 and len(incorrect_part) == 0:
+            incorrect_part = '---'
 
         # record what parts were right and wrong, _build will color them
         self._set_result_text((correct_prefix, incorrect_part))
