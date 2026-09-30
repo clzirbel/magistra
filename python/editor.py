@@ -1,7 +1,23 @@
 import os
 import tkinter as tk
 import tkinter.font as tkfont
+import unicodedata
 from tkinter import ttk, messagebox
+
+
+def _normalize_filter_text(s: str) -> str:
+    if s is None:
+        return ''
+    # keep punctuation; normalize case and accents only
+    t = s.lower().strip()
+    # map common ligatures/special letters before decomposition
+    t = t.replace('ß', 'ss').replace('æ', 'ae').replace('œ', 'oe')
+    t = t.replace('Æ', 'ae').replace('Œ', 'oe').replace('ø', 'o').replace('Ø', 'o')
+    t = t.replace('ł', 'l').replace('Ł', 'l')
+    # decompose accents and remove combining marks
+    t = unicodedata.normalize('NFKD', t)
+    t = ''.join(ch for ch in t if unicodedata.category(ch) != 'Mn')
+    return t
 
 
 class WordPair:
@@ -467,9 +483,11 @@ class EditorWindow(tk.Toplevel):
             pass
 
     def _matches_filters(self, wp, base_filter, foreign_filter, group_filter):
-        if base_filter and base_filter not in (wp.base or '').lower():
+        base_text = _normalize_filter_text(wp.base or '')
+        foreign_text = _normalize_filter_text(wp.foreign or '')
+        if base_filter and base_filter not in base_text:
             return False
-        if foreign_filter and foreign_filter not in (wp.foreign or '').lower():
+        if foreign_filter and foreign_filter not in foreign_text:
             return False
         if group_filter is not None:
             try:
@@ -491,8 +509,8 @@ class EditorWindow(tk.Toplevel):
             foreign_source = self.foreign_var.get() or ''
             groups_source = self.groups_var.get() or ''
 
-        base_filter = base_source.strip().lower()
-        foreign_filter = foreign_source.strip().lower()
+        base_filter = _normalize_filter_text(base_source)
+        foreign_filter = _normalize_filter_text(foreign_source)
         groups_text = groups_source.strip()
         group_filter = None
         if groups_text:
