@@ -498,7 +498,7 @@ class PracticeDialog(tk.Toplevel):
         # choose candidate with longest normalized prefix match
         # find best exact match
         best_candidate, i = get_best_match(candidates, answer)
-        print('exact match',best_candidate,i)
+        # print('exact match',best_candidate,i)
         correct_prefix = best_candidate[:i]
         incorrect_part = answer[i:]
 
